@@ -1,0 +1,30 @@
+---
+title: "Resources"
+---
+
+
+## Project deliverables
+
+[project deliverables in preparation]
+
+## Other projects and initiatives
+
+
+
+**COAR International Repositories Directory (IRD)**
+
+[IRD](https://ird.coar-repositories.org/?lang=en). The International Repositories Directoy (IRD) provides information about the current repository landscape.
+
+**Swiss Open Access Monitor**
+
+[Swiss Open Access Monitor](https://oamonitor.ch/). The Swiss Open Access Monitor is a tool to monitor the progress of the implementation of Open Access at the national level in Switzerland. It contains a Journal Monitor based on OpenAlex and other data sources, as well as a Repository Monitor based on the publication lists delivered by participating institutions.
+
+**Swiss Open Academic Data (SOAD)**
+
+[SOAD Website](soad.ch). The Swiss Open Academic Data (SOAD) community gathers researchers and practitioners around open academic data in Switzerland.
+
+**Swiss Year of Scientometrics (SYoS)**
+
+[SYoS Blog](https://yearofscientometrics.ethz.ch/). Swiss Year of Scientometrics (SYoS) is a series of Lectures and Workshops organized by the ETH Library to promote responsible research assessment in Switzerland.
+
+

@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+// color pallettes:
+// https://colorhunt.co/palette/5391653f497ff7c04af8f5e4
+// https://colorhunt.co/palette/f97b22fee8b09ca7777c9070
+// https://colorhunt.co/palette/55587998a1bcded3c4f4ebd3
+
+
+
+/*-- scss:defaults --*/
+$h2-font-size:          1.6rem !default;
+$h3-font-size:          1.2rem !default;
+
+
+/*-- scss:rules --*/
+
+header {
+    font-weight: 600;
+}
+
+a {
+    text-decoration: underline;
+    text-decoration-color: $strong-highlight;
+    text-decoration-skip-ink: none;
+    color: $body-color;
+}
+
+a:hover {
+    color: $strong-highlight;
+    // font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 0rem;
+    padding-top: 2rem;
+    margin-bottom: 2rem !important;
+    text-decoration: underline;
+    text-decoration-color: $strong-highlight;
+    text-decoration-thickness: 0.15lh;
+    text-underline-offset: -0.05lh;
+    text-decoration-skip-ink: none;
+
+}
+
+h2 {
+    padding-top: 1rem;
+    border-color: $strong-highlight;
+}
+
+.footer {
+    font-size: smaller;
+}
+
+#quarto-document-content {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+
+
+#main_title {
+    /* width: 100%; */
+    text-align: center;
+    /* margin: auto; */
+    margin-top: 0;
+    padding-top: 1lh; 
+    padding-bottom: 1lh; 
+    background-color: $light-highlight !important;
+
+}
+
+#main_title h1 {
+    font-weight: 750 !important;
+}
+
+#logos {
+    width: 100%;    
+    display: flex;
+    align-items: center;
+    padding: 1lh;
+    flex-wrap: wrap;
+}
+
+#logos .logo{
+    flex-grow: 1;
+    text-align: center;
+}

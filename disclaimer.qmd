@@ -1,0 +1,9 @@
+---
+title: Legal notice 
+toc: false
+--- 
+
+ETH Library's and ETH Zurich's legal notices are in effect:  
+
+- [Disclaimer & copyright](https://library.ethz.ch/en/footer/disclaimer-copyright.html)  
+- [Data protection](https://ethz.ch/en/footer/data-protection.html)
