@@ -29,14 +29,14 @@ The project is divided in four tracks accompanied by a unified outcome providing
 
 ## Conceptual requirements
 ### Track 1: Responsible use of quantitative indicators
-*Reponsible partners: ZHAW Zurich University of Applied Sciences, ETH Zurich, University of Zurich (CHESS)*
+*Responsible partners: ZHAW Zurich University of Applied Sciences, ETH Zurich, University of Zurich (CHESS)*
 
 This track aims at promoting the responsible use of indicators for research assessment on the basis of the national approach (track 2) and standardized repositories (tracks 3-4).
 In particular, with the responsible use of quantitative indicators we seek a way that is compliant with the Declaration on Research Assessment (DORA) and the Coalition for Advancing Research Assessment (CoARA), and that takes into account current international trends in open science. Our work should help to prioritize standardization of metadata in repositories. We will involve participants of Swiss Year of Scientometrics (SYoS). SYoS brought together a community of experts from different organisations and at different levels to discuss research assessments, bibliometric methods and open science practices. An active participation of the Center for Higher Education and Science Studies (CHESS) is planned as well. We will also try to reach out to the CoARA Working group on Responsible Metrics and Indicators (RMI) to further strengthen connections with CoARA.
 
 
 ### Track 2: Review of national approaches and development of scenarios for Switzerland
-*Reponsible partners: University of Zurich, ETH Zurich*
+*Responsible partners: University of Zurich, ETH Zurich*
 
 This track will start with a structured, collaborative workshop format, inviting experts from countries with similar but also different frameworks to share insights and experiences. The workshop will facilitate a comparative analysis of national strategies. The focus will be on key governmental and institutional stakeholders, funding mechanisms, sustainability models, cost-effectiveness and technical solutions (e.g. federated vs. centralised systems). The findings will be reviewed to identify gaps and challenges specific to Switzerland.
 Then, engaging key national stakeholders will be essential to identify requirements, expectations, and challenges through consultations including roundtables and white papers. Based on these insights, a well-founded proposal drafted and refined in collaboration with all relevant stakeholders to ensure its feasibility and long-term success. Moreover, the introduction of a secondary publication right will be taken into account.
@@ -68,7 +68,7 @@ The workshop and the virtual session will also determine the selection of measur
 
 
 ### Unified outcome: Creation of a working group
-*Reponsible partners: ETH Zurich, EPFL, ZHAW Zurich University of Applied Sciences, University of Zurich*
+*Responsible partners: ETH Zurich, EPFL, ZHAW Zurich University of Applied Sciences, University of Zurich*
 
 This unified outcome aims to establish a working group that will make advancements towards more interoperability and standardization across institutional repositories in Switzerland.
 Using the preliminary findings of the conceptual requirements identified by the tracks *responsible use of quantitative indicators* and *review of national approaches and development of scenarios for Switzerland* as well as the technical recommendations of the tracks *survey and analysis of Swiss institutional repositories* and *enhancement of national and global academic data*, project participants will define the status of the working group, its organizational form, criteria of representativity, as well as goals, strategy, and actions to enhance the visibility of Swiss research results and to ensure smooth data dissemination.
