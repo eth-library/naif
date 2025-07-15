@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.310">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>NAIF - About</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<style>html{ scroll-behavior: smooth; }</style>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">NAIF</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html" rel="" target="">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./news.html" rel="" target="">
+ <span class="menu-text">News</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./about.html" rel="" target="" aria-current="page">
+ <span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./team.html" rel="" target="">
+ <span class="menu-text">Team</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./resources.html" rel="" target="">
+ <span class="menu-text">Resources</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./contact.html" rel="" target="">
+ <span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active" data-toc-expanded="99">
+   
+  <ul>
+  <li><a href="#project-description" id="toc-project-description" class="nav-link active" data-scroll-target="#project-description">Project description</a></li>
+  <li><a href="#conceptual-requirements" id="toc-conceptual-requirements" class="nav-link" data-scroll-target="#conceptual-requirements">Conceptual requirements</a>
+  <ul class="collapse">
+  <li><a href="#track-1-responsible-use-of-quantitative-indicators" id="toc-track-1-responsible-use-of-quantitative-indicators" class="nav-link" data-scroll-target="#track-1-responsible-use-of-quantitative-indicators">Track 1: Responsible use of quantitative indicators</a></li>
+  <li><a href="#track-2-review-of-national-approaches-and-development-of-scenarios-for-switzerland" id="toc-track-2-review-of-national-approaches-and-development-of-scenarios-for-switzerland" class="nav-link" data-scroll-target="#track-2-review-of-national-approaches-and-development-of-scenarios-for-switzerland">Track 2: Review of national approaches and development of scenarios for Switzerland</a></li>
+  </ul></li>
+  <li><a href="#technical-requirements" id="toc-technical-requirements" class="nav-link" data-scroll-target="#technical-requirements">Technical requirements</a>
+  <ul class="collapse">
+  <li><a href="#track-3-survey-and-analysis-of-swiss-institutional-repositories" id="toc-track-3-survey-and-analysis-of-swiss-institutional-repositories" class="nav-link" data-scroll-target="#track-3-survey-and-analysis-of-swiss-institutional-repositories">Track 3: Survey and analysis of Swiss institutional repositories</a></li>
+  <li><a href="#track-4-enhancement-of-national-and-global-academic-data" id="toc-track-4-enhancement-of-national-and-global-academic-data" class="nav-link" data-scroll-target="#track-4-enhancement-of-national-and-global-academic-data">Track 4: Enhancement of national and global academic data</a></li>
+  <li><a href="#unified-outcome-creation-of-a-working-group" id="toc-unified-outcome-creation-of-a-working-group" class="nav-link" data-scroll-target="#unified-outcome-creation-of-a-working-group">Unified outcome: Creation of a working group</a></li>
+  </ul></li>
+  <li><a href="#open-peer-review" id="toc-open-peer-review" class="nav-link" data-scroll-target="#open-peer-review">Open peer review</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">About</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<!-- ## Plain language description  -->
+<p>National Approach for Interoperable repositories and Findable research results (NAIF) is a project initiated and funded by eight Swiss Higher Education Institutions (1) and co-funded by swissuniversities. The project aims to enable more interoperability and standardization across Swiss institutional repositories. The project has started in July 2025 and will end in July 2026.</p>
+<p>(1) The project partners are: ETH Library (ETH Zurich), University of Zurich, École Polytechnique Fédérale de Lausanne (EPFL), Zurich University of Applied Sciences (ZHAW), St.Gallen University of Teacher Education (PHSG), University of Fribourg, University of Neuchâtel and University of St.Gallen.</p>
+<section id="project-description" class="level2">
+<h2 data-anchor-id="project-description">Project description</h2>
+<p>Compared to other countries, Switzerland lacks a systematic overview of the output (e.g., scientific publications) produced by researchers at Swiss Higher Education Institutions (HEIs). Most institutions have their own repositories in which a large number of their publications are listed. However, these repositories differ in coverage of the institutional research outputs and completeness of metadata for the available publications. An Open Access (OA) monitor has been implemented in Switzerland, which provides a rough overview of the distribution of OA publications, amongst other things. While the implementation of this monitor was a step in the right direction, it does not allow standardized data analysis beyond answering simple questions. In sum, little information and data are available on research conducted at Swiss HEIs, with the consequence that Swiss research is less visible and Swiss policymakers still rely on traditional university rankings and external data providers for monitoring and steering, rather than consulting standardized, high-quality information provided by local HEIs. The project aims (1) to make research outputs by researchers at Swiss HEIs more visible, and (2) to optimize the data basis for monitoring and steering Swiss research in general and OA publications in particular. To achieve these overarching goals, the project will work towards more standardization and interoperability across repositories in Swiss HEIs and develop scenarios for a national approach to disseminate and reuse Swiss research results. In addition, the project aims (3) to promote the responsible use of indicators for research assessment on the basis of the national approach and standardized repositories.</p>
+<p>The project aims to create a basis for a national approach that considers both conceptual requirements and technical requirements. The project is divided in four tracks accompanied by a unified outcome providing a foundation for a national approach that is aligned with current trends in research assessment and open science practices, and a thorough understanding of the key factors that ensure the dissemination (i.e., integration of national output in global ecosystems) and findability (i.e., high-quality metadata) of the research outputs deposited in Swiss institutional repositories.</p>
+</section>
+<section id="conceptual-requirements" class="level2">
+<h2 data-anchor-id="conceptual-requirements">Conceptual requirements</h2>
+<section id="track-1-responsible-use-of-quantitative-indicators" class="level3">
+<h3 data-anchor-id="track-1-responsible-use-of-quantitative-indicators">Track 1: Responsible use of quantitative indicators</h3>
+<p><em>Reponsible partners: ZHAW Zurich University of Applied Sciences, ETH Zurich, University of Zurich (CHESS)</em></p>
+<p>This track aims at promoting the responsible use of indicators for research assessment on the basis of the national approach (track 2) and standardized repositories (tracks 3-4). In particular, with the responsible use of quantitative indicators we seek a way that is compliant with the Declaration on Research Assessment (DORA) and the Coalition for Advancing Research Assessment (CoARA), and that takes into account current international trends in open science. Our work should help to prioritize standardization of metadata in repositories. We will involve participants of Swiss Year of Scientometrics (SYoS). SYoS brought together a community of experts from different organisations and at different levels to discuss research assessments, bibliometric methods and open science practices. An active participation of the Center for Higher Education and Science Studies (CHESS) is planned as well. We will also try to reach out to the CoARA Working group on Responsible Metrics and Indicators (RMI) to further strengthen connections with CoARA.</p>
+</section>
+<section id="track-2-review-of-national-approaches-and-development-of-scenarios-for-switzerland" class="level3">
+<h3 data-anchor-id="track-2-review-of-national-approaches-and-development-of-scenarios-for-switzerland">Track 2: Review of national approaches and development of scenarios for Switzerland</h3>
+<p><em>Reponsible partners: University of Zurich, ETH Zurich</em></p>
+<p>This track will start with a structured, collaborative workshop format, inviting experts from countries with similar but also different frameworks to share insights and experiences. The workshop will facilitate a comparative analysis of national strategies. The focus will be on key governmental and institutional stakeholders, funding mechanisms, sustainability models, cost-effectiveness and technical solutions (e.g.&nbsp;federated vs.&nbsp;centralised systems). The findings will be reviewed to identify gaps and challenges specific to Switzerland. Then, engaging key national stakeholders will be essential to identify requirements, expectations, and challenges through consultations including roundtables and white papers. Based on these insights, a well-founded proposal drafted and refined in collaboration with all relevant stakeholders to ensure its feasibility and long-term success. Moreover, the introduction of a secondary publication right will be taken into account.</p>
+</section>
+</section>
+<section id="technical-requirements" class="level2">
+<h2 data-anchor-id="technical-requirements">Technical requirements</h2>
+<section id="track-3-survey-and-analysis-of-swiss-institutional-repositories" class="level3">
+<h3 data-anchor-id="track-3-survey-and-analysis-of-swiss-institutional-repositories">Track 3: Survey and analysis of Swiss institutional repositories</h3>
+<p><em>Responsible partners: ETH Zurich, EPFL</em></p>
+<p>This track focuses on the existing institutional repositories. The starting point will be a list of institutional repositories from <a href="https://www.swissuniversities.ch/en/topics/studying/accredited-swiss-higher-education-institutions-1">institutions that are accredited by swissuniversities</a>. Such an inventory aims to provide an in-depth analysis of repositories, and can be seen as a systematic extension of the broad overview given through the list of participating institutions in the <a href="https://oamonitor.ch/wiki/participating-institutions-repo-monitor/">Swiss Open Access Monitor</a>. Part of these repositories will be investigated in terms of (a) already implemented standards and certifications (e.g., OpenAIRE guidelines, CoreTrustSeal) as well as repository software currently in use, (b) metadata availability, quality, and completeness, evaluating their alignment with international best practices (e.g., OpenAIRE, Dublin Core, DataCite), (c) technical requirements identifying existing barriers to seamless data exchange and integration. Because of the heterogeneity of the current landscape and the number of institutions (50+), some parts of the inventory may focus on a subset of institutions whose selection will partly depend on institutions’ willingness to participate. Once the inventory has been completed, a report featuring the results of the gap analysis will be prepared. The report will help to determine common denominators among institutional repositories to assess the feasibility of metadata harmonization. It may also provide feasible recommendations to enhance alignment with national and international frameworks (e.g., OpenAIRE guidelines), help building a shared and standardized metadata framework that takes the characteristics of Switzerland into account.</p>
+</section>
+<section id="track-4-enhancement-of-national-and-global-academic-data" class="level3">
+<h3 data-anchor-id="track-4-enhancement-of-national-and-global-academic-data">Track 4: Enhancement of national and global academic data</h3>
+<p><em>Responsible partners: ETH Zurich, EPFL</em></p>
+<p>This track focuses on data that have already been, or that will be, integrated into institutional repositories, but that are sourced elsewhere, such as identifiers for Swiss organizations (e.g., ROR), researchers active in Switzerland (e.g., ORCID), funding information for Swiss projects. A workshop and a virtual session will gather stakeholders to determine which academic data are relevant, and which measures or actions could be taken to improve their findability or their quality. The workshop and the virtual session will also determine the selection of measures or actions that will be implemented. These translate into deliverables that could consist in guidelines or in concrete actions such as the establishment of a mapping of Swiss organizations or an authoritative list of researchers active in the country.</p>
+</section>
+<section id="unified-outcome-creation-of-a-working-group" class="level3">
+<h3 data-anchor-id="unified-outcome-creation-of-a-working-group">Unified outcome: Creation of a working group</h3>
+<p><em>Reponsible partners: ETH Zurich, EPFL, ZHAW Zurich University of Applied Sciences, University of Zurich</em></p>
+<p>This unified outcome aims to establish a working group that will make advancements towards more interoperability and standardization across institutional repositories in Switzerland. Using the preliminary findings of the conceptual requirements identified by the tracks <em>responsible use of quantitative indicators</em> and <em>review of national approaches and development of scenarios for Switzerland</em> as well as the technical recommendations of the tracks <em>survey and analysis of Swiss institutional repositories</em> and <em>enhancement of national and global academic data</em>, project participants will define the status of the working group, its organizational form, criteria of representativity, as well as goals, strategy, and actions to enhance the visibility of Swiss research results and to ensure smooth data dissemination.</p>
+</section>
+</section>
+<section id="open-peer-review" class="level2">
+<h2 data-anchor-id="open-peer-review">Open peer review</h2>
+<p>The abstract and the review of the NAIF project proposal will be made available on the <a href="https://www.swissuniversities.ch/en/topics/open-science/open-science-programme">swissuniversities website</a>.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp("https:\/\/eth-library\.github\.io\/naif\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          // default icon
+          link.classList.add("external");
+      }
+    }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+ © ETH Library · Powered by Quarto
+  </li>  
+</ul>
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="./disclaimer.html">Disclaimer</a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>
