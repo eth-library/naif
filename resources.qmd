@@ -21,7 +21,7 @@ title: "Resources"
 
 **Swiss Open Academic Data (SOAD)**
 
-[SOAD Website](soad.ch). The Swiss Open Academic Data (SOAD) community gathers researchers and practitioners around open academic data in Switzerland.
+[SOAD Website](https://soad.ch). The Swiss Open Academic Data (SOAD) community gathers researchers and practitioners around open academic data in Switzerland.
 
 **Swiss Year of Scientometrics (SYoS)**
 
