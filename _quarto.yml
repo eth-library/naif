@@ -35,6 +35,7 @@ format:
     link-external-newwindow: true
     footnotes-hover: true
     anchor-sections: false
+    include-after-body: traffic.html
     email-obfuscation: references
 
 
