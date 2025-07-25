@@ -63,7 +63,7 @@ It may also provide feasible recommendations to enhance alignment with national 
 ### Track 4: Enhancement of national and global academic data
 *Responsible partners: ETH Zurich, EPFL*
 
-This track focuses on data that have already been, or that will be, integrated into institutional repositories, but that are sourced elsewhere, such as identifiers for Swiss organizations (e.g., ROR), researchers active in Switzerland (e.g., ORCID), funding information for Swiss projects. A workshop and a virtual session will gather stakeholders to determine which academic data are relevant, and which measures or actions could be taken to improve their findability or their quality.
+This track focuses on data that have already been, or that will be, integrated into institutional repositories, but that are sourced elsewhere, such as identifiers for Swiss organizations (e.g., ROR), researchers active in Switzerland (e.g., ORCID), funding information for Swiss or international projects and OA information (OA type, document version, embargo, APCs). A workshop and a virtual session will gather stakeholders to determine which academic data are relevant, and which measures or actions could be taken to improve their findability or their quality.
 The workshop and the virtual session will also determine the selection of measures or actions that will be implemented. These translate into deliverables that could consist in guidelines or in concrete actions such as the establishment of a mapping of Swiss organizations or an authoritative list of researchers active in the country.
 
 
