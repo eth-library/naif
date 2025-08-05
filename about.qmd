@@ -39,7 +39,7 @@ In particular, with the responsible use of quantitative indicators we seek a way
 *Responsible partners: University of Zurich, ETH Zurich*
 
 This track will start with a structured, collaborative workshop format, inviting experts from countries with similar but also different frameworks to share insights and experiences. The workshop will facilitate a comparative analysis of national strategies. The focus will be on key governmental and institutional stakeholders, funding mechanisms, sustainability models, cost-effectiveness and technical solutions (e.g. federated vs. centralised systems). The findings will be reviewed to identify gaps and challenges specific to Switzerland.
-Then, engaging key national stakeholders will be essential to identify requirements, expectations, and challenges through consultations including roundtables and white papers. Based on these insights, a well-founded proposal drafted and refined in collaboration with all relevant stakeholders to ensure its feasibility and long-term success. Moreover, the introduction of a secondary publication right will be taken into account.
+Then, engaging key national stakeholders will be essential to identify requirements, expectations, and challenges through consultations including roundtables and white papers. Based on these insights, a well-founded proposal will be drafted and refined in collaboration with all relevant stakeholders to ensure its feasibility and long-term success. Moreover, the introduction of a secondary publication right will be taken into account.
 
 ## Technical requirements
 ### Track 3: Survey and analysis of Swiss institutional repositories
