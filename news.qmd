@@ -9,6 +9,7 @@ title: "News"
 *03.09.2025*
 
 We are pleased to invite you to the following NAIF events:
+
 * Workshop: Responsible use of quantitative indicators (NAIF Track 1)
   + Date: Thursday, 11 September 2025
   + Location: ETH Zurich
