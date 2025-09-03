@@ -5,10 +5,11 @@ title: "Resources"
 
 ## Project deliverables
 
-[project deliverables in preparation]
+#### Talks and presentations
+- [Slides](https://github.com/eth-library/naif/raw/main/documents/2025-08-28_NAIF_information_event.pdf) of the presentation “Information event: NAIF” given online, 28 August 2025
+
 
 ## Other projects and initiatives
-
 
 
 **COAR International Repositories Directory (IRD)**
