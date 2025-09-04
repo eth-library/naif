@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "National Approach for Interoperable repositories and Findable research results (NAIF) is a project initiated and funded by eight Swiss Higher Education Institutions (1) and co-funded by swissuniversities. The project aims to enable more interoperability and standardization across Swiss institutional repositories. The project has started in July 2025 and will end in July 2026.\n(1) The project partners are: ETH Library (ETH Zurich), University of Zurich, École Polytechnique Fédérale de Lausanne (EPFL), Zurich University of Applied Sciences (ZHAW), St.Gallen University of Teacher Education (PHSG), University of Fribourg, University of Neuchâtel and University of St.Gallen."
+    "text": "National Approach for Interoperable repositories and Findable research results (NAIF) is a project initiated and funded by eight Swiss Higher Education Institutions (1) and co-funded by swissuniversities. The project aims to enable more interoperability and standardization across Swiss institutional repositories. The project has started in July 2025 and will end in December 2026.\n(1) The project partners are: ETH Library (ETH Zurich), University of Zurich, École Polytechnique Fédérale de Lausanne (EPFL), Zurich University of Applied Sciences (ZHAW), St.Gallen University of Teacher Education (PHSG), University of Fribourg, University of Neuchâtel and University of St.Gallen."
   },
   {
     "objectID": "about.html#project-description",
@@ -39,7 +39,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Accredited Swiss Higher Education Institutions are strongly encouraged to join the project and to actively contribute.\nOther Swiss Higher Education Institutions and research institutes are welcome to join the project and to actively contribute.\nSynergies with additional stakeholders at the national and international level are also welcome.\nIf you would like to join the project, please fill out the form.\nTo provide feedback or to ask questions, please contact us."
+    "text": "If you have any questions, feedback or ideas, or if you would like to connect with us, feel free to reach out.\nEmail: naif@library.ethz.ch"
   },
   {
     "objectID": "disclaimer.html",
@@ -54,6 +54,13 @@
     "title": "\nNAIFNational Approach for Interoperable repositoriesand Findable research results\n",
     "section": "",
     "text": "NAIFNational Approach for Interoperable repositoriesand Findable research results\n\n\n\n\nNAIF is a project initiated and funded by eight Swiss Higher Education Institutions and co-funded by swissuniversities. The project aims to enable more interoperability and standardization across Swiss institutional repositories. The project has started in July 2025 and will end in July 2026."
+  },
+  {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join",
+    "section": "",
+    "text": "We welcome anyone interested in contributing to the project. Of particular relevance to the project are stakeholders from:\n\nAccredited Swiss Higher Education Institutions\nOther Swiss Higher Education Institutions and research institutes\nNational and international initiatives or projects\n\nIf you would like to join the project, please fill out the form."
   },
   {
     "objectID": "news.html",
@@ -88,7 +95,7 @@
     "href": "resources.html#other-projects-and-initiatives",
     "title": "Resources",
     "section": "Other projects and initiatives",
-    "text": "Other projects and initiatives\nCOAR International Repositories Directory (IRD)\nIRD. The International Repositories Directoy (IRD) provides information about the current repository landscape.\nSwiss Open Access Monitor\nSwiss Open Access Monitor. The Swiss Open Access Monitor is a tool to monitor the progress of the implementation of Open Access at the national level in Switzerland. It contains a Journal Monitor based on OpenAlex and other data sources, as well as a Repository Monitor based on the publication lists delivered by participating institutions.\nSwiss Open Academic Data (SOAD)\nSOAD Website. The Swiss Open Academic Data (SOAD) community gathers researchers and practitioners around open academic data in Switzerland.\nSwiss Year of Scientometrics (SYoS)\nSYoS Blog. Swiss Year of Scientometrics (SYoS) is a series of Lectures and Workshops organized by the ETH Library to promote responsible research assessment in Switzerland."
+    "text": "Other projects and initiatives\nCOAR International Repositories Directory (IRD)\nIRD. The International Repositories Directory (IRD) provides information about the current repository landscape.\nSwiss Open Access Monitor\nSwiss Open Access Monitor. The Swiss Open Access Monitor is a tool to monitor the progress of the implementation of Open Access at the national level in Switzerland. It contains a Journal Monitor based on OpenAlex and other data sources, as well as a Repository Monitor based on the publication lists delivered by participating institutions.\nSwiss Open Academic Data (SOAD)\nSOAD Website. The Swiss Open Academic Data (SOAD) community gathers researchers and practitioners around open academic data in Switzerland.\nSwiss Year of Scientometrics (SYoS)\nSYoS Blog. Swiss Year of Scientometrics (SYoS) is a series of Lectures and Workshops organized by the ETH Library to promote responsible research assessment in Switzerland."
   },
   {
     "objectID": "team.html",
