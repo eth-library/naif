@@ -11,6 +11,7 @@ website:
       - about.qmd
       - team.qmd
       - resources.qmd
+      - join.qmd
       - contact.qmd
     pinned: true
   page-footer:
