@@ -14,7 +14,7 @@ title: "Resources"
 
 **COAR International Repositories Directory (IRD)**
 
-[IRD](https://ird.coar-repositories.org/?lang=en). The International Repositories Directoy (IRD) provides information about the current repository landscape.
+[IRD](https://ird.coar-repositories.org/?lang=en). The International Repositories Directory (IRD) provides information about the current repository landscape.
 
 **Swiss Open Access Monitor**
 
