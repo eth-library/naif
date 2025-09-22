@@ -2,6 +2,19 @@
 title: "News"
 ---
 
+## Upcoming events
+
+
+* Workshop: Improving academic metadata for Swiss repositories and institutions (NAIF Track 4)
+  + Date: Wednesday, 15 October 2025
+  + Location: University of Neuchâtel
+  + Registration [link](https://forms.gle/23kzvv1kubBDXpHp6)
+* From Policy to Practice: Building a National Open Research Information Framework in Switzerland (NAIF Track 2)
+  + Date: Wednesday, 5 November 2025
+  + Location: University of Zurich
+  + Program: [Flyer](https://www.ub.uzh.ch/dam/jcr:5ee157b5-eba2-4b11-b1c9-d5bb7351d84c/Flyer_Panel-discussion_From-policy-to-practice.pdf)
+  + Registration [link](https://ema.uzh.ch/RLX4H)
+
 
 ## News
 
