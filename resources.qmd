@@ -6,6 +6,7 @@ title: "Resources"
 ## Project deliverables
 
 #### Talks and presentations
+- [Slides](https://doi.org/10.5281/zenodo.17142628) of the presentation “Enhancing Open Academic Data through the NAIF Project" given at the Swiss Open Academic Data (SOAD) Day, 10 September 2025
 - [Slides](https://github.com/eth-library/naif/raw/main/documents/2025-08-28_NAIF_information_event.pdf) of the presentation “Information event: NAIF” given online, 28 August 2025
 
 
