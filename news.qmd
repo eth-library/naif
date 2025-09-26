@@ -22,8 +22,8 @@ title: "News"
 *26.09.2025*
 
 The month of September is marked by a series of events dedicated to Open Science, and we are proud to have contributed to the momentum.
-We had the pleasure of presenting Track 4 of the NAIF project at the first [SOAD Day](https://soad.ch) (Swiss Open Academic Data Day) on 10 September and showcasing the technical parts of the project at the [ICSTI](https://www.icsti.org) 2025 Annual conference (International Council for Scientific and Technical Information) on 19 September.  
-We are thankful to the organizers and participants of both events for the opportunity to present the project and to engage in insightful discussions.  
+We had the pleasure of presenting Track 4 of the NAIF project at the first [SOAD Day](https://soad.ch) (Swiss Open Academic Data Day) on 10 September and showcasing the technical aspects of the project at the [ICSTI](https://www.icsti.org) 2025 Annual conference (International Council for Scientific and Technical Information) on 19 September.  
+We are thankful to the organizers and participants of both events for the opportunity to present the project and engage in insightful discussions.  
 The [slides](https://doi.org/10.5281/zenodo.17142628) of the SOAD Day presentation are available on the [Zenodo community](https://zenodo.org/communities/soad) of the event.
 
 
