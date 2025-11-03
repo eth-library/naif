@@ -18,6 +18,14 @@ title: "News"
 
 ## News
 
+#### NAIF Workshop on the reponsible use of Quantitative Scientometric Indicators
+*31.10.2025*
+
+On 11^super^th^super^ of September 2025, a NAIF Workshop on the responsible use of Quantitative Scientometric Indicators (QSI) was held at ETH Zurich in the context of the 6th SYoS (Swiss Year of Scientometrics) Workshop.  
+The slides of a lightning talk by Ginny Barbour, Co-Chair of the Declaration on Research Assessment (DORA), on [Using Quantitative Indicators Responsibly in Research Assessment](https://doi.org/10.5281/zenodo.17481395) are now available on Zenodo.  
+A [summary of the workshop and its insights](https://yearofscientometrics.ethz.ch/responsible-use-of-quantitative-scientometric-indicators-insights-from-the-6th-syos-workshop) by Martin Jaekel is available on the SYoS Blog.
+
+
 #### NAIF at the SOAD Day and at the ICSTI 2025 Annual conference
 *26.09.2025*
 
