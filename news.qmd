@@ -11,7 +11,7 @@ title: "News"
   + Program: [Flyer](https://www.ub.uzh.ch/dam/jcr:5ee157b5-eba2-4b11-b1c9-d5bb7351d84c/Flyer_Panel-discussion_From-policy-to-practice.pdf)
   + Registration [link](https://ema.uzh.ch/RLX4H)
 * Workshop: Improving academic metadata for Swiss repositories and institutions (NAIF Track 4)
-  + Date: Monday, 8 December 2025, 09:30-12:00
+  + Date: Monday, 8 December 2025, 10:00-11:30
   + Location: Online
   + Registration: The link will soon be available
 
