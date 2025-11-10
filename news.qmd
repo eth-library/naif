@@ -8,9 +8,9 @@ title: "News"
 * Workshop: Improving academic metadata for Swiss repositories and institutions (NAIF Track 4)
   + Date: Monday, 8 December 2025, 10:00-11:30
   + Location: Online
-  + Zoom link: https://ethz.zoom.us/j/62921397842
+  + Zoom link: [https://ethz.zoom.us/j/62921397842](https://ethz.zoom.us/j/62921397842)
 * Survey on Swiss institutional repositories (Track 3)
-  + Link to the survey: https://www.surveyhero.com/c/naif-repositories-2025
+  + Link to the survey: [https://www.surveyhero.com/c/naif-repositories-2025](https://www.surveyhero.com/c/naif-repositories-2025)
   + Deadline to complete the survey: 15 December 2025
   + Contact: [naif-survey@library.ethz.ch](mailto:naif-survey@library.ethz.ch)
   
@@ -19,7 +19,7 @@ title: "News"
 ## News
 
 #### NAIF launches a national survey on Swiss institutional repositories
-*05.11.2025*
+*10.11.2025*
 
 We are launching a **national survey** to map and better understand the landscape of institutional repositories in Switzerland. 
 The initiative aims to strengthen **interoperability, standardisation, and coordination** across the country’s research information ecosystem.   
@@ -40,7 +40,7 @@ This will be the **first national overview** of repository maturity and practice
 
 Deadline: 15 December 2025  
 Contact: [naif-survey@library.ethz.ch](mailto:naif-survey@library.ethz.ch)  
-Take the survey: https://www.surveyhero.com/c/naif-repositories-2025  
+Take the survey: [https://www.surveyhero.com/c/naif-repositories-2025](https://www.surveyhero.com/c/naif-repositories-2025)  
 
 
 #### NAIF Workshop on the responsible use of Quantitative Scientometric Indicators
