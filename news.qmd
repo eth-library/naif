@@ -2,21 +2,46 @@
 title: "News"
 ---
 
-## Upcoming events
+## Upcoming events and ongoing survey
 
 
-* From Policy to Practice: Building a National Open Research Information Framework in Switzerland (NAIF Track 2)
-  + Date: Wednesday, 5 November 2025
-  + Location: University of Zurich
-  + Program: [Flyer](https://www.ub.uzh.ch/dam/jcr:5ee157b5-eba2-4b11-b1c9-d5bb7351d84c/Flyer_Panel-discussion_From-policy-to-practice.pdf)
-  + Registration [link](https://ema.uzh.ch/RLX4H)
 * Workshop: Improving academic metadata for Swiss repositories and institutions (NAIF Track 4)
   + Date: Monday, 8 December 2025, 10:00-11:30
   + Location: Online
-  + Registration: The link will soon be available
+  + Zoom link: https://ethz.zoom.us/j/62921397842
+* Survey on Swiss institutional repositories (Track 3)
+  + Link to the survey: https://www.surveyhero.com/c/naif-repositories-2025
+  + Deadline to complete the survey: 15 December 2025
+  + Contact: [naif-survey@library.ethz.ch](mailto:naif-survey@library.ethz.ch)
+  
 
 
 ## News
+
+#### NAIF launches a national survey on Swiss institutional repositories
+*05.11.2025*
+
+We are launching a **national survey** to map and better understand the landscape of institutional repositories in Switzerland. 
+The initiative aims to strengthen **interoperability, standardisation, and coordination** across the country’s research information ecosystem.   
+
+The survey explores how repositories are **managed, described, and sustained,** focusing on infrastructure, metadata practices, governance, and long-term strategies.
+It seeks to identify **common strengths, gaps, and challenges,** laying the groundwork for **a national roadmap** aligned with international standards and open science principles.  
+ 
+The questionnaire is addressed to **repository managers and service leads** from Swiss higher education institutions operating repositories or CRIS systems. Each manager will be contacted directly to participate.  
+
+To support respondents, **two Q&A sessions** will be organised: 
+
+* 🇫🇷 Thursday, 20 November 2025, 11:00–12:00 (in French)  
+* 🇩🇪 Wednesday, 26 November 2025, 15:00–16:00 (in German)  
+
+The survey draws inspiration from major international efforts, including the [NORF Survey of Open Repositories in Ireland](https://zenodo.org/records/10390626), the [OpenAIRE / LIBER / SPARC Europe / COAR Joint Survey of Open Repositories in Europe](https://zenodo.org/records/10255559), the [COAR consultation “Crafting a Vision for European Repositories”](https://coar-repositories.org/news-updates/open-consultation-crafting-a-vision-for-european-repositories/), and the institutional repository workflow survey carried out within the Working Group 2 ([Taskforce 1: Metadata in Institutional Repositories](https://zenodo.org/records/15730917)) of the [Barcelona Declaration on Open Research Information](https://barcelona-declaration.org/).  
+
+This will be the **first national overview** of repository maturity and practices in Switzerland. Findings will inform coordinated actions and shared services, and aggregated results will be published openly on [Zenodo within the NAIF community](https://zenodo.org/communities/naif/members) — contributing to a **stronger and more connected Swiss open science ecosystem**.  
+
+Deadline: 15 December 2025  
+Contact: [naif-survey@library.ethz.ch](mailto:naif-survey@library.ethz.ch)  
+Take the survey: https://www.surveyhero.com/c/naif-repositories-2025  
+
 
 #### NAIF Workshop on the responsible use of Quantitative Scientometric Indicators
 *31.10.2025*
