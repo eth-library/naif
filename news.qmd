@@ -2,7 +2,7 @@
 title: "News"
 ---
 
-## Upcoming events and ongoing survey
+## Upcoming event and ongoing survey
 
 
 * Workshop: Improving academic metadata for Swiss repositories and institutions (NAIF Track 4)
