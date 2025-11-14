@@ -8,7 +8,7 @@ title: "News"
 * Workshop: Improving academic metadata for Swiss repositories and institutions (NAIF Track 4)
   + Date: Monday, 8 December 2025, 10:00-11:30
   + Location: Online
-  + Zoom link: [https://ethz.zoom.us/j/62921397842](https://ethz.zoom.us/j/62921397842)
+  + Registration link: [https://ethz.zoom.us/meeting/register/bxYnZz8ESKuSw9zi-VQYQg](https://ethz.zoom.us/meeting/register/bxYnZz8ESKuSw9zi-VQYQg)
 * Survey on Swiss institutional repositories (Track 3)
   + Link to the survey: [https://www.surveyhero.com/c/naif-repositories-2025](https://www.surveyhero.com/c/naif-repositories-2025)
   + Deadline to complete the survey: 15 December 2025
