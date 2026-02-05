@@ -1,5 +1,110 @@
 [
   {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Slides of the presentation “Enhancing Open Academic Data through the NAIF Project” given at the Swiss Open Academic Data (SOAD) Day, 10 September 2025\nSlides of the presentation “Information event: NAIF” given online, 28 August 2025"
+  },
+  {
+    "objectID": "resources.html#project-deliverables",
+    "href": "resources.html#project-deliverables",
+    "title": "Resources",
+    "section": "",
+    "text": "Slides of the presentation “Enhancing Open Academic Data through the NAIF Project” given at the Swiss Open Academic Data (SOAD) Day, 10 September 2025\nSlides of the presentation “Information event: NAIF” given online, 28 August 2025"
+  },
+  {
+    "objectID": "resources.html#other-projects-and-initiatives",
+    "href": "resources.html#other-projects-and-initiatives",
+    "title": "Resources",
+    "section": "Other projects and initiatives",
+    "text": "Other projects and initiatives\nCOAR International Repositories Directory (IRD)\nIRD. The International Repositories Directory (IRD) provides information about the current repository landscape.\nSwiss Open Access Monitor\nSwiss Open Access Monitor. The Swiss Open Access Monitor is a tool to monitor the progress of the implementation of Open Access at the national level in Switzerland. It contains a Journal Monitor based on OpenAlex and other data sources, as well as a Repository Monitor based on the publication lists delivered by participating institutions.\nSwiss Open Academic Data (SOAD)\nSOAD Website. The Swiss Open Academic Data (SOAD) community gathers researchers and practitioners around open academic data in Switzerland.\nSwiss Year of Scientometrics (SYoS)\nSYoS Blog. Swiss Year of Scientometrics (SYoS) is a series of Lectures and Workshops organized by the ETH Library to promote responsible research assessment in Switzerland."
+  },
+  {
+    "objectID": "disclaimer.html",
+    "href": "disclaimer.html",
+    "title": "Legal notice",
+    "section": "",
+    "text": "ETH Library’s and ETH Zurich’s legal notices are in effect:\n\nDisclaimer & copyright\n\nData protection"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Workshop: Improving academic metadata for Swiss repositories and institutions (NAIF Track 4)\n\nDate: Monday, 8 December 2025, 10:00-11:30\nLocation: Online\nRegistration link: https://ethz.zoom.us/meeting/register/bxYnZz8ESKuSw9zi-VQYQg\n\nSurvey on Swiss institutional repositories (Track 3)\n\nLink to the survey: https://www.surveyhero.com/c/naif-repositories-2025\nDeadline to complete the survey: 15 December 2025\nContact: naif-survey@library.ethz.ch"
+  },
+  {
+    "objectID": "news.html#upcoming-event-and-ongoing-survey",
+    "href": "news.html#upcoming-event-and-ongoing-survey",
+    "title": "News",
+    "section": "",
+    "text": "Workshop: Improving academic metadata for Swiss repositories and institutions (NAIF Track 4)\n\nDate: Monday, 8 December 2025, 10:00-11:30\nLocation: Online\nRegistration link: https://ethz.zoom.us/meeting/register/bxYnZz8ESKuSw9zi-VQYQg\n\nSurvey on Swiss institutional repositories (Track 3)\n\nLink to the survey: https://www.surveyhero.com/c/naif-repositories-2025\nDeadline to complete the survey: 15 December 2025\nContact: naif-survey@library.ethz.ch"
+  },
+  {
+    "objectID": "news.html#news",
+    "href": "news.html#news",
+    "title": "News",
+    "section": "News",
+    "text": "News\n\nNAIF launches a national survey on Swiss institutional repositories\n10.11.2025\nWe are launching a national survey to map and better understand the landscape of institutional repositories in Switzerland. The initiative aims to strengthen interoperability, standardisation, and coordination across the country’s research information ecosystem.\nThe survey explores how repositories are managed, described, and sustained, focusing on infrastructure, metadata practices, governance, and long-term strategies. It seeks to identify common strengths, gaps, and challenges, laying the groundwork for a national roadmap aligned with international standards and open science principles.\nThe questionnaire is addressed to repository managers and service leads from Swiss higher education institutions operating repositories or CRIS systems. Each manager will be contacted directly to participate.\nTo support respondents, two Q&A sessions will be organised:\n\n🇫🇷 Thursday, 20 November 2025, 11:00–12:00 (in French)\n\n🇩🇪 Wednesday, 26 November 2025, 15:00–16:00 (in German)\n\nThe survey draws inspiration from major international efforts, including the NORF Survey of Open Repositories in Ireland, the OpenAIRE / LIBER / SPARC Europe / COAR Joint Survey of Open Repositories in Europe, the COAR consultation “Crafting a Vision for European Repositories”, and the institutional repository workflow survey carried out within the Working Group 2 (Taskforce 1: Metadata in Institutional Repositories) of the Barcelona Declaration on Open Research Information.\nThis will be the first national overview of repository maturity and practices in Switzerland. Findings will inform coordinated actions and shared services, and aggregated results will be published openly on Zenodo within the NAIF community — contributing to a stronger and more connected Swiss open science ecosystem.\nDeadline: 15 December 2025\nContact: naif-survey@library.ethz.ch\nTake the survey: https://www.surveyhero.com/c/naif-repositories-2025\n\n\nNAIF Workshop on the responsible use of Quantitative Scientometric Indicators\n31.10.2025\nOn 11th of September 2025, a NAIF Workshop on the responsible use of Quantitative Scientometric Indicators (QSI) was held at ETH Zurich in the context of the 6th SYoS (Swiss Year of Scientometrics) Workshop.\nThe slides of a lightning talk by Ginny Barbour, Co-Chair of the Declaration on Research Assessment (DORA), on Using Quantitative Indicators Responsibly in Research Assessment are now available on Zenodo.\nA summary of the workshop and its insights by Martin Jaekel is available on the SYoS Blog.\n\n\nNAIF at the SOAD Day and at the ICSTI 2025 Annual conference\n26.09.2025\nThe month of September is marked by a series of events dedicated to Open Science, and we are proud to have contributed to the momentum. We had the pleasure of presenting Track 4 of the NAIF project at the first SOAD Day (Swiss Open Academic Data Day) on 10 September and showcasing the technical aspects of the project at the ICSTI 2025 Annual conference (International Council for Scientific and Technical Information) on 19 September.\nWe are thankful to the organizers and participants of both events for the opportunity to present the project and engage in insightful discussions.\nThe slides of the SOAD Day presentation are available on the Zenodo community of the event.\n\n\nUpcoming: NAIF workshops and panel discussion\n03.09.2025\nWe are pleased to invite you to the following NAIF events:\n\nWorkshop: Responsible use of quantitative indicators (NAIF Track 1)\n\nDate: Thursday, 11 September 2025\nLocation: ETH Zurich\nRegistration link\n\nWorkshop: Improving academic metadata for Swiss repositories and institutions (NAIF Track 4)\n\nDate: Wednesday, 15 October 2025\nLocation: University of Neuchâtel\nRegistration link\n\nFrom Policy to Practice: Building a National Open Research Information Framework in Switzerland (NAIF Track 2)\n\nDate: Wednesday, 5 November 2025\nLocation: University of Zurich\nProgram: Flyer\nRegistration link\n\n\n\n\nNAIF Information Event\n03.09.2025\nWe would like to thank the more than fifty participants at the NAIF information event for their interest.\nThe slides of the presentation are now available.\n\n\nUpcoming: NAIF information event\n04.08.2025\nWe are pleased to invite you to the NAIF information event taking place on Thursday, 28 August 2025 at 4pm, where we will present the project and its goals.\nRegistration is no longer available.\nThe information event is open to anyone who is interested.\n\n\nProject start\n07.2025\nWe are pleased to announce the launch of the NAIF project."
+  },
+  {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Join",
+    "section": "",
+    "text": "We welcome anyone interested in contributing to the project. Of particular relevance to the project are stakeholders from:\n\nAccredited Swiss Higher Education Institutions\nOther Swiss Higher Education Institutions and research institutes\nNational and international initiatives or projects\n\nIf you would like to join the project, please fill out the form."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "If you have any questions, feedback or ideas, or if you would like to connect with us, feel free to reach out.\nEmail: naif@library.ethz.ch"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Dr. David Johann (ETH Library, ETH Zurich)"
+  },
+  {
+    "objectID": "team.html#project-leaders",
+    "href": "team.html#project-leaders",
+    "title": "Team",
+    "section": "",
+    "text": "Dr. David Johann (ETH Library, ETH Zurich)"
+  },
+  {
+    "objectID": "team.html#project-coordinator",
+    "href": "team.html#project-coordinator",
+    "title": "Team",
+    "section": "Project coordinator",
+    "text": "Project coordinator\nDr. Moritz Mähr (ETH Library, ETH Zurich)"
+  },
+  {
+    "objectID": "team.html#work-packages-leaders",
+    "href": "team.html#work-packages-leaders",
+    "title": "Team",
+    "section": "Work packages leaders",
+    "text": "Work packages leaders\nPascale Bouton (EPFL)\nDr. David Johann (ETH Library, ETH Zurich)\nDr. Martin Jaekel (ZHAW Zurich University of Applied Sciences)\nDr. Moritz Mähr (ETH Library, ETH Zurich)\nDr. Andrea Malits (University of Zurich)\nDr. Rüdiger Mutz (CHESS, University of Zurich)\nDr. Efraín Ochoa (University of Fribourg)\nJulien Sicot (EPFL)\nStefan Vogt (University of Zurich)"
+  },
+  {
+    "objectID": "team.html#project-contributors",
+    "href": "team.html#project-contributors",
+    "title": "Team",
+    "section": "Project contributors",
+    "text": "Project contributors\n[list of contributors in preparation]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nNAIFNational Approach for Interoperable repositoriesand Findable research results\n",
+    "section": "",
+    "text": "NAIF is a project initiated and funded by eight Swiss Higher Education Institutions and co-funded by swissuniversities. The project aims to enable more interoperability and standardization across Swiss institutional repositories. The project has started in July 2025 and will end in December 2026."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -33,103 +138,5 @@
     "title": "About",
     "section": "Open peer review",
     "text": "Open peer review\nThe abstract and the review of the NAIF project proposal will be made available on the swissuniversities website."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "If you have any questions, feedback or ideas, or if you would like to connect with us, feel free to reach out.\nEmail: naif@library.ethz.ch"
-  },
-  {
-    "objectID": "disclaimer.html",
-    "href": "disclaimer.html",
-    "title": "Legal notice",
-    "section": "",
-    "text": "ETH Library’s and ETH Zurich’s legal notices are in effect:\n\nDisclaimer & copyright\n\nData protection"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "\nNAIFNational Approach for Interoperable repositoriesand Findable research results\n",
-    "section": "",
-    "text": "NAIFNational Approach for Interoperable repositoriesand Findable research results\n\n\n\n\nNAIF is a project initiated and funded by eight Swiss Higher Education Institutions and co-funded by swissuniversities. The project aims to enable more interoperability and standardization across Swiss institutional repositories. The project has started in July 2025 and will end in December 2026."
-  },
-  {
-    "objectID": "join.html",
-    "href": "join.html",
-    "title": "Join",
-    "section": "",
-    "text": "We welcome anyone interested in contributing to the project. Of particular relevance to the project are stakeholders from:\n\nAccredited Swiss Higher Education Institutions\nOther Swiss Higher Education Institutions and research institutes\nNational and international initiatives or projects\n\nIf you would like to join the project, please fill out the form."
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
-    "section": "",
-    "text": "Workshop: Improving academic metadata for Swiss repositories and institutions (NAIF Track 4)\n\nDate: Monday, 8 December 2025, 10:00-11:30\nLocation: Online\nRegistration link: https://ethz.zoom.us/meeting/register/bxYnZz8ESKuSw9zi-VQYQg\n\nSurvey on Swiss institutional repositories (Track 3)\n\nLink to the survey: https://www.surveyhero.com/c/naif-repositories-2025\nDeadline to complete the survey: 15 December 2025\nContact: naif-survey@library.ethz.ch"
-  },
-  {
-    "objectID": "news.html#upcoming-event-and-ongoing-survey",
-    "href": "news.html#upcoming-event-and-ongoing-survey",
-    "title": "News",
-    "section": "",
-    "text": "Workshop: Improving academic metadata for Swiss repositories and institutions (NAIF Track 4)\n\nDate: Monday, 8 December 2025, 10:00-11:30\nLocation: Online\nRegistration link: https://ethz.zoom.us/meeting/register/bxYnZz8ESKuSw9zi-VQYQg\n\nSurvey on Swiss institutional repositories (Track 3)\n\nLink to the survey: https://www.surveyhero.com/c/naif-repositories-2025\nDeadline to complete the survey: 15 December 2025\nContact: naif-survey@library.ethz.ch"
-  },
-  {
-    "objectID": "news.html#news",
-    "href": "news.html#news",
-    "title": "News",
-    "section": "News",
-    "text": "News\n\nNAIF launches a national survey on Swiss institutional repositories\n10.11.2025\nWe are launching a national survey to map and better understand the landscape of institutional repositories in Switzerland. The initiative aims to strengthen interoperability, standardisation, and coordination across the country’s research information ecosystem.\nThe survey explores how repositories are managed, described, and sustained, focusing on infrastructure, metadata practices, governance, and long-term strategies. It seeks to identify common strengths, gaps, and challenges, laying the groundwork for a national roadmap aligned with international standards and open science principles.\nThe questionnaire is addressed to repository managers and service leads from Swiss higher education institutions operating repositories or CRIS systems. Each manager will be contacted directly to participate.\nTo support respondents, two Q&A sessions will be organised:\n\n🇫🇷 Thursday, 20 November 2025, 11:00–12:00 (in French)\n\n🇩🇪 Wednesday, 26 November 2025, 15:00–16:00 (in German)\n\nThe survey draws inspiration from major international efforts, including the NORF Survey of Open Repositories in Ireland, the OpenAIRE / LIBER / SPARC Europe / COAR Joint Survey of Open Repositories in Europe, the COAR consultation “Crafting a Vision for European Repositories”, and the institutional repository workflow survey carried out within the Working Group 2 (Taskforce 1: Metadata in Institutional Repositories) of the Barcelona Declaration on Open Research Information.\nThis will be the first national overview of repository maturity and practices in Switzerland. Findings will inform coordinated actions and shared services, and aggregated results will be published openly on Zenodo within the NAIF community — contributing to a stronger and more connected Swiss open science ecosystem.\nDeadline: 15 December 2025\nContact: naif-survey@library.ethz.ch\nTake the survey: https://www.surveyhero.com/c/naif-repositories-2025\n\n\nNAIF Workshop on the responsible use of Quantitative Scientometric Indicators\n31.10.2025\nOn 11th of September 2025, a NAIF Workshop on the responsible use of Quantitative Scientometric Indicators (QSI) was held at ETH Zurich in the context of the 6th SYoS (Swiss Year of Scientometrics) Workshop.\nThe slides of a lightning talk by Ginny Barbour, Co-Chair of the Declaration on Research Assessment (DORA), on Using Quantitative Indicators Responsibly in Research Assessment are now available on Zenodo.\nA summary of the workshop and its insights by Martin Jaekel is available on the SYoS Blog.\n\n\nNAIF at the SOAD Day and at the ICSTI 2025 Annual conference\n26.09.2025\nThe month of September is marked by a series of events dedicated to Open Science, and we are proud to have contributed to the momentum. We had the pleasure of presenting Track 4 of the NAIF project at the first SOAD Day (Swiss Open Academic Data Day) on 10 September and showcasing the technical aspects of the project at the ICSTI 2025 Annual conference (International Council for Scientific and Technical Information) on 19 September.\nWe are thankful to the organizers and participants of both events for the opportunity to present the project and engage in insightful discussions.\nThe slides of the SOAD Day presentation are available on the Zenodo community of the event.\n\n\nUpcoming: NAIF workshops and panel discussion\n03.09.2025\nWe are pleased to invite you to the following NAIF events:\n\nWorkshop: Responsible use of quantitative indicators (NAIF Track 1)\n\nDate: Thursday, 11 September 2025\nLocation: ETH Zurich\nRegistration link\n\nWorkshop: Improving academic metadata for Swiss repositories and institutions (NAIF Track 4)\n\nDate: Wednesday, 15 October 2025\nLocation: University of Neuchâtel\nRegistration link\n\nFrom Policy to Practice: Building a National Open Research Information Framework in Switzerland (NAIF Track 2)\n\nDate: Wednesday, 5 November 2025\nLocation: University of Zurich\nProgram: Flyer\nRegistration link\n\n\n\n\nNAIF Information Event\n03.09.2025\nWe would like to thank the more than fifty participants at the NAIF information event for their interest.\nThe slides of the presentation are now available.\n\n\nUpcoming: NAIF information event\n04.08.2025\nWe are pleased to invite you to the NAIF information event taking place on Thursday, 28 August 2025 at 4pm, where we will present the project and its goals.\nRegistration is no longer available.\nThe information event is open to anyone who is interested.\n\n\nProject start\n07.2025\nWe are pleased to announce the launch of the NAIF project."
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Slides of the presentation “Enhancing Open Academic Data through the NAIF Project” given at the Swiss Open Academic Data (SOAD) Day, 10 September 2025\nSlides of the presentation “Information event: NAIF” given online, 28 August 2025"
-  },
-  {
-    "objectID": "resources.html#project-deliverables",
-    "href": "resources.html#project-deliverables",
-    "title": "Resources",
-    "section": "",
-    "text": "Slides of the presentation “Enhancing Open Academic Data through the NAIF Project” given at the Swiss Open Academic Data (SOAD) Day, 10 September 2025\nSlides of the presentation “Information event: NAIF” given online, 28 August 2025"
-  },
-  {
-    "objectID": "resources.html#other-projects-and-initiatives",
-    "href": "resources.html#other-projects-and-initiatives",
-    "title": "Resources",
-    "section": "Other projects and initiatives",
-    "text": "Other projects and initiatives\nCOAR International Repositories Directory (IRD)\nIRD. The International Repositories Directory (IRD) provides information about the current repository landscape.\nSwiss Open Access Monitor\nSwiss Open Access Monitor. The Swiss Open Access Monitor is a tool to monitor the progress of the implementation of Open Access at the national level in Switzerland. It contains a Journal Monitor based on OpenAlex and other data sources, as well as a Repository Monitor based on the publication lists delivered by participating institutions.\nSwiss Open Academic Data (SOAD)\nSOAD Website. The Swiss Open Academic Data (SOAD) community gathers researchers and practitioners around open academic data in Switzerland.\nSwiss Year of Scientometrics (SYoS)\nSYoS Blog. Swiss Year of Scientometrics (SYoS) is a series of Lectures and Workshops organized by the ETH Library to promote responsible research assessment in Switzerland."
-  },
-  {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Team",
-    "section": "",
-    "text": "Dr. David Johann (ETH Library, ETH Zurich)\nSimon Willemin (ETH Library, ETH Zurich)"
-  },
-  {
-    "objectID": "team.html#project-leaders",
-    "href": "team.html#project-leaders",
-    "title": "Team",
-    "section": "",
-    "text": "Dr. David Johann (ETH Library, ETH Zurich)\nSimon Willemin (ETH Library, ETH Zurich)"
-  },
-  {
-    "objectID": "team.html#work-packages-leaders",
-    "href": "team.html#work-packages-leaders",
-    "title": "Team",
-    "section": "Work packages leaders",
-    "text": "Work packages leaders\nPascale Bouton (EPFL)\nDr. David Johann (ETH Library, ETH Zurich)\nDr. Martin Jaekel (ZHAW Zurich University of Applied Sciences)\nDr. Andrea Malits (University of Zurich)\nDr. Rüdiger Mutz (CHESS, University of Zurich)\nJulien Sicot (EPFL)\nStefan Vogt (University of Zurich)\nSimon Willemin (ETH Library, ETH Zurich)"
-  },
-  {
-    "objectID": "team.html#project-contributors",
-    "href": "team.html#project-contributors",
-    "title": "Team",
-    "section": "Project contributors",
-    "text": "Project contributors\n[list of contributors in preparation]"
   }
 ]
