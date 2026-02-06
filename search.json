@@ -70,8 +70,8 @@
     "text": "Dr. David Johann (ETH Library, ETH Zurich)"
   },
   {
-    "objectID": "team.html#project-leaders",
-    "href": "team.html#project-leaders",
+    "objectID": "team.html#project-leader",
+    "href": "team.html#project-leader",
     "title": "Team",
     "section": "",
     "text": "Dr. David Johann (ETH Library, ETH Zurich)"
@@ -96,6 +96,13 @@
     "title": "Team",
     "section": "Project contributors",
     "text": "Project contributors\n[list of contributors in preparation]"
+  },
+  {
+    "objectID": "team.html#former-team-members",
+    "href": "team.html#former-team-members",
+    "title": "Team",
+    "section": "Former team members",
+    "text": "Former team members\nSimon Willemin (ETH Library, ETH Zurich), co-lead until end of 2025"
   },
   {
     "objectID": "index.html",
