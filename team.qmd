@@ -2,7 +2,7 @@
 title: "Team"
 ---
 
-## Project leaders
+## Project leader
 Dr. David Johann (ETH Library, ETH Zurich)  
 
 ## Project coordinator
@@ -21,3 +21,7 @@ Stefan Vogt (University of Zurich)
 
 ## Project contributors
 [list of contributors in preparation]
+
+## Former team members
+
+Simon Willemin (ETH Library, ETH Zurich), co-lead until end of 2025
