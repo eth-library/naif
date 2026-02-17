@@ -1,24 +1,94 @@
 [
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
+    "objectID": "publishing-guidelines.html",
+    "href": "publishing-guidelines.html",
+    "title": "Publishing guidelines",
     "section": "",
-    "text": "Slides of the presentation “Enhancing Open Academic Data through the NAIF Project” given at the Swiss Open Academic Data (SOAD) Day, 10 September 2025\nSlides of the presentation “Information event: NAIF” given online, 28 August 2025"
+    "text": "This public guide explains how to publish NAIF news posts and event entries. It is intended for project partners and anyone contributing content."
   },
   {
-    "objectID": "resources.html#project-deliverables",
-    "href": "resources.html#project-deliverables",
-    "title": "Resources",
-    "section": "",
-    "text": "Slides of the presentation “Enhancing Open Academic Data through the NAIF Project” given at the Swiss Open Academic Data (SOAD) Day, 10 September 2025\nSlides of the presentation “Information event: NAIF” given online, 28 August 2025"
+    "objectID": "publishing-guidelines.html#target-audiences-and-message-priorities",
+    "href": "publishing-guidelines.html#target-audiences-and-message-priorities",
+    "title": "Publishing guidelines",
+    "section": "Target audiences and message priorities",
+    "text": "Target audiences and message priorities\n\nPrimary audiences\n\nNAIF project partners: shared alignment, progress transparency, coordination signals (public-facing).\nSwissuniversities: accountable reporting, sector relevance, evidence of delivery against objectives.\nETH Board and governance stakeholders: strategic value, interoperability outcomes, sustainability pathway.\n\n\n\nSecondary audiences\n\nResearch staff, libraries, repository owners, open science infrastructure community, interested public.\n\n\n\nMessage architecture (use consistently)\n\nWhy it matters: interoperability, metadata quality, responsible indicators, findability of Swiss research.\nWhat we did: activities, methods, consultations, analyses.\nWhat we found: interim insights, constraints, recommendations.\nWhat’s next: planned actions, opportunities to engage, upcoming events.\nWhat to reuse: outputs with persistent identifiers (DOIs, ROR, ORCID references as relevant)."
   },
   {
-    "objectID": "resources.html#other-projects-and-initiatives",
-    "href": "resources.html#other-projects-and-initiatives",
-    "title": "Resources",
-    "section": "Other projects and initiatives",
-    "text": "Other projects and initiatives\nCOAR International Repositories Directory (IRD)\nIRD. The International Repositories Directory (IRD) provides information about the current repository landscape.\nSwiss Open Access Monitor\nSwiss Open Access Monitor. The Swiss Open Access Monitor is a tool to monitor the progress of the implementation of Open Access at the national level in Switzerland. It contains a Journal Monitor based on OpenAlex and other data sources, as well as a Repository Monitor based on the publication lists delivered by participating institutions.\nSwiss Open Academic Data (SOAD)\nSOAD Website. The Swiss Open Academic Data (SOAD) community gathers researchers and practitioners around open academic data in Switzerland.\nSwiss Year of Scientometrics (SYoS)\nSYoS Blog. Swiss Year of Scientometrics (SYoS) is a series of Lectures and Workshops organized by the ETH Library to promote responsible research assessment in Switzerland."
+    "objectID": "publishing-guidelines.html#folder-structure-and-filenames",
+    "href": "publishing-guidelines.html#folder-structure-and-filenames",
+    "title": "Publishing guidelines",
+    "section": "Folder structure and filenames",
+    "text": "Folder structure and filenames\n\nNews posts: posts/&lt;yyyy-mm-dd&gt;-&lt;slug&gt;/index.qmd\nEvents: events/&lt;yyyy-mm-dd&gt;-&lt;slug&gt;/index.qmd\nPost assets: posts/&lt;entry&gt;/images/*\nEvent assets: events/&lt;entry&gt;/images/*\nRendered output lives in _site/ (do not edit _site/ manually)."
+  },
+  {
+    "objectID": "publishing-guidelines.html#language-and-spelling",
+    "href": "publishing-guidelines.html#language-and-spelling",
+    "title": "Publishing guidelines",
+    "section": "Language and spelling",
+    "text": "Language and spelling\n\nUse British English for news posts and non-repost event pages.\nReposts may retain original wording and spelling when needed for faithful attribution."
+  },
+  {
+    "objectID": "publishing-guidelines.html#news-post-guidance",
+    "href": "publishing-guidelines.html#news-post-guidance",
+    "title": "Publishing guidelines",
+    "section": "News post guidance",
+    "text": "News post guidance\nUse a news post for updates, progress reporting, findings, or opinion pieces.\nRequired front matter\n\ntitle (&lt;= 70 chars)\nsubtitle (optional; concise one-line context)\ndate (YYYY-MM-DD)\nauthor\ndescription (&lt;= 280 chars)\nother-links (when there is a related event page)\ncategories: exactly one of Track 1, Track 2, Track 3, Track 4, General (use General only for track-independent posts)\ntags: exactly 3 tags\nproofread: true or false\nimage: local image path (used for listing cards)\n\nContent structure\n\nPut the lead text in the description front matter field.\nDo not add an explicit ## Lead heading or a lead paragraph block in the body.\nFollow the message architecture above.\nKeep the post concise (500-3000 chars as a guideline).\nUse ## References only with Pandoc citeproc (bibliography + citation keys like [@key]). Otherwise, add links inline or use ## Sources / ## Further reading.\nUse academic titles (Dr, Prof, etc.) consistently where known, and do not mix titled and untitled variants of the same person."
+  },
+  {
+    "objectID": "publishing-guidelines.html#event-guidance",
+    "href": "publishing-guidelines.html#event-guidance",
+    "title": "Publishing guidelines",
+    "section": "Event guidance",
+    "text": "Event guidance\nUse an event entry for announcements and event documentation.\nRequired front matter\n\ntitle (&lt;= 70 chars)\ndate (YYYY-MM-DD)\nauthor (organizer name)\nauthor-title: Organizer\ndescription (&lt;= 280 chars)\nother-links (when there is a related post page)\ncategories: exactly one: Organised by NAIF, Participation by NAIF, or Related Topic\ntags: exactly 3 tags\nproofread: true or false\nimage: local image path (used for listing cards)\n\nEvent details\n\nInclude Date and as many of the following as are available: Time, Location, Registration, Event page.\nFuture events: keep Registration and Event page as clickable links when available.\nPast events: if a registration link existed, render it as plain text and strikethrough, and add a short note that the event already took place.\nIf a detail is not available (for example no registration was offered), state this explicitly in plain text."
+  },
+  {
+    "objectID": "publishing-guidelines.html#images-and-rights",
+    "href": "publishing-guidelines.html#images-and-rights",
+    "title": "Publishing guidelines",
+    "section": "Images and rights",
+    "text": "Images and rights\n\nUse 1-3 high-resolution images where possible.\nEvery image must have descriptive alt text, a caption, and rights attribution."
+  },
+  {
+    "objectID": "publishing-guidelines.html#reposts-of-external-content",
+    "href": "publishing-guidelines.html#reposts-of-external-content",
+    "title": "Publishing guidelines",
+    "section": "Reposts of external content",
+    "text": "Reposts of external content\n\nRepublishing articles that have already been published requires explicit permission by the original publisher.\nAdd a visible note near the top linking back to the original URL."
+  },
+  {
+    "objectID": "publishing-guidelines.html#drafts",
+    "href": "publishing-guidelines.html#drafts",
+    "title": "Publishing guidelines",
+    "section": "Drafts",
+    "text": "Drafts\n\nUse draft: true in the front matter for work-in-progress content.\nDrafts are visible in quarto preview only and excluded from quarto render outputs."
+  },
+  {
+    "objectID": "publishing-guidelines.html#reuse-and-identifiers",
+    "href": "publishing-guidelines.html#reuse-and-identifiers",
+    "title": "Publishing guidelines",
+    "section": "Reuse and identifiers",
+    "text": "Reuse and identifiers\n\nLink outputs with persistent identifiers (DOIs, ROR, ORCID references) whenever relevant.\nNAIF deliverables are archived on Zenodo: Zenodo community"
+  },
+  {
+    "objectID": "publishing-guidelines.html#templates",
+    "href": "publishing-guidelines.html#templates",
+    "title": "Publishing guidelines",
+    "section": "Templates",
+    "text": "Templates\n\nNews post template\n---\ntitle: \"&lt;Title (&lt;= 70 chars)&gt;\"\nsubtitle: \"&lt;Short one-line subtitle (optional)&gt;\"\ndate: \"YYYY-MM-DD\"\nauthor: \"&lt;Author name&gt;\"\ndescription: \"&lt;Lead / teaser (&lt;= 280 chars)&gt;\"\nother-links:\n  - text: \"Related event: &lt;Event title&gt;\"\n    href: \"../../events/&lt;yyyy-mm-dd-slug&gt;/\"\ncategories:\n  - \"Track 1\" # or: Track 2, Track 3, Track 4, General\ntags:\n  - \"&lt;tag 1&gt;\"\n  - \"&lt;tag 2&gt;\"\n  - \"&lt;tag 3&gt;\"\nproofread: false\nimage: \"images/&lt;listing-card-image&gt;\"\nimage-alt: \"&lt;Describe the image for screen readers&gt;\"\nimage-caption: \"&lt;Caption with rights attribution&gt;\"\ntoc: true\n---\n\n&lt;!--\nChecklist (manual):\n- Title &lt;= 70 characters\n- Text 500-3000 characters (guideline)\n- British English spelling and style (unless this is a repost)\n- Optional subtitle: concise one-line context\n- Teaser &lt;= 280 characters\n- Exactly 1 category: Track 1-4 or General\n- Exactly 3 tags\n- 1-3 images, each with alt text + caption + rights attribution\n- Proofread true/false is set\n- Optional: author portrait, institution portrait (&lt;= 280 chars each)\n- References section only when using Pandoc citeproc (`bibliography` + `[@key]`)\n--&gt;\n\n## Why it matters\n\n&lt;Write the post&gt;\n\n![Alt text](images/&lt;image&gt;.jpg){fig-cap=\"Caption. Rights: ...\"}\n\n\nEvent template\n---\ntitle: \"&lt;Title (&lt;= 70 chars)&gt;\"\ndate: \"YYYY-MM-DD\"\nauthor: \"&lt;Organizer name&gt;\"\nauthor-title: \"Organizer\"\ndescription: \"&lt;Teaser (&lt;= 280 chars)&gt;\"\nother-links:\n  - text: \"Related post: &lt;Post title&gt;\"\n    href: \"../../posts/&lt;yyyy-mm-dd-slug&gt;/\"\ncategories:\n  - \"Organised by NAIF\" # or: Participation by NAIF, Related Topic\ntags:\n  - \"&lt;tag 1&gt;\"\n  - \"&lt;tag 2&gt;\"\n  - \"&lt;tag 3&gt;\"\nproofread: false\nimage: \"images/&lt;listing-card-image&gt;\" # For NAIF-run events you may use: ../../images/logos/all-logos.jpg\nimage-alt: \"&lt;Describe the image for screen readers&gt;\"\nimage-caption: \"&lt;Caption with rights attribution&gt;\"\ntoc: true\n---\n\n&lt;!--\nChecklist (manual):\n- Title &lt;= 70 characters\n- Text 500-3000 characters (guideline)\n- British English spelling and style (unless this is a repost)\n- Teaser &lt;= 280 characters\n- Exactly 1 category: Organised by NAIF, Participation by NAIF, or Related Topic\n- Exactly 3 tags\n- 1-3 images, each with alt text + caption + rights attribution\n- Proofread true/false is set\n--&gt;\n\n## Details\n\n- Date:\n- Time: &lt;optional&gt;\n- Location: &lt;optional&gt;\n- Registration: &lt;https://example.org/registration&gt; (or plain text if not offered)\n- Event page: &lt;https://example.org/event&gt; (if available)\n\n## About\n\n&lt;Describe the event&gt;"
+  },
+  {
+    "objectID": "publishing-guidelines.html#code-of-conduct",
+    "href": "publishing-guidelines.html#code-of-conduct",
+    "title": "Publishing guidelines",
+    "section": "Code of conduct",
+    "text": "Code of conduct\nAll contributors are expected to follow this repository’s code of conduct: CODE_OF_CONDUCT.md."
+  },
+  {
+    "objectID": "events/index.html",
+    "href": "events/index.html",
+    "title": "Events",
+    "section": "",
+    "text": "No matching items\n\n\n\n\n\n\n\nNote\n\n\n\nFor past events, registration links are disabled (shown struck through) and kept for reference only."
   },
   {
     "objectID": "disclaimer.html",
@@ -61,6 +131,13 @@
     "title": "Contact",
     "section": "",
     "text": "If you have any questions, feedback or ideas, or if you would like to connect with us, feel free to reach out.\nEmail: naif@library.ethz.ch"
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "News",
+    "section": "",
+    "text": "No matching items\n\nLooking for event announcements and event pages? See: Events\n\n\n\n\n\n\nNote\n\n\n\nReposts are clearly marked and link back to their original publication."
   },
   {
     "objectID": "team.html",
@@ -145,5 +222,26 @@
     "title": "About",
     "section": "Open peer review",
     "text": "Open peer review\nThe abstract and the review of the NAIF project proposal will be made available on the swissuniversities website."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Slides of the presentation “Enhancing Open Academic Data through the NAIF Project” given at the Swiss Open Academic Data (SOAD) Day, 10 September 2025\nSlides of the presentation “Information event: NAIF” given online, 28 August 2025"
+  },
+  {
+    "objectID": "resources.html#project-deliverables",
+    "href": "resources.html#project-deliverables",
+    "title": "Resources",
+    "section": "",
+    "text": "Slides of the presentation “Enhancing Open Academic Data through the NAIF Project” given at the Swiss Open Academic Data (SOAD) Day, 10 September 2025\nSlides of the presentation “Information event: NAIF” given online, 28 August 2025"
+  },
+  {
+    "objectID": "resources.html#other-projects-and-initiatives",
+    "href": "resources.html#other-projects-and-initiatives",
+    "title": "Resources",
+    "section": "Other projects and initiatives",
+    "text": "Other projects and initiatives\nCOAR International Repositories Directory (IRD)\nIRD. The International Repositories Directory (IRD) provides information about the current repository landscape.\nSwiss Open Access Monitor\nSwiss Open Access Monitor. The Swiss Open Access Monitor is a tool to monitor the progress of the implementation of Open Access at the national level in Switzerland. It contains a Journal Monitor based on OpenAlex and other data sources, as well as a Repository Monitor based on the publication lists delivered by participating institutions.\nSwiss Open Academic Data (SOAD)\nSOAD Website. The Swiss Open Academic Data (SOAD) community gathers researchers and practitioners around open academic data in Switzerland.\nSwiss Year of Scientometrics (SYoS)\nSYoS Blog. Swiss Year of Scientometrics (SYoS) is a series of Lectures and Workshops organized by the ETH Library to promote responsible research assessment in Switzerland."
   }
 ]
