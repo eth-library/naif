@@ -1,0 +1,43 @@
+---
+title: "Events"
+subtitle: "All NAIF events in one place"
+description: "Upcoming and past NAIF events: workshops, talks, and community sessions related to interoperable repositories and findable research results."
+toc: false
+show-page-image: false
+listing:
+  id: events
+  contents:
+    - "*/index.qmd"
+  sort: "date desc"
+  feed:
+    type: metadata
+    items: 50
+    title: "NAIF Events"
+  filter-ui:
+    - categories
+    - search
+  page-size: 12
+  fields:
+    - image
+    - title
+    - date
+    - author
+    - description
+    - categories
+---
+
+<div
+  id="events-category-filters"
+  class="d-flex flex-wrap align-items-center gap-2 mb-3"
+  role="group"
+  aria-label="Filter events by category"
+  data-listing-filter-buttons="true"
+  data-listing-id="events"
+></div>
+
+::: {#events}
+:::
+
+::: {.callout-note}
+For past events, registration links are disabled (shown struck through) and kept for reference only.
+:::

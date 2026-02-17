@@ -1,0 +1,45 @@
+---
+title: "<Title (<= 70 chars)>"
+date: "YYYY-MM-DD"
+author: "<Organizer name>"
+author-title: "Organizer"
+description: "<Teaser (<= 280 chars)>"
+other-links:
+  - text: "Related post: <Post title>"
+    href: "../../posts/<yyyy-mm-dd-slug>/"
+categories:
+  - "Organised by NAIF" # or: Participation by NAIF, Related Topic
+tags:
+  - "<tag 1>"
+  - "<tag 2>"
+  - "<tag 3>"
+proofread: false
+image: "images/<listing-card-image>" # For NAIF-run events you may use: ../../images/logos/all-logos.jpg
+image-alt: "<Describe the image for screen readers>"
+image-caption: "<Caption with rights attribution>"
+toc: true
+---
+
+<!--
+Checklist (manual):
+- Title <= 70 characters
+- Text 500-3000 characters (guideline)
+- British English spelling and style (unless this is a repost)
+- Teaser <= 280 characters
+- Exactly 1 category: Organised by NAIF, Participation by NAIF, or Related Topic
+- Exactly 3 tags
+- 1-3 images, each with alt text + caption + rights attribution
+- Proofread true/false is set
+-->
+
+## Details
+
+- Date:
+- Time: <optional>
+- Location: <optional>
+- Registration: <https://example.org/registration> (or plain text if not offered)
+- Event page: <https://example.org/event> (if available)
+
+## About
+
+<Describe the event>

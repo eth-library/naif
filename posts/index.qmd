@@ -1,0 +1,52 @@
+---
+title: "News"
+subtitle: "Browse NAIF updates, progress reports, findings, and opinion pieces"
+description: "NAIF news posts: updates, progress reports, findings, and opinion pieces on interoperability and findable research results."
+aliases:
+  - blog.html
+  - /blog/
+  - /blog.html
+  - news.html
+  - /news/
+  - /news.html
+toc: false
+show-page-image: false
+listing:
+  id: posts
+  contents:
+    - "*/index.qmd"
+  sort: "date desc"
+  feed:
+    type: partial
+    items: 20
+    title: "NAIF News"
+  filter-ui:
+    - categories
+    - search
+  page-size: 12
+  fields:
+    - image
+    - title
+    - date
+    - author
+    - description
+    - categories
+---
+
+<div
+  id="posts-category-filters"
+  class="d-flex flex-wrap align-items-center gap-2 mb-3"
+  role="group"
+  aria-label="Filter posts by category"
+  data-listing-filter-buttons="true"
+  data-listing-id="posts"
+></div>
+
+::: {#posts}
+:::
+
+Looking for event announcements and event pages? See: [Events](../events/index.qmd)
+
+::: {.callout-note}
+Reposts are clearly marked and link back to their original publication.
+:::
