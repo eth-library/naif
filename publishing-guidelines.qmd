@@ -1,0 +1,129 @@
+---
+title: "Publishing guidelines"
+toc: true
+---
+
+This public guide explains how to publish NAIF news posts and event entries. It is intended for project partners and anyone contributing content.
+
+## Target audiences and message priorities
+
+### Primary audiences
+
+- NAIF project partners: shared alignment, progress transparency, coordination signals (public-facing).
+- Swissuniversities: accountable reporting, sector relevance, evidence of delivery against objectives.
+- ETH Board and governance stakeholders: strategic value, interoperability outcomes, sustainability pathway.
+
+### Secondary audiences
+
+- Research staff, libraries, repository owners, open science infrastructure community, interested public.
+
+### Message architecture (use consistently)
+
+- **Why it matters**: interoperability, metadata quality, responsible indicators, findability of Swiss research.
+- **What we did**: activities, methods, consultations, analyses.
+- **What we found**: interim insights, constraints, recommendations.
+- **What's next**: planned actions, opportunities to engage, upcoming events.
+- **What to reuse**: outputs with persistent identifiers (DOIs, ROR, ORCID references as relevant).
+
+## Folder structure and filenames
+
+- News posts: `posts/<yyyy-mm-dd>-<slug>/index.qmd`
+- Events: `events/<yyyy-mm-dd>-<slug>/index.qmd`
+- Post assets: `posts/<entry>/images/*`
+- Event assets: `events/<entry>/images/*`
+- Rendered output lives in `_site/` (do not edit `_site/` manually).
+
+## Language and spelling
+
+- Use British English for news posts and non-repost event pages.
+- Reposts may retain original wording and spelling when needed for faithful attribution.
+
+## News post guidance
+
+Use a news post for updates, progress reporting, findings, or opinion pieces.
+
+**Required front matter**
+
+- `title` (<= 70 chars)
+- `subtitle` (optional; concise one-line context)
+- `date` (YYYY-MM-DD)
+- `author`
+- `description` (<= 280 chars)
+- `other-links` (when there is a related event page)
+- `categories`: exactly one of `Track 1`, `Track 2`, `Track 3`, `Track 4`, `General` (use `General` only for track-independent posts)
+- `tags`: exactly 3 tags
+- `proofread`: `true` or `false`
+- `image`: local image path (used for listing cards)
+
+**Content structure**
+
+- Put the lead text in the `description` front matter field.
+- Do not add an explicit `## Lead` heading or a lead paragraph block in the body.
+- Follow the message architecture above.
+- Keep the post concise (500-3000 chars as a guideline).
+- Use `## References` only with Pandoc citeproc (`bibliography` + citation keys like `[@key]`).
+  Otherwise, add links inline or use `## Sources` / `## Further reading`.
+- Use academic titles (`Dr`, `Prof`, etc.) consistently where known, and do not mix titled and
+  untitled variants of the same person.
+
+## Event guidance
+
+Use an event entry for announcements and event documentation.
+
+**Required front matter**
+
+- `title` (<= 70 chars)
+- `date` (YYYY-MM-DD)
+- `author` (organizer name)
+- `author-title`: `Organizer`
+- `description` (<= 280 chars)
+- `other-links` (when there is a related post page)
+- `categories`: exactly one: `Organised by NAIF`, `Participation by NAIF`, or `Related Topic`
+- `tags`: exactly 3 tags
+- `proofread`: `true` or `false`
+- `image`: local image path (used for listing cards)
+
+**Event details**
+
+- Include Date and as many of the following as are available: Time, Location, Registration, Event page.
+- Future events: keep Registration and Event page as clickable links when available.
+- Past events: if a registration link existed, render it as plain text and strikethrough, and add a short note that the event already took place.
+- If a detail is not available (for example no registration was offered), state this explicitly in plain text.
+
+## Images and rights
+
+- Use 1-3 high-resolution images where possible.
+- Every image must have descriptive alt text, a caption, and rights attribution.
+
+## Reposts of external content
+
+- Republishing articles that have already been published requires explicit permission by the original publisher.
+- Add a visible note near the top linking back to the original URL.
+
+## Drafts
+
+- Use `draft: true` in the front matter for work-in-progress content.
+- Drafts are visible in `quarto preview` only and excluded from `quarto render` outputs.
+
+## Reuse and identifiers
+
+- Link outputs with persistent identifiers (DOIs, ROR, ORCID references) whenever relevant.
+- NAIF deliverables are archived on Zenodo: [Zenodo community](https://zenodo.org/communities/naif)
+
+## Templates
+
+### News post template
+
+```markdown
+{{< include posts/_template-post/index.qmd >}}
+```
+
+### Event template
+
+```markdown
+{{< include events/_template-event/index.qmd >}}
+```
+
+## Code of conduct
+
+All contributors are expected to follow this repository's code of conduct: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
