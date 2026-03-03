@@ -15,7 +15,7 @@ image: "images/sliner-page.png"
 image-alt: "Swissuniversities page for the Swiss Library Network for Education and Research (SLiNER)"
 image-caption: "Screenshot of the swissuniversities page for the Swiss Library Network for Education and Research (SLiNER). Source: https://www.swissuniversities.ch/organisation/gremien/netzwerke-und-vertretungen/swiss-library-network-for-education-and-research. Rights: swissuniversities."
 toc: true
-draft: true
+draft: false
 ---
 
 ## Details
