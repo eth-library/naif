@@ -4,11 +4,11 @@ subtitle: "What NAIF is, why it matters, and who is involved"
 description: "NAIF (National Approach for Interoperable repositories and Findable research results) is a swissuniversities-funded collaboration that strengthens interoperability and metadata quality across Swiss institutional repositories. By aligning policy, governance, and technical practice, the project improves the visibility and reusability of Swiss research outputs."
 other-links:
   - text: "News"
-    href: posts/index.qmd
+    href: posts/
   - text: "Events"
-    href: events/index.qmd
+    href: events/
   - text: "Publishing guidelines"
-    href: publishing-guidelines.qmd
+    href: publishing-guidelines/
   - text: "Project documents (Zenodo)"
     href: https://zenodo.org/communities/naif
 image: images/general/naif-event-image.png
@@ -133,7 +133,7 @@ The abstract and review of the NAIF project proposal are available on the [swiss
 ## Publishing guidelines
 
 Public guidance for project partners and contributors on how to write news posts or event entries for this site:
-[Publishing guidelines](publishing-guidelines.qmd)
+[Publishing guidelines](publishing-guidelines/)
 
 ## Contact
 

@@ -19,6 +19,16 @@ resources:
 .quarto-dashboard .nav-footer {
   display: none !important;
 }
+
+.quarto-dashboard .bslib-value-box .value-box-title {
+  font-size: 0.95rem;
+  line-height: 1.2;
+}
+
+.quarto-dashboard .bslib-value-box .value-box-value {
+  font-size: clamp(1.8rem, 2.8vw, 3rem);
+  line-height: 1.05;
+}
 </style>
 ```
 
@@ -107,7 +117,7 @@ dimensions_findable = int(df["tobi_findable_dim"].eq("Yes").sum())
 openalex_outputs = int(df["tobi_total_outputs_openalex_2012_2022"].fillna(0).sum())
 ```
 
-## Row {height=15%}
+## Row {height=11%}
 
 ```{python}
 #| content: valuebox
@@ -127,6 +137,8 @@ dict(icon="database", color="warning", value=f"{any_tobi} ({pct(any_tobi, total)
 dict(icon="search", color="info", value=f"{openalex_findable} ({pct(openalex_findable, total)})")
 ```
 
+## Row {height=11%}
+
 ```{python}
 #| content: valuebox
 #| title: "Dimensions Findable"
@@ -135,11 +147,11 @@ dict(icon="diagram-3", color="primary", value=f"{dimensions_findable} ({pct(dime
 
 ```{python}
 #| content: valuebox
-#| title: "OpenAlex Outputs (2012-2022)"
+#| title: "OpenAlex Outputs"
 dict(icon="bar-chart", color="success", value=f"{openalex_outputs:,}")
 ```
 
-## Row {height=85%}
+## Row {height=78%}
 
 ### Column {.tabset}
 
