@@ -1,26 +1,15 @@
 ---
 title: "TOBI Data Dashboard"
-format: dashboard
+format:
+  dashboard:
+    css: ../dashboard-common.css
 author: "Dr Moritz Mähr"
 description: "TOBI findability and output coverage for Swiss higher education institutions."
 date: today
-draft: true
+draft: false
 resources:
   - tobi.csv
 ---
-
-```{=html}
-<style>
-.quarto-dashboard .navbar-brand-container {
-  display: none !important;
-}
-
-.quarto-dashboard footer.footer,
-.quarto-dashboard .nav-footer {
-  display: none !important;
-}
-</style>
-```
 
 ```{python}
 #| echo: false
@@ -82,7 +71,7 @@ def pct(value: int, denominator: int) -> str:
 
 def display_html_table(dataframe: pd.DataFrame) -> None:
     table_html = dataframe.to_html(escape=False, index=False)
-    display(HTML(f'<div style="overflow-x:auto;">{table_html}</div>'))
+    display(HTML(f'<div class="dashboard-table-wrap">{table_html}</div>'))
 
 
 for _, findability_column, output_column, _ in TOBI_SOURCES:
@@ -107,7 +96,7 @@ dimensions_findable = int(df["tobi_findable_dim"].eq("Yes").sum())
 openalex_outputs = int(df["tobi_total_outputs_openalex_2012_2022"].fillna(0).sum())
 ```
 
-## Row {height=15%}
+## Row {height=11%}
 
 ```{python}
 #| content: valuebox
@@ -127,6 +116,8 @@ dict(icon="database", color="warning", value=f"{any_tobi} ({pct(any_tobi, total)
 dict(icon="search", color="info", value=f"{openalex_findable} ({pct(openalex_findable, total)})")
 ```
 
+## Row {height=11%}
+
 ```{python}
 #| content: valuebox
 #| title: "Dimensions Findable"
@@ -135,11 +126,11 @@ dict(icon="diagram-3", color="primary", value=f"{dimensions_findable} ({pct(dime
 
 ```{python}
 #| content: valuebox
-#| title: "OpenAlex Outputs (2012-2022)"
+#| title: "OpenAlex Outputs"
 dict(icon="bar-chart", color="success", value=f"{openalex_outputs:,}")
 ```
 
-## Row {height=85%}
+## Row {height=78%}
 
 ### Column {.tabset}
 

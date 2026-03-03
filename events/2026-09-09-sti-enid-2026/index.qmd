@@ -1,0 +1,33 @@
+---
+title: "STI-ENID 2026 Conference"
+date: 2026-09-09
+author: "ECOOM at University of Antwerp, KU Leuven, and VUB"
+author-title: "Organizer"
+description: "The 30th Annual International Conference on Science and Technology Indicators explores responsible research futures in Antwerp."
+categories:
+  - "Related Topic"
+tags:
+  - "STI indicators"
+  - "Research assessment"
+  - "Responsible research"
+proofread: false
+image: "images/sti-enid-2026-homepage.png"
+image-alt: "Conference homepage for the 30th STI-ENID Conference"
+image-caption: "Screenshot of the STI-ENID 2026 conference homepage. Source: https://www.uantwerpen.be/en/conferences/30th-annual-international-conference-on-science-and-technology-indicators/. Rights: University of Antwerp and STI-ENID 2026 organisers."
+toc: true
+---
+
+<!-- Source: <https://www.uantwerpen.be/en/conferences/30th-annual-international-conference-on-science-and-technology-indicators/> -->
+
+## Details
+
+- Date: Wednesday, 9 September 2026 to Friday, 11 September 2026
+- Location: Antwerp, Belgium
+- Registration: <https://www.uantwerpen.be/en/conferences/30th-annual-international-conference-on-science-and-technology-indicators/subscribe-for-updates/>
+- Event page: <https://www.uantwerpen.be/en/conferences/30th-annual-international-conference-on-science-and-technology-indicators/>
+
+## About
+
+The 30th Annual STI-ENID Conference is held under the theme "Indicators for a Responsible Research Future" and brings together researchers, policy experts, and practitioners working on science, technology, and innovation indicators.
+
+The programme focuses on how indicators can support diversity, openness, sustainability, and fair international collaboration in research systems, and how assessment approaches can better align with societal needs.

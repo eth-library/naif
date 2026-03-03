@@ -1,0 +1,27 @@
+---
+title: "Dashboards"
+subtitle: "Interactive NAIF data views"
+description: "Explore NAIF dashboards on interoperable repositories and findable research results."
+toc: false
+show-page-image: false
+listing:
+  id: dashboards
+  contents:
+    - "*/index.qmd"
+  sort: "title"
+  filter-ui:
+    - search
+  page-size: 12
+  fields:
+    - title
+    - date
+    - author
+    - description
+---
+
+::: {#dashboards}
+:::
+
+::: {.callout-note}
+Dashboard data are updated as source data and project outputs evolve.
+:::

@@ -13,7 +13,7 @@ exclude = [
 ]
 
 exclude_path = [
-  "dashboard/hei.csv"
+  "dashboards/naif/hei.csv"
 ]
 
 timeout = 20

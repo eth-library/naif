@@ -1,0 +1,32 @@
+.quarto-dashboard .navbar-brand-container,
+.quarto-dashboard footer.footer,
+.quarto-dashboard .nav-footer {
+  display: none;
+}
+
+.quarto-dashboard .dashboard-table-wrap {
+  overflow-x: auto;
+}
+
+.quarto-dashboard .nav-tabs {
+  --bs-nav-link-color: #1f2937;
+  --bs-nav-link-hover-color: #111827;
+  --bs-nav-tabs-link-hover-border-color: #9ca3af;
+  --bs-nav-tabs-link-active-color: #111827;
+  --bs-nav-tabs-link-active-bg: #ffffff;
+  --bs-nav-tabs-link-active-border-color: #6b7280 #6b7280 #ffffff;
+}
+
+.quarto-dashboard .nav-tabs .nav-link {
+  font-weight: 600;
+}
+
+.quarto-dashboard .bslib-value-box .value-box-title {
+  font-size: 0.95rem;
+  line-height: 1.2;
+}
+
+.quarto-dashboard .bslib-value-box .value-box-value {
+  font-size: clamp(1.8rem, 2.8vw, 3rem);
+  line-height: 1.05;
+}

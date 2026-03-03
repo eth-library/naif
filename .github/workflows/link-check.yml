@@ -31,10 +31,35 @@ jobs:
         with:
           args:
             --config .lycheerc.toml --root-dir ${{ github.workspace }} './*.md' './*.qmd'
-            './posts/**/*.qmd' './events/**/*.qmd'
+            './posts/**/*.qmd' './events/**/*.qmd' './dashboards/**/*.qmd'
           fail: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.14"
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+
+      - name: Sync Python environment
+        run: uv sync
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render Quarto project
+        run: uv run quarto render
+
+      - name: Rendered HTML link checker
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >
+            --offline --config .lycheerc.toml --root-dir ${{ github.workspace }}/_site
+            './_site/**/*.html'
+          fail: true
 
       - name: Save lychee cache
         uses: actions/cache/save@v4

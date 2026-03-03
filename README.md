@@ -34,13 +34,13 @@ uv sync
 
 ```bash
 npm run format
-npm run quarto:render
+npm run render
 ```
 
 ### Preview locally
 
 ```bash
-npm run quarto:preview
+npm run preview
 ```
 
 ### Export all pages/posts/events to one DOCX (including drafts)
@@ -48,7 +48,7 @@ npm run quarto:preview
 This repository includes a dedicated Quarto profile in `_quarto-docx.yml`.
 
 ```bash
-npm run quarto:docx
+npm run docx
 ```
 
 Output file:
@@ -67,11 +67,11 @@ npm run validate
 
 #### Quarto
 
-| Script                   | Command                               | Description                        |
-| ------------------------ | ------------------------------------- | ---------------------------------- |
-| `npm run quarto:render`  | `uv run quarto render`                | Render the full site into `_site/` |
-| `npm run quarto:preview` | `uv run quarto preview`               | Local dev server with live reload  |
-| `npm run quarto:docx`    | `uv run quarto render --profile docx` | Export site to a single DOCX       |
+| Script            | Command                               | Description                        |
+| ----------------- | ------------------------------------- | ---------------------------------- |
+| `npm run render`  | `uv run quarto render`                | Render the full site into `_site/` |
+| `npm run preview` | `uv run quarto preview`               | Local dev server with live reload  |
+| `npm run docx`    | `uv run quarto render --profile docx` | Export site to a single DOCX       |
 
 #### Code quality
 
@@ -92,14 +92,15 @@ npm run validate
 
 #### Project maintenance
 
-| Script                 | Command                                  | Description                                      |
-| ---------------------- | ---------------------------------------- | ------------------------------------------------ |
-| `npm run sync`         | `uv sync`                                | Install/sync Python dependencies                 |
-| `npm run validate`     | check + lint + typecheck + test + render | Full pre-PR validation                           |
-| `npm run deploy`       | render + jampack + publish               | Build, optimise, and deploy to GitHub Pages      |
-| `npm run changelog`    | `git-cliff`                              | Generate CHANGELOG from commits                  |
-| `npm run commit`       | `cz`                                     | Commitizen guided commit                         |
-| `npm run lychee-check` | `lychee`                                 | Check for broken links in `.md` and `.qmd` files |
+| Script                          | Command                                                          | Description                                             |
+| ------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------- |
+| `npm run sync`                  | `uv sync`                                                        | Install/sync Python dependencies                        |
+| `npm run validate`              | check + lint + typecheck + test + render + lychee-check:rendered | Full pre-PR validation                                  |
+| `npm run deploy`                | render + jampack + publish                                       | Build, optimise, and deploy to GitHub Pages             |
+| `npm run changelog`             | `git-cliff`                                                      | Generate CHANGELOG from commits                         |
+| `npm run commit`                | `cz`                                                             | Commitizen guided commit                                |
+| `npm run lychee-check`          | `lychee`                                                         | Check for broken links in source `.md` and `.qmd` files |
+| `npm run lychee-check:rendered` | `lychee --offline`                                               | Check internal links in rendered `_site/**/*.html`      |
 
 #### Screenshots
 

@@ -65,6 +65,25 @@ TYPE_COLOURS = {
     "Univ. Inst.": "#7C9070",
 }
 
+LEGEND_CONTAINER_STYLE = (
+    "position: fixed; top: 10px; left: 50px; background: #ffffff; padding: 10px; "
+    "border-radius: 5px; font-family: sans-serif; font-size: 12px; z-index: 9999;"
+)
+LEGEND_DOT_STYLE = "width:12px;height:12px;display:inline-block;border-radius:50%;margin-right:5px;"
+LEGEND_NOTE_STYLE = "margin-top: 5px;"
+
+
+def make_legend_html(items: list[tuple[str, str]], note: str | None = None) -> str:
+    rows = [f'<div style="{LEGEND_CONTAINER_STYLE}">']
+    for label, colour in items:
+        rows.append(
+            f'<div><span style="{LEGEND_DOT_STYLE}background:{colour};"></span>{label}</div>'
+        )
+    if note:
+        rows.append(f'<div style="{LEGEND_NOTE_STYLE}">{note}</div>')
+    rows.append("</div>")
+    return "".join(rows)
+
 dora = [
     {"s": "UNIBAS", "n": "University of Basel", "t": "University", "la": 47.5584, "lo": 7.5834, "c": "Basel"},
     {"s": "UniBE", "n": "University of Bern", "t": "University", "la": 46.9505, "lo": 7.4381, "c": "Bern"},
@@ -106,14 +125,14 @@ for r in dora:
         popup=f"<b>{r['n']}</b><br>Type: {r['t']}<br>{r['c']}",
     ).add_to(m)
 
-legend_html = """
-<div style="position: fixed; top: 10px; left: 50px; background: white; padding: 10px; border-radius: 5px; font-family: sans-serif; font-size: 12px; z-index: 9999;">
-    <div><span style="background:#F97B22;width:12px;height:12px;display:inline-block;border-radius:50%;margin-right:5px;"></span>Universities</div>
-    <div><span style="background:#FEE8B0;width:12px;height:12px;display:inline-block;border-radius:50%;margin-right:5px;"></span>Universities of Applied Sciences</div>
-    <div><span style="background:#9CA777;width:12px;height:12px;display:inline-block;border-radius:50%;margin-right:5px;"></span>Teacher Education</div>
-    <div><span style="background:#7C9070;width:12px;height:12px;display:inline-block;border-radius:50%;margin-right:5px;"></span>University Institutes</div>
-</div>
-"""
+legend_html = make_legend_html(
+    [
+        ("Universities", "#F97B22"),
+        ("Universities of Applied Sciences", "#FEE8B0"),
+        ("Teacher Education", "#9CA777"),
+        ("University Institutes", "#7C9070"),
+    ]
+)
 m.get_root().html.add_child(folium.Element(legend_html))
 m
 ```
@@ -122,8 +141,6 @@ m
 #| echo: false
 #| label: fig-coara-map
 #| fig-cap: "CoARA signatories among Swiss higher education institutions (16 of 46). Asterisk (*) indicates CoARA members."
-import folium
-
 TYPE_COLOURS = {
     "University": "#F97B22",
     "UAS": "#FEE8B0",
@@ -166,14 +183,14 @@ for r in coara:
         popup=f"<b>{r['n']}</b><br>Type: {r['t']}<br>{r['c']}<br>CoARA Member: {member_text}",
     ).add_to(m)
 
-legend_html = """
-<div style="position: fixed; top: 10px; left: 50px; background: white; padding: 10px; border-radius: 5px; font-family: sans-serif; font-size: 12px; z-index: 9999;">
-    <div><span style="background:#F97B22;width:12px;height:12px;display:inline-block;border-radius:50%;margin-right:5px;"></span>Universities</div>
-    <div><span style="background:#FEE8B0;width:12px;height:12px;display:inline-block;border-radius:50%;margin-right:5px;"></span>Universities of Applied Sciences</div>
-    <div><span style="background:#9CA777;width:12px;height:12px;display:inline-block;border-radius:50%;margin-right:5px;"></span>Teacher Education</div>
-    <div style="margin-top: 5px;">* CoARA Member</div>
-</div>
-"""
+legend_html = make_legend_html(
+    [
+        ("Universities", "#F97B22"),
+        ("Universities of Applied Sciences", "#FEE8B0"),
+        ("Teacher Education", "#9CA777"),
+    ],
+    note="* CoARA Member",
+)
 m.get_root().html.add_child(folium.Element(legend_html))
 m
 ```

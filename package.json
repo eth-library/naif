@@ -12,7 +12,8 @@
     "jampack": "npx @divriots/jampack _site",
     "lint": "uv run ruff check .",
     "lint:fix": "uv run ruff check --fix .",
-    "lychee-check": "lychee --config .lycheerc.toml './*.md' './*.qmd' './posts/**/*.qmd' './events/**/*.qmd'",
+    "lychee-check": "lychee --config .lycheerc.toml './*.md' './*.qmd' './posts/**/*.qmd' './events/**/*.qmd' './dashboards/**/*.qmd'",
+    "lychee-check:rendered": "lychee --offline --config .lycheerc.toml './_site/**/*.html'",
     "prepare": "prek install",
     "preview": "uv run quarto preview",
     "publish": "PREK_ALLOW_NO_CONFIG=1 quarto publish gh-pages --no-render",
@@ -23,7 +24,7 @@
     "test": "uv run pytest",
     "test:cov": "uv run pytest --cov",
     "typecheck": "uv run ty check",
-    "validate": "npm run check && npm run lint && npm run typecheck && npm run test && npm run render"
+    "validate": "npm run check && npm run lint && npm run typecheck && npm run test && npm run render && npm run lychee-check:rendered"
   },
   "devDependencies": {
     "@j178/prek": "^0.3.1",

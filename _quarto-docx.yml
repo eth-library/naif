@@ -6,7 +6,8 @@ project:
     - about.qmd
     - disclaimer.qmd
     - publishing-guidelines.qmd
-    - dashboard/index.qmd
+    - dashboards/naif/index.qmd
+    - dashboards/tobi/index.qmd
     - posts/index.qmd
     - posts/**/index.qmd
     - events/index.qmd
@@ -24,7 +25,8 @@ book:
     - about.qmd
     - disclaimer.qmd
     - publishing-guidelines.qmd
-    - dashboard/index.qmd
+    - dashboards/naif/index.qmd
+    - dashboards/tobi/index.qmd
     - posts/index.qmd
     - posts/2026-slsp-naif/index.qmd
     - posts/2026-02-10-track-4-workshop-2025-12-08/index.qmd
