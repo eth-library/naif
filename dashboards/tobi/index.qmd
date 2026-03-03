@@ -1,6 +1,8 @@
 ---
 title: "TOBI Data Dashboard"
-format: dashboard
+format:
+  dashboard:
+    css: ../dashboard-common.css
 author: "Dr Moritz Mähr"
 description: "TOBI findability and output coverage for Swiss higher education institutions."
 date: today
@@ -8,29 +10,6 @@ draft: false
 resources:
   - tobi.csv
 ---
-
-```{=html}
-<style>
-.quarto-dashboard .navbar-brand-container {
-  display: none !important;
-}
-
-.quarto-dashboard footer.footer,
-.quarto-dashboard .nav-footer {
-  display: none !important;
-}
-
-.quarto-dashboard .bslib-value-box .value-box-title {
-  font-size: 0.95rem;
-  line-height: 1.2;
-}
-
-.quarto-dashboard .bslib-value-box .value-box-value {
-  font-size: clamp(1.8rem, 2.8vw, 3rem);
-  line-height: 1.05;
-}
-</style>
-```
 
 ```{python}
 #| echo: false
@@ -92,7 +71,7 @@ def pct(value: int, denominator: int) -> str:
 
 def display_html_table(dataframe: pd.DataFrame) -> None:
     table_html = dataframe.to_html(escape=False, index=False)
-    display(HTML(f'<div style="overflow-x:auto;">{table_html}</div>'))
+    display(HTML(f'<div class="dashboard-table-wrap">{table_html}</div>'))
 
 
 for _, findability_column, output_column, _ in TOBI_SOURCES:

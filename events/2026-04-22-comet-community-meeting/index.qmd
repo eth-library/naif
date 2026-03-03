@@ -1,0 +1,34 @@
+---
+title: "COMET Community Meeting 22 April"
+date: 2026-04-22
+author: "DataCite"
+author-title: "Organizer"
+description: "Community meeting with roadmap updates, demonstrations, and discussion from the COMET team and members."
+categories:
+  - "Related Topic"
+tags:
+  - "COMET"
+  - "DataCite"
+  - "Community meeting"
+proofread: false
+image: "images/comet-community-meeting.png"
+image-alt: "Registration page banner for the COMET Community Meeting on 22 April 2026"
+image-caption: "Registration page banner for the COMET Community Meeting 22 April. Source: https://datacite.zoom.us/meeting/register/B5KGjV5QQQO2-p8WtSNzQw#/registration. Rights: DataCite/COMET."
+toc: true
+---
+
+<!-- Sources: <https://datacite.zoom.us/meeting/register/B5KGjV5QQQO2-p8WtSNzQw#/registration>, <https://www.cometadata.org/> -->
+
+## Details
+
+- Date: Wednesday, 22 April 2026
+- Time: 17:00 (Zurich, CEST)
+- Location: Online
+- Registration: <https://datacite.zoom.us/meeting/register/B5KGjV5QQQO2-p8WtSNzQw#/registration>
+- Event page: <https://www.cometadata.org/>
+
+## About
+
+The COMET Community Meeting includes updates from the COMET team, opportunities to share feedback on the roadmap, demonstrations, and presentations by COMET community members.
+
+The session is designed as an open community forum for people interested in COMET developments and implementation practice.

@@ -56,7 +56,6 @@ format:
       - partials/title-block.html
     theme:
       light: [brand, cosmo, base_colors.scss, custom.scss]
-    css: styles.css
     canonical-url: true
     toc: true
     toc-expand: true

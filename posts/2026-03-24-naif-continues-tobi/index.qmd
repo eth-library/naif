@@ -19,7 +19,7 @@ image: "images/tobi-homepage.png"
 image-alt: "Screenshot of the TOBI project homepage"
 image-caption: "TOBI project homepage. Source: https://eth-library.github.io/tobi/. Rights: ETH Library / TOBI."
 toc: true
-draft: false
+draft: true
 ---
 
 ## What TOBI established

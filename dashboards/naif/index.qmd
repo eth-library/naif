@@ -1,6 +1,8 @@
 ---
 title: "DORA & CoARA in Swiss Higher Education"
-format: dashboard
+format:
+  dashboard:
+    css: ../dashboard-common.css
 author: "Dr. Moritz Mähr"
 description: "An interactive dashboard showcasing the adoption of DORA and CoARA among Swiss higher education institutions."
 date: today
@@ -8,47 +10,6 @@ draft: false
 resources:
   - hei.csv
 ---
-
-```{=html}
-<style>
-.panel-tabset .nav-tabs .nav-link,
-.nav-tabs .nav-link {
-  color: #1f2937;
-  font-weight: 600;
-}
-
-.panel-tabset .nav-tabs .nav-link:hover,
-.panel-tabset .nav-tabs .nav-link:focus,
-.nav-tabs .nav-link:hover,
-.nav-tabs .nav-link:focus {
-  color: #111827;
-  background-color: #f3f4f6;
-  border-color: #9ca3af;
-}
-
-.panel-tabset .nav-tabs .nav-link.active,
-.panel-tabset .nav-tabs .nav-item.show .nav-link,
-.nav-tabs .nav-link.active,
-.nav-tabs .nav-item.show .nav-link {
-  color: #111827;
-  background-color: #ffffff;
-  border-color: #6b7280 #6b7280 #ffffff;
-}
-
-.dashboard-table-wrap {
-  overflow-x: auto;
-}
-
-.quarto-dashboard .navbar-brand-container {
-  display: none !important;
-}
-
-.quarto-dashboard footer.footer,
-.quarto-dashboard .nav-footer {
-  display: none !important;
-}
-</style>
-```
 
 ```{python}
 #| echo: false
@@ -82,6 +43,11 @@ LEGEND_STYLE = (
     "box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15); font-family: sans-serif; "
     "font-size: 13px; color: #111827; z-index: 9999;"
 )
+LEGEND_SWATCH_STYLE = (
+    "width:12px;height:12px;display:inline-block;border-radius:50%;"
+    "border:1px solid #111827;margin-right:6px;"
+)
+LEGEND_NOTE_STYLE = "margin-top: 5px;"
 WIKIDATA_BASE = "https://www.wikidata.org"
 WIKIDATA_PATH = "/wiki/"
 CROSSREF_BASE = "https://api.crossref.org"
@@ -185,14 +151,13 @@ def add_type_legend(
         label = LEGEND_LABELS[institution_type]
         legend_html += (
             "<div>"
-            f'<span style="background:{colour};width:12px;height:12px;display:inline-block;'
-            'border-radius:50%;border:1px solid #111827;margin-right:6px;"></span>'
+            f'<span style="{LEGEND_SWATCH_STYLE}background:{colour};"></span>'
             f"{label}"
             "</div>"
         )
 
     if extra_note:
-        legend_html += f'<div style="margin-top: 5px;">{extra_note}</div>'
+        legend_html += f'<div style="{LEGEND_NOTE_STYLE}">{extra_note}</div>'
 
     legend_html += "</div>"
     _ = map_obj.get_root().html.add_child(folium.Element(legend_html))

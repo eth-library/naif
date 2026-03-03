@@ -92,14 +92,15 @@ npm run validate
 
 #### Project maintenance
 
-| Script                 | Command                                  | Description                                      |
-| ---------------------- | ---------------------------------------- | ------------------------------------------------ |
-| `npm run sync`         | `uv sync`                                | Install/sync Python dependencies                 |
-| `npm run validate`     | check + lint + typecheck + test + render | Full pre-PR validation                           |
-| `npm run deploy`       | render + jampack + publish               | Build, optimise, and deploy to GitHub Pages      |
-| `npm run changelog`    | `git-cliff`                              | Generate CHANGELOG from commits                  |
-| `npm run commit`       | `cz`                                     | Commitizen guided commit                         |
-| `npm run lychee-check` | `lychee`                                 | Check for broken links in `.md` and `.qmd` files |
+| Script                          | Command                                                        | Description                                             |
+| ------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------- |
+| `npm run sync`                  | `uv sync`                                                      | Install/sync Python dependencies                        |
+| `npm run validate`              | check + lint + typecheck + test + render + rendered-link-check | Full pre-PR validation                                  |
+| `npm run deploy`                | render + jampack + publish                                     | Build, optimise, and deploy to GitHub Pages             |
+| `npm run changelog`             | `git-cliff`                                                    | Generate CHANGELOG from commits                         |
+| `npm run commit`                | `cz`                                                           | Commitizen guided commit                                |
+| `npm run lychee-check`          | `lychee`                                                       | Check for broken links in source `.md` and `.qmd` files |
+| `npm run lychee-check:rendered` | `lychee --offline`                                             | Check internal links in rendered `_site/**/*.html`      |
 
 #### Screenshots
 
