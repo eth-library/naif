@@ -2,6 +2,7 @@ project:
   type: website
   render:
     - "*.qmd"
+    - "dashboards/**/index.qmd"
     - "posts/index.qmd"
     - "posts/**/index.qmd"
     - "events/**/index.qmd"
@@ -38,9 +39,9 @@ website:
       # - text: Data
       #   menu:
       #    - text: NAIF
-      #      href: dashboard/index.qmd
+      #      href: dashboards/naif/index.qmd
       #    - text: TOBI
-      #      href: dashboard-tobi/index.qmd
+      #      href: dashboards/tobi/index.qmd
     pinned: true
   page-footer:
     center:

@@ -12,7 +12,7 @@
     "jampack": "npx @divriots/jampack _site",
     "lint": "uv run ruff check .",
     "lint:fix": "uv run ruff check --fix .",
-    "lychee-check": "lychee --config .lycheerc.toml './*.md' './*.qmd' './posts/**/*.qmd' './events/**/*.qmd'",
+    "lychee-check": "lychee --config .lycheerc.toml './*.md' './*.qmd' './posts/**/*.qmd' './events/**/*.qmd' './dashboards/**/*.qmd'",
     "prepare": "prek install",
     "preview": "uv run quarto preview",
     "publish": "PREK_ALLOW_NO_CONFIG=1 quarto publish gh-pages --no-render",

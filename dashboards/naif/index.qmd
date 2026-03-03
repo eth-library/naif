@@ -4,7 +4,7 @@ format: dashboard
 author: "Dr. Moritz Mähr"
 description: "An interactive dashboard showcasing the adoption of DORA and CoARA among Swiss higher education institutions."
 date: today
-draft: true
+draft: false
 resources:
   - hei.csv
 ---

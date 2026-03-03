@@ -4,7 +4,7 @@ format: dashboard
 author: "Dr Moritz Mähr"
 description: "TOBI findability and output coverage for Swiss higher education institutions."
 date: today
-draft: true
+draft: false
 resources:
   - tobi.csv
 ---
