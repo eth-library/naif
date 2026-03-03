@@ -13,7 +13,7 @@
     "lint": "uv run ruff check .",
     "lint:fix": "uv run ruff check --fix .",
     "lychee-check": "lychee --config .lycheerc.toml './*.md' './*.qmd' './posts/**/*.qmd' './events/**/*.qmd' './dashboards/**/*.qmd'",
-    "lychee-check:rendered": "lychee --offline --fallback-extensions html,htm --config .lycheerc.toml './_site/**/*.html'",
+    "lychee-check:rendered": "lychee --offline --config .lycheerc.toml './_site/**/*.html'",
     "prepare": "prek install",
     "preview": "uv run quarto preview",
     "publish": "PREK_ALLOW_NO_CONFIG=1 quarto publish gh-pages --no-render",
