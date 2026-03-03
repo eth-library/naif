@@ -2,6 +2,7 @@ project:
   type: website
   render:
     - "*.qmd"
+    - "dashboards/index.qmd"
     - "dashboards/**/index.qmd"
     - "posts/index.qmd"
     - "posts/**/index.qmd"

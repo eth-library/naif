@@ -31,7 +31,7 @@ jobs:
         with:
           args:
             --config .lycheerc.toml --root-dir ${{ github.workspace }} './*.md' './*.qmd'
-            './posts/**/*.qmd' './events/**/*.qmd'
+            './posts/**/*.qmd' './events/**/*.qmd' './dashboards/**/*.qmd'
           fail: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
