@@ -155,6 +155,7 @@ If you have any questions, feedback or ideas, or if you would like to connect wi
 
 - [Pascale Bouton](https://people.epfl.ch/pascale.bouton) (EPFL)
 - [Dr David Johann](https://yearofscientometrics.ethz.ch/author/4021650ethz-ch/) (ETH Library, ETH Zurich)
+- [Dr Efrain Ochoa-Martinez](https://www.unifr.ch/directory/de/people/225255/5f67c) (University of Fribourg)
 - [Dr Martin Jaekel](https://www.zhaw.ch/en/about-us/person/jaek) (ZHAW Zurich University of Applied Sciences)
 - [Dr Andrea Malits](https://www.ub.uzh.ch/en/ueber-die-ub/ub_organisation/ub_mitarbeitende/andrea_malits.html) (University of Zurich)
 - [Dr Rüdiger Mutz](https://www.chess.uzh.ch/en/en-about/geschaeftsstelle/Project-Managments/rmutz.html) (CHESS, University of Zurich)
@@ -164,6 +165,10 @@ If you have any questions, feedback or ideas, or if you would like to connect wi
 ### Project contributors
 
 [list of contributors in preparation]
+
+### Former members
+
+- [Simon Willemin](https://www.dh.unibe.ch/ueber_uns/personen/willemin_simon/index_ger.html)
 
 ## Other projects and initiatives
 
