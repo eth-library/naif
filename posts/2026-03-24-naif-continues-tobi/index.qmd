@@ -1,7 +1,8 @@
 ---
 title: "How NAIF Builds on TOBI's Results in Switzerland"
 subtitle: "From evidence on open scholarly data to coordinated implementation."
-date: "2025-12-15"
+# date: "2026-03-24"
+date: today
 author:
   - name: "Dr Moritz Mähr"
     orcid: "0000-0002-1367-1618"
@@ -18,7 +19,7 @@ image: "images/tobi-homepage.png"
 image-alt: "Screenshot of the TOBI project homepage"
 image-caption: "TOBI project homepage. Source: https://eth-library.github.io/tobi/. Rights: ETH Library / TOBI."
 toc: true
-draft: true
+draft: false
 ---
 
 ## What TOBI established
