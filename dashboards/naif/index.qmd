@@ -404,7 +404,7 @@ all_institutions = all_institutions.rename(
         "type": "Type",
         "town": "Town",
         "dora_signatory": "DORA",
-        "coara_signatory": "CoARA",
+        "coara_signatory": "CoARA signatory",
         "coara_member": "CoARA member",
         "swissuniversities_name": "swissuniversities name",
         "openalex_ids": "OpenAlex IDs",
