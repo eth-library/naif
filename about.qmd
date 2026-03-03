@@ -8,7 +8,7 @@ other-links:
   - text: "Events"
     href: events/
   - text: "Publishing guidelines"
-    href: publishing-guidelines/
+    href: publishing-guidelines.html
   - text: "Project documents (Zenodo)"
     href: https://zenodo.org/communities/naif
 image: images/general/naif-event-image.png
@@ -133,7 +133,7 @@ The abstract and review of the NAIF project proposal are available on the [swiss
 ## Publishing guidelines
 
 Public guidance for project partners and contributors on how to write news posts or event entries for this site:
-[Publishing guidelines](publishing-guidelines/)
+[Publishing guidelines](publishing-guidelines.qmd)
 
 ## Contact
 
