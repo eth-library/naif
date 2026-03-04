@@ -3,9 +3,9 @@ title: "DARIAH Annual Event 2026"
 date: 2026-05-26
 author: "DARIAH ERIC"
 author-title: "Organizer"
-description: "In-person DARIAH Annual Event in Rome (26-29 May 2026) on infrastructures of engagement in digital arts and humanities."
+description: "NAIF participates in the DARIAH Annual Event in Rome (26-29 May 2026), where Dr Moritz Mähr presents a poster on Track 1 and Track 4."
 categories:
-  - "Related Topic"
+  - "Participation by NAIF"
 tags:
   - "DARIAH"
   - "Conference"
@@ -26,9 +26,12 @@ toc: true
 - Registration: <https://annualevent.dariah.eu/registration/>
 - Call for papers: <https://annualevent.dariah.eu/call-for-papers/>
 - Event page: <https://annualevent.dariah.eu/>
+- NAIF participation: Dr Moritz Mähr presents a poster on Track 1 and Track 4.
 
 ## About
 
 The DARIAH Annual Event 2026 focuses on "Digital Arts and Humanities With and For Society: Building Infrastructures of Engagement". The event brings together researchers and practitioners from arts, humanities, cultural heritage, and information sciences to exchange work on digitally enabled research and collaboration.
 
 The programme includes DARIAH internal meetings on 26 May and the main conference from 27 to 29 May.
+
+NAIF is represented by Dr Moritz Mähr, who presents a poster covering Track 1 and Track 4.
