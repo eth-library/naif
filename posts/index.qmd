@@ -23,7 +23,8 @@ listing:
   filter-ui:
     - categories
     - search
-  page-size: 12
+  max-items: 1000
+  page-size: 1000
   fields:
     - image
     - title

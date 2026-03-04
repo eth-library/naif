@@ -5,6 +5,7 @@ listing:
   - id: home-events
     contents: events/*/index.qmd
     sort: "date desc"
+    max-items: 3
     page-size: 3
     fields: [image, title, date, description]
     sort-ui: false
@@ -12,6 +13,7 @@ listing:
   - id: home-posts
     contents: posts/*/index.qmd
     sort: "date desc"
+    max-items: 3
     page-size: 3
     fields: [image, title, date, description]
     sort-ui: false
