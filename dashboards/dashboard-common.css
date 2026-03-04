@@ -27,6 +27,6 @@
 }
 
 .quarto-dashboard .bslib-value-box .value-box-value {
-  font-size: clamp(1.8rem, 2.8vw, 3rem);
+  font-size: clamp(1.35rem, 2.2vw, 2.4rem);
   line-height: 1.05;
 }
