@@ -47,6 +47,11 @@ We presented a poster titled [*On the Current and Future Uses of Quantitative Sc
 
 The poster synthesised results from the 6th Swiss Year of Scientometrics (SYoS) workshop, held on 11 September 2025, with 27 stakeholders from Swiss HEIs, policy bodies, and international initiatives. It also outlined a planned qualitative survey targeting Swiss HEIs and other stakeholders such as the Swiss National Science Foundation (SNSF) and the State Secretariat for Education, Research and Innovation (SERI).
 
+::: {.callout-note}
+## Explore the NAIF dashboard
+View the interactive NAIF dashboard here: [DORA & CoARA in Swiss Higher Education](../../dashboards/naif/).
+:::
+
 
 ## What we found
 

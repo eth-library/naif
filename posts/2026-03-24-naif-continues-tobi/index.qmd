@@ -27,6 +27,11 @@ TOBI (Towards Open Bibliometric Indicators) closed in July 2025 having establish
 
 NAIF continues from that same premise, but places it in a wider interoperability context. Under NAIF, the data quality conditions evaluated by TOBI become operational requirements across Swiss repositories, directly ensuring the findability and visibility of Swiss research.
 
+::: {.callout-note}
+## Explore the TOBI dashboard
+View the interactive TOBI data dashboard here: [TOBI Data Dashboard](../../dashboards/tobi/).
+:::
+
 ## What we did
 
 TOBI delivered comparative analyses, methods, tools, and curation work that can be reused by Swiss institutions. Using transparency principles aligned with DORA, it evaluated data provenance and methodological openness across open and commercial databases.
