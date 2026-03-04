@@ -18,7 +18,9 @@ tags:
   - "Open Science"
   - "Partnerships"
 proofread: false
-# image: 
+image: images/slsp-strategy-announcement.png
+image-alt: "Screenshot of the SLSP Strategy 2026-2029 announcement page"
+image-caption: "Screenshot of the SLSP strategy announcement page. Source: https://slsp.ch/en/strategy/. Rights: SLSP."
 toc: true
 ---
 
