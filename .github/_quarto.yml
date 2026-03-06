@@ -1,6 +1,8 @@
 project:
   type: website
 
+lang: en-UK
+
 website:
   title: "NAIF"
   site-url: "https://eth-library.github.io/naif/"

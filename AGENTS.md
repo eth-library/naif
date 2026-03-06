@@ -32,16 +32,21 @@ uv run quarto render
 - Quarto execution support: `jupyter`, `ipykernel`
 - Dev tooling: `ruff`, `ty`, `pytest`, `pytest-cov`
 
-### Agent tooling specification
+## Agent workflow
 
-This repository is a Quarto website project with lightweight Python support.
+- Treat this repository as a Quarto website project with lightweight Python support.
+- Use `uv`-managed tooling only; keep changes compatible with Python 3.14 and Quarto/Jupyter.
+- Prefer lightweight dependencies and avoid unnecessary system-level runtime requirements.
 
-### Agentic content policy
+### Content defaults
 
 - When generating or editing blog posts and event entries, use British English spelling and style.
+- Keep site and page language metadata aligned with that policy by using the language code `en-UK`.
 - Exception: reposts may retain original wording when needed for faithful attribution.
 
-#### 1. Core development tooling
+### Available tooling
+
+#### Core development
 
 - uv
 - ruff
@@ -49,27 +54,22 @@ This repository is a Quarto website project with lightweight Python support.
 - pytest
 - pytest-cov
 
-#### 2. Quarto execution support
+#### Quarto execution
 
 - jupyter
 - ipykernel
 
-#### 3. Mapping/visualisation support
+#### Mapping/visualisation
 
 - folium
 
-#### Coding guidelines
+### Coding guidelines
 
 - **Type safety:** use type hints throughout all code.
 - **Data structure:** use Pydantic models or Python dataclasses for structured data.
 - **Documentation:** include docstrings for non-trivial Python functions.
 - **Testing:** add or update tests for non-trivial logic.
 - **Paradigm:** prefer functional programming patterns over object-oriented programming.
-
-#### Runtime constraints
-
-- Keep Python tooling compatible with the project environment (`uv`, Python 3.14, Quarto/Jupyter).
-- Prefer lightweight dependencies and avoid unnecessary system-level runtime requirements.
 
 Common commands:
 
@@ -107,6 +107,7 @@ uv run quarto render
 ### Language and spelling
 
 - Blog posts and event pages must use British English.
+- Use `en-UK` in Quarto language metadata when setting or updating page or site language.
 - Exception: reposts may preserve source-language wording where necessary.
 
 ### Cross-linking posts and events
