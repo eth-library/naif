@@ -12,7 +12,7 @@ listing:
   feed:
     type: metadata
     items: 50
-    title: "NAIF Events"
+    title: "NAIF events"
   filter-ui:
     - categories
     - search

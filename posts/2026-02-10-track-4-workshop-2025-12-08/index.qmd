@@ -1,5 +1,5 @@
 ---
-title: "Prioritising Actions for Better Academic Metadata"
+title: "Prioritising actions for better academic metadata"
 subtitle: "Workshop participants used the ACM method to prioritise actions for metadata improvement."
 date: "2025-12-08"
 author:
@@ -43,7 +43,7 @@ What was still missing was a shared sense of priority: which proposed actions ar
 
 To address this question, a second workshop took place on 8 December 2025 as a 90-minute online session. Twenty-one participants from fifteen institutions --- including ETH Zurich, EPFL, University of Zurich, ZHAW, University of Fribourg, University of Neuchâtel, University of St. Gallen, Lib4RI, Berner Fachhochschule, Pädagogische Hochschule St. Gallen, and SLSP --- met to classify and refine the proposed actions.
 
-## The method: Agreement & Certainty Matrix
+## The method: agreement and certainty matrix
 
 The Agreement & Certainty Matrix (ACM) was used to move beyond simple voting. The ACM asks two questions about each proposed action: how much do stakeholders agree on the problem and the direction of the solution, and how predictable is it that a chosen intervention will succeed in our context? Crossing these two dimensions produces four domains --- Simple, Complicated, Complex, and Chaos --- each suggesting a different style of action.
 

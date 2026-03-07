@@ -42,6 +42,9 @@ uv run quarto render
 
 - When generating or editing blog posts and event entries, use British English spelling and style.
 - Keep site and page language metadata aligned with that policy by using the language code `en-UK`.
+- Use sentence case for page titles and section headings by default.
+- Preserve official branded styling for proper nouns, acronyms, and formal event names (for example
+  `NAIF`, `ORCID`, `DARIAH Annual Event 2026`).
 - Exception: reposts may retain original wording when needed for faithful attribution.
 
 ### Available tooling
@@ -93,6 +96,7 @@ uv run quarto render
 ### Front matter (recommended minimum)
 
 - `title`
+- `title` should use sentence case unless it reproduces an official branded name
 - `date`
 - `author` (for events: organizer)
 - `author-title` (for events: set to `Organizer`)

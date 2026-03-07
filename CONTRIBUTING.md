@@ -28,6 +28,8 @@ Thanks for considering a contribution.
 - British English is preferred for posts and event pages, except reposts where source wording may be
   preserved.
 - When setting Quarto language metadata, use `lang: en-UK`.
+- Use sentence case for page titles and section headings by default.
+- Preserve official branded styling for proper nouns, acronyms, and formal event names.
 - Keep images local to the entry folder and include alt text, caption, and rights attribution.
 - Posts and events inherit a fallback card image via `posts/_metadata.yml` and
   `events/_metadata.yml`; set a page-level `image:` in each entry to override this default.

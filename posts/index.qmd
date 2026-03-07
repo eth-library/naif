@@ -19,7 +19,7 @@ listing:
   feed:
     type: partial
     items: 20
-    title: "NAIF News"
+    title: "NAIF news"
   filter-ui:
     - categories
     - search

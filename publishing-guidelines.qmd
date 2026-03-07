@@ -36,6 +36,8 @@ This guide explains how to prepare NAIF news posts and event pages. It is writte
 ## Language and spelling
 
 - Use British English for news posts and for event pages that are not reposts.
+- Use sentence case for page titles and section headings by default.
+- Preserve official branded styling for proper nouns, acronyms, and formal event names.
 - Reposts may keep the original wording and spelling when needed.
 
 ## News post guidance
@@ -44,7 +46,7 @@ Use a news post for updates, findings, progress reports, or opinion pieces.
 
 **Required information at the top of the page**
 
-- `title` (<= 70 chars)
+- `title` (<= 70 chars; use sentence case unless it reproduces an official branded name)
 - `subtitle` (optional; concise one-line context)
 - `date` (YYYY-MM-DD)
 - `author`
@@ -70,7 +72,7 @@ Use an event page for announcements and for documenting past events.
 
 **Required information at the top of the page**
 
-- `title` (<= 70 chars)
+- `title` (<= 70 chars; use sentence case unless it reproduces an official branded name)
 - `date` (YYYY-MM-DD)
 - `author` (organiser name)
 - `author-title`: `Organizer`

@@ -1,5 +1,5 @@
 ---
-title: "SLSP Strategy 2026–2029: Where NAIF connects"
+title: "SLSP strategy 2026–2029: where NAIF connects"
 subtitle: "SLSP published its strategy for 2026–2029. We see shared ground on open science, metadata quality, and interoperability — and room for coordination."
 date: 2026-02-09
 draft: true

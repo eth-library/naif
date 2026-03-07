@@ -1,5 +1,5 @@
 ---
-title: "Workshop: Improving academic metadata (Neuchatel)"
+title: "Workshop: improving academic metadata (Neuchatel)"
 date: 2025-10-15
 author: "NAIF"
 author-title: "Organizer"

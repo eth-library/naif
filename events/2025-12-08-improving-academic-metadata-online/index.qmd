@@ -1,5 +1,5 @@
 ---
-title: "Workshop: Improving academic metadata (Track 4)"
+title: "Workshop: improving academic metadata (Track 4)"
 date: 2025-12-08
 author: "NAIF"
 author-title: "Organizer"

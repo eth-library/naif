@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Open Academic Data through NAIF Track 4"
+title: "Enhancing open academic data through NAIF Track 4"
 subtitle: "Track 4 shared practical metadata challenges and next steps with the SOAD community."
 date: 2025-09-26
 author:

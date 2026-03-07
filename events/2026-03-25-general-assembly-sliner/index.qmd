@@ -28,7 +28,7 @@ draft: false
 
 ## About
 
-The General Assembly of SLiNER (Swiss Library Network for Education and Research) includes an afternoon workshop for library directors and leaders from Swiss higher education institutions.
+The General Assembly of SLiNER (Swiss Library Network for Education and Research) includes an afternoon workshop for library directors and leaders from Swiss Higher Education Institutions.
 
 NAIF plans to contribute to this workshop as a participating project, with a focus on exchange across institutions and practical collaboration opportunities for academic libraries.
 

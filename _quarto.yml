@@ -18,7 +18,7 @@ lang: en-UK
 
 website:
   title: "NAIF"
-  site-url: "https://eth-library.github.io/naif/"
+  site-url: "https://maehr.github.io/naif/"
   repo-url: "https://github.com/eth-library/naif"
   issue-url: "https://github.com/eth-library/naif/issues/new/choose"
   repo-actions: [issue]

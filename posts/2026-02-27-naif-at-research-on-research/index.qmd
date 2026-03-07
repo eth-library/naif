@@ -19,8 +19,8 @@ tags:
   - "poster"
 proofread: true
 image: "images/poster.png"
-image-alt: 'Poster summarising findings on the use of quantitative scientometric indicators in Swiss higher education institutions.'
-image-caption: 'Poster summarising findings on the use of quantitative scientometric indicators in Swiss higher education institutions. Rights: Authors, used with permission.'
+image-alt: 'Poster summarising findings on the use of quantitative scientometric indicators in Swiss Higher Education Institutions.'
+image-caption: 'Poster summarising findings on the use of quantitative scientometric indicators in Swiss Higher Education Institutions. Rights: Authors, used with permission.'
 toc: true
 draft: false
 ---
@@ -60,7 +60,7 @@ The poster addressed four topics. First, QSI adoption is growing --- 24 Swiss in
 ```{python}
 #| echo: false
 #| label: fig-dora-map
-#| fig-cap: "DORA signatories among Swiss higher education institutions (24 of 46)."
+#| fig-cap: "DORA signatories among Swiss Higher Education Institutions (24 of 46)."
 import folium
 
 TYPE_COLOURS = {
@@ -145,7 +145,7 @@ m
 ```{python}
 #| echo: false
 #| label: fig-coara-map
-#| fig-cap: "CoARA signatories among Swiss higher education institutions (16 of 46). Asterisk (*) indicates CoARA members."
+#| fig-cap: "CoARA signatories among Swiss Higher Education Institutions (16 of 46). Asterisk (*) indicates CoARA members."
 TYPE_COLOURS = {
     "University": "#F97B22",
     "UAS": "#FEE8B0",
