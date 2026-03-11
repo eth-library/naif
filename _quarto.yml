@@ -14,7 +14,7 @@ project:
     - site.webmanifest
     - llms.txt
 
-lang: en-UK
+lang: en-GB
 
 website:
   title: "NAIF"
