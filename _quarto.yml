@@ -14,11 +14,11 @@ project:
     - site.webmanifest
     - llms.txt
 
-lang: en-GB
+lang: en-UK
 
 website:
   title: "NAIF"
-  site-url: "https://maehr.github.io/naif/"
+  site-url: "https://eth-library.github.io/naif/"
   repo-url: "https://github.com/eth-library/naif"
   issue-url: "https://github.com/eth-library/naif/issues/new/choose"
   repo-actions: [issue]
