@@ -28,7 +28,6 @@ toc: true
 - Registration deadline: One week before the course date
 - Registration: <https://bibliosuisse.ch/angebote/anmeldung?eventid=984>
 - Event page: <https://www.bibliosuisse.ch/angebote/detail?eventid=984>
-- Document: [Venue map (PDF)](https://bis.tocco.ch/32bd7aa/185678/931---WBVD-20260309---Am%C3%A9liorer-la-visibilit%C3%A9-de-la-recherche-de-mon-institution-Lageplan.pdf?version=3&locale=de)
 
 ## About
 

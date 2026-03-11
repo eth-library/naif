@@ -26,8 +26,10 @@ toc: true
 <!--
 Checklist (manual):
 - Title <= 70 characters
+- Title uses sentence case unless it reproduces an official branded name
 - Text 500-3000 characters (guideline)
 - British English spelling and style (unless this is a repost)
+- `lang: en-UK` if page-level language metadata is set
 - Optional subtitle: concise one-line context
 - Teaser <= 280 characters
 - Exactly 1 category: Track 1-4 or General

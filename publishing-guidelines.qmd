@@ -3,21 +3,21 @@ title: "Publishing guidelines"
 toc: true
 ---
 
-This public guide explains how to publish NAIF news posts and event entries. It is intended for project partners and anyone contributing content.
+This guide explains how to prepare NAIF news posts and event pages. It is written for project partners and anyone contributing content.
 
-## Target audiences and message priorities
+## Who we are writing for
 
 ### Primary audiences
 
 - NAIF project partners: shared alignment, progress transparency, coordination signals (public-facing).
-- Swissuniversities: accountable reporting, sector relevance, evidence of delivery against objectives.
-- ETH Board and governance stakeholders: strategic value, interoperability outcomes, sustainability pathway.
+- swissuniversities: public reporting, relevance for the sector, evidence of progress.
+- ETH Board and other governance stakeholders: strategic value, interoperability outcomes, sustainability pathway.
 
 ### Secondary audiences
 
-- Research staff, libraries, repository owners, open science infrastructure community, interested public.
+- Researchers, libraries, repository teams, the open science community, and the interested public.
 
-### Message architecture (use consistently)
+### A simple structure that works well
 
 - **Why it matters**: interoperability, metadata quality, responsible indicators, findability of Swiss research.
 - **What we did**: activities, methods, consultations, analyses.
@@ -25,90 +25,89 @@ This public guide explains how to publish NAIF news posts and event entries. It 
 - **What's next**: planned actions, opportunities to engage, upcoming events.
 - **What to reuse**: outputs with persistent identifiers (DOIs, ROR, ORCID references as relevant).
 
-## Folder structure and filenames
+## Where content goes
 
 - News posts: `posts/<yyyy-mm-dd>-<slug>/index.qmd`
 - Events: `events/<yyyy-mm-dd>-<slug>/index.qmd`
-- Post assets: `posts/<entry>/images/*`
-- Event assets: `events/<entry>/images/*`
-- Rendered output lives in `_site/` (do not edit `_site/` manually).
+- Images for a post go in that post's `images/` folder.
+- Images for an event go in that event's `images/` folder.
+- Do not edit files in `_site/`.
 
 ## Language and spelling
 
-- Use British English for news posts and non-repost event pages.
-- Reposts may retain original wording and spelling when needed for faithful attribution.
+- Use British English for news posts and for event pages that are not reposts.
+- Use sentence case for page titles and section headings by default.
+- Preserve official branded styling for proper nouns, acronyms, and formal event names.
+- Reposts may keep the original wording and spelling when needed.
 
 ## News post guidance
 
-Use a news post for updates, progress reporting, findings, or opinion pieces.
+Use a news post for updates, findings, progress reports, or opinion pieces.
 
-**Required front matter**
+**Required information at the top of the page**
 
-- `title` (<= 70 chars)
+- `title` (<= 70 chars; use sentence case unless it reproduces an official branded name)
 - `subtitle` (optional; concise one-line context)
 - `date` (YYYY-MM-DD)
 - `author`
 - `description` (<= 280 chars)
 - `other-links` (when there is a related event page)
-- `categories`: exactly one of `Track 1`, `Track 2`, `Track 3`, `Track 4`, `General` (use `General` only for track-independent posts)
+- `categories`: choose one of `Track 1`, `Track 2`, `Track 3`, `Track 4`, `General`
 - `tags`: exactly 3 tags
 - `proofread`: `true` or `false`
-- `image`: local image path (used for listing cards)
+- `image`: path to a local image
 
-**Content structure**
+**Writing tips**
 
-- Put the teaser text in the `description` front matter field.
-- Use the front matter `description` as the teaser shown in the Quarto title block.
-- Do not add an explicit `## Lead` heading or a lead paragraph block in the body.
-- Follow the message architecture above.
-- Keep the post concise (500-3000 chars as a guideline).
-- Use `## References` only with Pandoc citeproc (`bibliography` + citation keys like `[@key]`).
-  Otherwise, add links inline or use `## Sources` / `## Further reading`.
-- Use academic titles (`Dr`, `Prof`, etc.) consistently where known, and do not mix titled and
-  untitled variants of the same person.
+- Put the teaser in `description`.
+- Do not add a separate lead section at the start of the page.
+- Follow the simple structure above.
+- Keep the post concise.
+- If you are not using automatic references, add links in the text or use a `## Sources` or `## Further reading` section.
+- Use academic titles (`Dr`, `Prof`, etc.) consistently where known.
 
 ## Event guidance
 
-Use an event entry for announcements and event documentation.
+Use an event page for announcements and for documenting past events.
 
-**Required front matter**
+**Required information at the top of the page**
 
-- `title` (<= 70 chars)
+- `title` (<= 70 chars; use sentence case unless it reproduces an official branded name)
 - `date` (YYYY-MM-DD)
-- `author` (organizer name)
+- `author` (organiser name)
 - `author-title`: `Organizer`
 - `description` (<= 280 chars)
 - `other-links` (when there is a related post page)
-- `categories`: exactly one: `Organised by NAIF`, `Participation by NAIF`, or `Related Topic`
+- `categories`: choose one of `Organised by NAIF`, `Participation by NAIF`, or `Related Topic`
 - `tags`: exactly 3 tags
 - `proofread`: `true` or `false`
-- `image`: local image path (used for listing cards)
+- `image`: path to a local image
 
-**Event details**
+**Event details to include**
 
-- Include Date and as many of the following as are available: Time, Location, Registration, Event page.
-- Future events: keep Registration and Event page as clickable links when available.
-- Past events: if a registration link existed, render it as plain text and strikethrough, and add a short note that the event already took place.
-- If a detail is not available (for example no registration was offered), state this explicitly in plain text.
+- Include the date and, where available, the time, location, registration link, and event page.
+- For future events, keep the registration and event page links clickable.
+- For past events, show old registration links as plain crossed-out text and add a short note that the event has already taken place.
+- If a detail is not available, say so plainly.
 
 ## Images and rights
 
-- Use 1-3 high-resolution images where possible.
-- Every image must have descriptive alt text, a caption, and rights attribution.
+- Use 1-3 good-quality images where possible.
+- Every image needs alt text, a caption, and a note on rights or source.
 
 ## Reposts of external content
 
-- Republishing articles that have already been published requires explicit permission by the original publisher.
+- Republishing material that has already appeared elsewhere requires permission from the original publisher.
 - Add a visible note near the top linking back to the original URL.
 
 ## Drafts
 
-- Use `draft: true` in the front matter for work-in-progress content.
-- Drafts are visible in `quarto preview` only and excluded from `quarto render` outputs.
+- Use `draft: true` for work in progress.
+- Drafts appear in preview, but not in the published site.
 
 ## Reuse and identifiers
 
-- Link outputs with persistent identifiers (DOIs, ROR, ORCID references) whenever relevant.
+- Add stable identifiers such as DOIs, ROR IDs, or ORCID iDs when they are useful.
 - NAIF deliverables are archived on Zenodo: [Zenodo community](https://zenodo.org/communities/naif)
 
 ## Templates

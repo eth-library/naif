@@ -1,5 +1,5 @@
 ---
-title: "From Books to Repositories: Two Sides of Open Metadata"
+title: "From books to repositories: two sides of open metadata"
 subtitle: "What Thoth's new report and NAIF reveal about interoperable scholarly infrastructure."
 date: "2026-02-19"
 author:

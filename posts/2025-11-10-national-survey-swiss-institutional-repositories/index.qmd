@@ -35,7 +35,7 @@ We are launching a national survey to map and better understand the landscape of
 
 The survey explores how repositories are managed, described, and sustained, focusing on infrastructure, metadata practices, governance, and long-term strategies. It seeks to identify common strengths, gaps, and challenges, laying the groundwork for a national roadmap aligned with international standards and open science principles.
 
-The questionnaire is addressed to repository managers and service leads from Swiss higher education institutions operating repositories or CRIS systems. Each manager will be contacted directly to participate.
+The questionnaire is addressed to repository managers and service leads from Swiss Higher Education Institutions operating repositories or CRIS systems. Each manager will be contacted directly to participate.
 
 To support respondents, two Q&A sessions will be organised:
 

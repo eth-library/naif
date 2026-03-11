@@ -1,5 +1,5 @@
 ---
-title: "Launching NAIF: A Look Back at the Information Event"
+title: "Launching NAIF: a look back at the information event"
 subtitle: "Kick-off webinar highlights NAIF's roadmap for repository interoperability in Switzerland."
 date: 2025-08-28
 author:

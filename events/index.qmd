@@ -12,11 +12,12 @@ listing:
   feed:
     type: metadata
     items: 50
-    title: "NAIF Events"
+    title: "NAIF events"
   filter-ui:
     - categories
     - search
-  page-size: 12
+  max-items: 1000
+  page-size: 1000
   fields:
     - image
     - title

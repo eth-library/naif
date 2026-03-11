@@ -1,10 +1,13 @@
 ---
-title: "TOBI Data Dashboard"
+title: "TOBI data dashboard"
 format:
   dashboard:
     css: ../dashboard-common.css
 author: "Dr Moritz Mähr"
-description: "TOBI findability and output coverage for Swiss higher education institutions."
+description: "TOBI findability and output coverage for Swiss Higher Education Institutions."
+image: images/dashboard-screenshot.png
+image-alt: "Screenshot of the TOBI dashboard with value boxes and summary tables"
+image-caption: "Dashboard screenshot from the NAIF website, captured on 2026-03-04."
 date: today
 draft: false
 resources:
@@ -96,32 +99,24 @@ dimensions_findable = int(df["tobi_findable_dim"].eq("Yes").sum())
 openalex_outputs = int(df["tobi_total_outputs_openalex_2012_2022"].fillna(0).sum())
 ```
 
-## Row {height=11%}
-
-```{python}
-#| content: valuebox
-#| title: "Total HEIs"
-dict(icon="building", color="light", value=total)
-```
+## Row {height=12%}
 
 ```{python}
 #| content: valuebox
 #| title: "HEIs with TOBI data"
-dict(icon="database", color="warning", value=f"{any_tobi} ({pct(any_tobi, total)})")
+dict(icon="database", color="warning", value=pct(any_tobi, total))
 ```
 
 ```{python}
 #| content: valuebox
 #| title: "OpenAlex Findable"
-dict(icon="search", color="info", value=f"{openalex_findable} ({pct(openalex_findable, total)})")
+dict(icon="search", color="info", value=pct(openalex_findable, total))
 ```
-
-## Row {height=11%}
 
 ```{python}
 #| content: valuebox
 #| title: "Dimensions Findable"
-dict(icon="diagram-3", color="primary", value=f"{dimensions_findable} ({pct(dimensions_findable, total)})")
+dict(icon="diagram-3", color="primary", value=pct(dimensions_findable, total))
 ```
 
 ```{python}
@@ -130,7 +125,7 @@ dict(icon="diagram-3", color="primary", value=f"{dimensions_findable} ({pct(dime
 dict(icon="bar-chart", color="success", value=f"{openalex_outputs:,}")
 ```
 
-## Row {height=78%}
+## Row {height=88%}
 
 ### Column {.tabset}
 
@@ -327,7 +322,7 @@ display_html_table(all_institutions)
 
 #### Data sources and credits
 
-This dashboard reuses TOBI project data on Swiss higher education institutions and presents it in a compact NAIF format.
+This dashboard reuses TOBI project data on Swiss Higher Education Institutions and presents it in a compact NAIF format.
 
 - Data basis and methodology: Dederke, J., Koch, M., & Willemin, S. (2024). *The Representation of Swiss Higher Education Institutions in Five Bibliometric Databases*. <https://doi.org/10.3929/ethz-b-000726102>
 - Project context: TOBI (Towards Open Bibliometric Indicators), ETH Library. <https://eth-library.github.io/tobi/>

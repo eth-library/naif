@@ -1,0 +1,37 @@
+---
+title: "CoARA Experiments in Assessment: idea catalogue platform launch"
+date: 2026-04-27
+author: "CoARA Experiments in Assessment Working Group"
+author-title: "Organizer"
+description: "Public online launch webinar for the CoARA Experiments in Assessment Idea Catalogue Platform on 27 April 2026."
+categories:
+  - "Related Topic"
+tags:
+  - "CoARA"
+  - "Research assessment"
+  - "Idea catalogue"
+proofread: false
+image: "images/teams-event-page.png"
+image-alt: "Microsoft Teams event page for the CoARA Experiments in Assessment webinar"
+image-caption: "Screenshot of the Microsoft Teams event page for the CoARA Experiments in Assessment idea catalogue platform launch. Source: https://events.teams.microsoft.com/event/94077d60-f278-4a8b-b5b3-14f9f950bbec@69628d54-883a-4d88-863a-ca77ac2e1d4a. Rights: Microsoft Teams and the event organiser."
+toc: true
+---
+
+<!-- Source: <https://events.teams.microsoft.com/event/94077d60-f278-4a8b-b5b3-14f9f950bbec@69628d54-883a-4d88-863a-ca77ac2e1d4a> -->
+
+## Details
+
+- Date: Monday, 27 April 2026
+- Time: 15:00-16:30
+- Location: Online
+- Registration: <https://events.teams.microsoft.com/event/94077d60-f278-4a8b-b5b3-14f9f950bbec@69628d54-883a-4d88-863a-ca77ac2e1d4a>
+- Event page: <https://events.teams.microsoft.com/event/94077d60-f278-4a8b-b5b3-14f9f950bbec@69628d54-883a-4d88-863a-ca77ac2e1d4a>
+- Access: Anyone can view and join
+
+## About
+
+This public webinar marks the launch of the CoARA Experiments in Assessment Idea Catalogue Platform, presented by the CoARA Working Group on Experiments in Assessment.
+
+The catalogue is intended as a practical resource for people designing or reviewing assessment processes across hiring, promotion, project funding, programme funding, institutional evaluation, and national research system evaluation. It brings together experimental ideas that can support more holistic and inclusive approaches to research assessment.
+
+The session introduces the working group's aims, explains how the platform was developed, and demonstrates how participants can browse ideas, add evidence or experience, and contribute new examples. The organisers also outline the next steps for the platform.

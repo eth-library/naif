@@ -1,5 +1,5 @@
 ---
-title: "How NAIF Builds on TOBI's Results in Switzerland"
+title: "How NAIF builds on TOBI's results in Switzerland"
 subtitle: "From evidence on open scholarly data to coordinated implementation."
 date: "2026-03-24"
 author:
@@ -27,6 +27,11 @@ TOBI (Towards Open Bibliometric Indicators) closed in July 2025 having establish
 
 NAIF continues from that same premise, but places it in a wider interoperability context. Under NAIF, the data quality conditions evaluated by TOBI become operational requirements across Swiss repositories, directly ensuring the findability and visibility of Swiss research.
 
+::: {.callout-note}
+## Explore the TOBI dashboard
+View the interactive TOBI data dashboard here: [TOBI Data Dashboard](../../dashboards/tobi/).
+:::
+
 ## What we did
 
 TOBI delivered comparative analyses, methods, tools, and curation work that can be reused by Swiss institutions. Using transparency principles aligned with DORA, it evaluated data provenance and methodological openness across open and commercial databases.
@@ -43,7 +48,7 @@ The evidence clearly demonstrates that findability depends on disambiguation and
 
 ## What's next
 
-While TOBI primarily answered how reliable open bibliometric sources are for Swiss higher education institutions, NAIF asks: *How do Swiss repositories and stakeholders coordinate these improvements so that national findability and interoperability become durable rather than project-bound?*
+While TOBI primarily answered how reliable open bibliometric sources are for Swiss Higher Education Institutions, NAIF asks: *How do Swiss repositories and stakeholders coordinate these improvements so that national findability and interoperability become durable rather than project-bound?*
 
 The key shift is from evidence generation to implementation design: defining who updates what data, in which systems, with which standards, and with what feedback loops. 
 
