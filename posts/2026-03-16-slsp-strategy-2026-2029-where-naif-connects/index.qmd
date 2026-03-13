@@ -1,0 +1,67 @@
+---
+title: "SLSP strategy 2026–2029: where NAIF connects"
+date: 2026-03-16
+draft: true
+author:
+  - name: "Dr Moritz Mähr"
+    orcid: "0000-0002-1367-1618"
+    affiliation: "ETH Zurich"
+description: "In January 2026, the Swiss Library Service Platform (SLSP) published its strategy for the period 2026-2029. The document outlines how SLSP plans to evolve from a library management infrastructure into a platform for academic information that is user-oriented, data- and AI-driven, interoperable, and open. NAIF operates in a different space, but several strategic themes overlap in ways worth noting."
+categories:
+  - "General"
+tags:
+  - "Interoperability"
+  - "Open Science"
+  - "Partnerships"
+proofread: false
+image: images/slsp-strategy-announcement.png
+image-alt: "Screenshot of the SLSP Strategy 2026-2029 announcement page"
+image-caption: "Screenshot of the SLSP strategy announcement page. Source: https://slsp.ch/en/strategy/. Rights: SLSP."
+toc: true
+---
+
+<!--
+Checklist (manual):
+- Title <= 70 characters ✓ (49 chars)
+- Text 500-6000 characters (guideline x2)
+- Teaser <= 280 characters ✓
+- Exactly 1 category: Track 1-4 or General ✓
+- Exactly 3 tags ✓
+- 1-3 images, each with alt text + caption + rights attribution
+- Proofread true/false is set ✓
+- Optional: author portrait, institution portrait (<= 280 chars each)
+- Optional: max. 3 literature references
+-->
+
+In January 2026, the Swiss Library Service Platform (SLSP) published its strategy for the period 2026-2029. The document outlines how SLSP plans to evolve from a library management infrastructure into a platform for academic information that is user-oriented, data- and AI-driven, interoperable, and open. NAIF operates in a different space - repository interoperability and metadata standardisation - but several strategic themes overlap in ways worth noting.
+
+This post maps the areas of alignment and explains how we see the relationship between the two initiatives going forward.
+
+## Why it matters
+
+SLSP and NAIF address different layers of the Swiss academic information ecosystem. SLSP provides the operational platform through which over 500 academic libraries manage, discover, and deliver information. NAIF works at the standards and data-quality layer, aiming to make institutional repositories more interoperable and their metadata more consistent. Neither initiative can fully succeed in isolation. High-quality, standardised metadata - the kind NAIF is working towards - is a precondition for the reliable discovery and AI-driven services that SLSP envisions. At the same time, a national platform like SLSP is a key channel through which improved repository data reaches researchers and students.
+
+## What we found
+
+Reading the SLSP strategy through the lens of NAIF's objectives, three areas of strong alignment stand out.
+
+First, both initiatives are grounded in **open science**. SLSP's vision explicitly commits to operating "in the spirit of open science". NAIF's work on interoperability, findability, and open access monitoring serves the same principles. Open, transparent infrastructure is a shared foundation.
+
+Second, **metadata quality and data competence** are priorities on both sides. SLSP's strategic area on digital autonomy emphasises cataloguing, archiving, and publication competencies tied to a central data strategy. NAIF's [Track 3](https://maehr.github.io/naif/about.html#track-3-survey-and-analysis-of-swiss-institutional-repositories) gathers metadata practices across Swiss repositories, while [Track 4](https://maehr.github.io/naif/about.html#track-4-enhancement-of-national-and-global-academic-data) focuses on enhancing global academic data such as persistent identifiers ([ROR](https://ror.org/), [ORCID](https://orcid.org/)), funding information, and open access metadata. These efforts are naturally complementary: NAIF produces gap analyses and recommendations, and platforms like SLSP benefit from implementing them.
+
+Third, both initiatives invest in **collaborative governance**. SLSP is deepening its partnerships with SWITCH and its engagement in the Consortium of Swiss Academic Libraries. NAIF is building a working group to sustain interoperability and standardisation efforts beyond the project's end in December 2026. The Swiss academic information landscape is small enough that these governance structures should be aware of each other and coordinated, where useful.
+
+A further connection - though less direct - concerns **AI and discovery**. SLSP places significant emphasis on AI-supported services for metadata management, search, and user support. NAIF does not address AI, but the SLSP strategy itself makes the case for why our work matters in this context: "Without robust, open knowledge bases, AI output remains vulnerable to bias, misinterpretation and oversimplification." Standardised, interoperable repository metadata is part of that robust base.
+
+## What's next
+
+NAIF and SLSP solve different problems. NAIF is a time-limited project focused on standards, inventories, and recommendations for institutional repositories. SLSP is an operational platform serving academic libraries across Switzerland. We do not see ourselves as overlapping, but as **complementary**.
+
+That said, the areas of alignment are real and worth acting on. Colleagues from SLSP and member libraries participated in several NAIF events, which is a welcome signal. Going forward, we see opportunities for exchange and coordination especially around metadata standardisation, open access monitoring, and the governance structures both initiatives are developing.
+
+We welcome continued dialogue - whether through our [events](https://maehr.github.io/naif/events/index.html), through the [working group](https://maehr.github.io/naif/about.html#unified-outcome-creation-of-a-working-group) we are establishing, or informally. If you are involved with SLSP or its member libraries as an information science and library science specialist and want to stay in touch with NAIF's progress, you can [fill out our contact form](https://forms.gle/hAQwHaitKDZ3Cf846) or reach us at [naif@library.ethz.ch](mailto:naif@library.ethz.ch).
+
+## Sources
+
+- SLSP. (2025). *Strategy 2026 to 2029*. <https://slsp.ch/en/strategy/>
+- Barcelona Declaration on Open Research Information. <https://barcelona-declaration.org/>

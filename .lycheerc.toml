@@ -23,4 +23,5 @@ no_progress = true
 cache = true
 max_cache_age = "7d"
 insecure = true
-accept = ["100..=103", "200..=299", "403", "429", "503", "521", "522", "524"]
+# DOI resolvers occasionally time out on CI even when the target record resolves.
+accept = ["100..=103", "200..=299", "403", "408", "429", "503", "521", "522", "524"]
