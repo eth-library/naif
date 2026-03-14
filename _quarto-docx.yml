@@ -28,7 +28,7 @@ book:
     - dashboards/naif/index.qmd
     - dashboards/tobi/index.qmd
     - posts/index.qmd
-    - posts/2026-slsp-naif/index.qmd
+    - posts/2026-03-16-slsp-strategy-2026-2029/index.qmd
     - posts/2026-02-10-track-4-workshop-2025-12-08/index.qmd
     - posts/2026-02-27-naif-at-research-on-research/index.qmd
     - posts/2025-11-12-what-switzerland-can-learn-from-other-countries/index.qmd

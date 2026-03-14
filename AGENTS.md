@@ -206,6 +206,6 @@ npx -y playwright@1.52.0 screenshot --wait-for-timeout 6000 --full-page "https:/
 When pages are moved or deleted, always preserve old URLs by adding `aliases` to the destination
 page.
 
-- Quarto reference: https://quarto.org/docs/reference/formats/html.html#website
+- Quarto reference: https://quarto.org/docs/reference/projects/websites.html
 - Use the previously published sitemap (`https://eth-library.github.io/naif/sitemap.xml`) as the
   source of truth for legacy URLs.
