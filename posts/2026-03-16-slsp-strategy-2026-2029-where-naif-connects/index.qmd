@@ -1,7 +1,7 @@
 ---
 title: "SLSP strategy 2026–2029: where NAIF connects"
 date: 2026-03-16
-draft: true
+draft: false
 author:
   - name: "Dr Moritz Mähr"
     orcid: "0000-0002-1367-1618"
@@ -13,7 +13,7 @@ tags:
   - "Interoperability"
   - "Open Science"
   - "Partnerships"
-proofread: false
+proofread: true
 image: images/slsp-strategy-announcement.png
 image-alt: "Screenshot of the SLSP Strategy 2026-2029 announcement page"
 image-caption: "Screenshot of the SLSP strategy announcement page. Source: https://slsp.ch/en/strategy/. Rights: SLSP."
