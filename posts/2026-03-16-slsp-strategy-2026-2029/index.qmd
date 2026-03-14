@@ -1,5 +1,6 @@
 ---
-title: "SLSP strategy 2026–2029: where NAIF connects"
+title: "SLSP strategy 2026–2029"
+subtitle: "How SLSP’s new strategy aligns with NAIF’s priorities"
 date: 2026-03-16
 draft: false
 author:
