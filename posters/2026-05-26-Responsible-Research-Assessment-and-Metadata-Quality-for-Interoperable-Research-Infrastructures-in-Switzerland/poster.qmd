@@ -1,11 +1,13 @@
 ---
 title: "Responsible Research Assessment and Metadata Quality for Interoperable Research Infrastructures in Switzerland"
+lang: en-UK
 image: poster.pdf.png
-image-alt: "Poster preview for responsible research assessment and metadata quality for interoperable research infrastructures in Switzerland"
+image-alt: "Poster preview for NAIF Responsible Research Assessment and Metadata Quality for Interoperable Research Infrastructures in Switzerland"
 author:
   - name: "<span class=\"presenter\">Dr Moritz Mähr</span>"
     affiliations:
-      - ETH Library, ETH Zurich, Switzerland
+      - ETH Zurich, Research Analytics Services, Zurich, Switzerland
+      - Digital Humanities, University of Bern, Bern, Switzerland
 format:
   docposter-html:
     fill-page: true
@@ -16,36 +18,31 @@ draft: true
 
 # {.col-2 style="grid-row: span 4;"}
 ## Overview
-The **NAIF** project (National Approach for Interoperable Repositories and Findable Research Results) is a swissuniversities-funded collaboration between eight Swiss higher education institutions.
+The **NAIF** project (National Approach for Interoperable Repositories and Findable Research Results) is a swissuniversities-funded collaboration led by ETH Library with seven Swiss higher education partners.
 
-This poster links **Track 1** on responsible indicators and **Track 4** on metadata enrichment.
-
-**Core claim:** repository interoperability and responsible research assessment rely on the same metadata infrastructure.
-
-## Why this matters
-| Repositories now support | What this requires |
-|---|---|
-| Discovery and reuse | Metadata that travel well across systems |
-| Open science services | Structured and interoperable records |
-| Monitoring and evaluation | Transparent, documented, contextual data |
-
-Poor metadata weaken **findability**, **interoperability**, and **indicator interpretation** at the same time.
+This poster combines **Track 1** on responsible research assessment and **Track 4** on academic metadata quality. Its core message is direct: **responsible indicators and interoperable repositories require the same curated metadata foundation**.
 
 ## Evidence base
-| Track | Current work | Main output |
-|---|---|---|
-| Track 1 | Workshop with **27 stakeholders** and a planned qualitative survey | Guidance for DORA- and CoARA-aligned indicator use |
-| Track 4 | National workshops on metadata priorities | Mappings, reference data, and implementation guidance |
+### Track 1: Responsible assessment
+* Workshop with **27 stakeholders** from Swiss higher education institutions, policy bodies, and the wider scientometrics community.
+* Discussion of current indicator use, implementation barriers, and institutional needs.
+* Framed by **DORA**, **CoARA**, and the **Leiden Manifesto**.
 
-## DARIAH alignment {.theme-minimalist}
-| DARIAH theme | NAIF contribution |
-|---|---|
-| Infrastructures of engagement | Repositories are collaborative infrastructures whose metadata shape access and visibility. |
-| Mapping engagement | Trustworthy indicators need reusable metadata and documented methods. |
-| Policy and governance frameworks | DORA, CoARA, and shared stewardship help turn principles into practice. |
+### Track 4: Metadata quality
+* Workshops with repository managers, data stewards, and open science specialists from across Switzerland.
+* Focus on organisational, researcher, funding, and open access metadata.
+* Prioritisation of practical actions for curation, workflows, and cross-institution coordination.
 
-## Acknowledgments {.theme-minimalist}
-We thank the NAIF partner institutions, workshop participants from Tracks 1 and 4, and the wider Swiss repository and scientometrics communities for their contributions.
+## Key messages
+| Aspect | Insight |
+|--------|---------|
+| Reform momentum | Swiss institutions increasingly align with DORA and CoARA, but implementation remains uneven. |
+| Responsible indicators | Quantitative indicators must be transparent, contextual, and fair. |
+| Preferred use | Organisational monitoring is generally more appropriate than individual benchmarking. |
+| Metadata priorities | ROR and ORCID alignment, funding metadata, and open access metadata are the most actionable improvement areas. |
+
+## Acknowledgements {.theme-minimalist}
+We thank the NAIF partner institutions and all workshop participants from Tracks 1 and 4 for their expertise and collaboration.
 
 ### Contact {.fullwidth}
 **NAIF Tracks 1 and 4** Responsible research assessment and academic metadata
@@ -57,46 +54,43 @@ eth-library.github.io/naif
 </p>
 
 # {.col-2 style="grid-row: span 4;"}
-## Q1: Why link assessment and metadata?
-* Repository metadata now support **evaluation**, **monitoring**, and **policy reporting** as well as discovery.
-* Assessment without metadata work risks **misleading indicators**.
-* Metadata work without clear use cases risks **underused infrastructure**.
+## Q1: Why connect assessment and metadata?
+* Repositories increasingly support **discovery**, **open science monitoring**, **policy reporting**, and sometimes **evaluation**.
+* Incomplete or inconsistent records reduce findability and weaken interpretation.
+* Metadata quality is therefore not only a technical issue; it is a precondition for **responsible research assessment**.
 
-**Responsible metrics begin with responsible metadata stewardship.**
-
-## Q2: Which metadata families create context?
-| Metadata family | Why it matters across infrastructures |
+## Q2: Which metadata families matter most?
+| Metadata family | Why it matters |
 |---|---|
-| Organisational identifiers | Reliable institution and unit aggregation |
-| Researcher identifiers | Cleaner authorship links across systems |
-| Funding information | Clear links between outputs and grants |
-| Open access status and publication pathways | Interpretable monitoring of dissemination routes |
+| Organisational metadata | Disambiguates institutions and units, supports aggregation, and improves cross-system linking. |
+| Researcher metadata | Connects outputs reliably to people and reduces ambiguity in authorship data. |
+| Funding metadata | Links outputs to grants and programmes, making public investment more visible and interpretable. |
+| Open access metadata | Clarifies dissemination routes, access conditions, and monitoring categories. |
 
-Together these four families provide the **context** needed to interpret outputs reliably across repositories, national services, and international infrastructures.
+These four families provide the **contextual backbone** for repositories, discovery services, and assessment workflows.
 
-## Q3: What are the emerging lessons?
-| Signal | Current lesson |
-|---|---|
-| Adoption | **24** Swiss institutions have signed DORA; **16** are CoARA signatories |
-| Practice | Principles remain hard to operationalise in daily workflows |
-| Use | Prioritise **organisational monitoring** over individual benchmarking |
-| Quality | Transparent sources and documented methods are essential |
-| Action | ROR, ORCID, funding, and open access metadata are current priorities |
+## Q3: What did Swiss stakeholders emphasise?
+* Indicators must be **transparent**, **context-specific**, and **fair**.
+* Quantitative metrics should **complement expert judgement**, not replace it.
+* **Organisational monitoring** is generally preferable to individual performance ranking.
+* **Data quality is non-negotiable**: source transparency, documentation, and curation are prerequisites for meaningful indicators.
+* Academic libraries are central because they maintain trusted metadata and document its limits.
 
-## Q4: What happens next?
-* Map institutional practices, expectations, and tensions through a **qualitative survey**.
-* Turn workshop priorities into **practical guidance**, mappings, and curated reference data.
-* Build stronger feedback loops between repository teams, assessment experts, and policy actors.
-* Feed the results into a **national working-group model** for longer-term coordination.
+## Q4: What can academic libraries do now?
+* Improve institutional name disambiguation and **ROR** alignment.
+* Strengthen **ORCID** integration in repository and CRIS workflows.
+* Standardise the capture of **funding** and **open access** metadata at deposit stage.
+* Maintain shared mappings for organisational hierarchies and local structures.
+* Connect metadata curation more closely with local assessment and reporting needs.
 
 ## Conclusion and key takeaways
-**Evaluation practices and repository infrastructures should not be treated as separate domains.** They are parts of the same sociotechnical infrastructure for trustworthy knowledge production, equitable research evaluation, and long-term visibility.
+NAIF will deliver practical guidance by the end of 2026. For libraries, the message is clear: **better metadata improve discovery and make evaluation more fair, transparent, and interpretable**.
 
 ::: {style="font-size: 0.95em;"}
 |   | Takeaway |
-|---|---|
-| 1 | Responsible indicators depend on reusable and trustworthy metadata. |
-| 2 | Repository interoperability and research assessment must be designed together. |
-| 3 | Identifiers, funding links, and open access metadata provide essential interpretive context. |
-| 4 | Shared governance is required to sustain metadata quality across infrastructures. |
+|---|----------|
+| 1 | Libraries curate infrastructure for both visibility and assessment. |
+| 2 | Responsible indicators depend on trustworthy metadata. |
+| 3 | Organisational, researcher, funding, and open access metadata provide essential context. |
+| 4 | Shared governance is needed to sustain metadata quality across institutions. |
 :::
