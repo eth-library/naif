@@ -83,7 +83,7 @@ h6 {
 .presenter {
   font-weight: 800;
   text-decoration: underline;
-  text-decoration-color: rgba(255, 255, 255, 0.78);
+  text-decoration-color: var(--naif-green-dark);
   text-decoration-thickness: 0.12em;
   text-underline-offset: 0.18em;
 }
