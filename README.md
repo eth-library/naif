@@ -52,11 +52,23 @@ This repository includes a dedicated Quarto profile in `_quarto-docx.yml`.
 
 ```bash
 npm run docx
+# or: uv run quarto render --profile docx
 ```
 
 Output file:
 
 - `_site-docx/NAIF-Website-Export.docx`
+
+### Render all posters to PDF
+
+This repository includes a dedicated Quarto profile in `_quarto-pdf.yml`.
+
+```bash
+npm run pdf
+# or: uv run quarto render --profile pdf
+```
+
+Poster PDFs are written next to each poster source, for example `posters/<entry>/poster.pdf`.
 
 ### Validate before opening a PR
 
@@ -97,7 +109,23 @@ Zenodo will archive.
 | `npm run preview`      | `uv run quarto preview`                | Local dev server with live reload       |
 | `npm run preview:fork` | `uv run quarto preview --profile fork` | Preview locally with fork-specific URLs |
 | `npm run docx`         | `uv run quarto render --profile docx`  | Export site to a single DOCX            |
+| `npm run pdf`          | `uv run quarto render --profile pdf`   | Render all poster sources to PDF        |
 | `npm run site:build`   | `render` + `jampack`                   | Build the optimised release site        |
+
+#### Quarto configuration files
+
+| File                       | Used by                             | Purpose                                                       |
+| -------------------------- | ----------------------------------- | ------------------------------------------------------------- |
+| `_quarto.yml`              | `npm run render`, `npm run preview` | Main website configuration and shared HTML rendering settings |
+| `_quarto-docx.yml`         | `npm run docx`                      | DOCX export profile for site pages, posts, and events         |
+| `_quarto-pdf.yml`          | `npm run pdf`                       | PDF export profile for all poster sources under `posters/**`  |
+| `_quarto-fork.yml.example` | Manual template                     | Template for local fork-specific URLs                         |
+| `_quarto-fork.yml`         | `--profile fork` commands           | Untracked local fork overrides; copy from the example file    |
+| `posters/**/_quarto.yml`   | Individual poster directories       | Standalone `docposter` configuration for rendering one poster |
+
+Always invoke Quarto through `uv run`, either directly or via the npm scripts above. Quarto profiles
+are selected with `--profile <name>`, which makes Quarto merge `_quarto-<name>.yml` into the base
+configuration for that command.
 
 #### Code quality
 

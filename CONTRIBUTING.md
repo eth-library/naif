@@ -24,6 +24,18 @@ Thanks for considering a contribution.
 For tagged releases, also run `npm run release:prepare -- --tag vX.Y.Z` and commit the generated
 archive before publishing the release so Zenodo captures the rendered site snapshot.
 
+## Quarto builds
+
+Use the npm scripts or call Quarto through `uv run`; do not call `quarto` directly.
+
+| Task                  | npm script            | Direct Quarto command                 | Configuration                                |
+| --------------------- | --------------------- | ------------------------------------- | -------------------------------------------- |
+| Render the website    | `npm run render`      | `uv run quarto render`                | `_quarto.yml`                                |
+| Preview the website   | `npm run preview`     | `uv run quarto preview`               | `_quarto.yml`                                |
+| Render with fork URLs | `npm run render:fork` | `uv run quarto render --profile fork` | `_quarto.yml` + untracked `_quarto-fork.yml` |
+| Export DOCX           | `npm run docx`        | `uv run quarto render --profile docx` | `_quarto.yml` + `_quarto-docx.yml`           |
+| Render poster PDFs    | `npm run pdf`         | `uv run quarto render --profile pdf`  | `_quarto.yml` + `_quarto-pdf.yml`            |
+
 ## Content contributions
 
 - Blog entries must follow the folder-per-entry structure described in `AGENTS.md`.

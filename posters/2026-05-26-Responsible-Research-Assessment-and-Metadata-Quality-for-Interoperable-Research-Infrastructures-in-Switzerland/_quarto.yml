@@ -1,7 +1,12 @@
+# Setting up the default project metadata for `quarto use`
+# per https://quarto.org/docs/extensions/project-types.html#project-type-extension
+
 project:
-  title: "DARIAH poster"
+  title: "DARIAH Annual Event 2026 Poster"
   type: docposter
   post-render:
+    # Also convert the poster html output to pdf.
+    # Comment out this chrome_pdf.R step if only the html output is desired.
     - _extensions/bbucior/docposter/R/chrome_pdf.R
 
 format:
