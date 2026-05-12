@@ -13,4 +13,3 @@ format:
   docposter-html:
     fill-page: true
     embed-resources: true
-    output-file: 166_MAEHR.pdf
