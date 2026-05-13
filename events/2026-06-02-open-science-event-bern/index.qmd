@@ -1,0 +1,37 @@
+---
+title: "Open Science Event in Bern"
+date: 2026-06-02
+author: "swissuniversities"
+author-title: "Organizer"
+description: "Full-day swissuniversities event in Bern for project leaders and team members of projects funded by the Programme Open Science II."
+categories:
+  - "Related Topic"
+tags:
+  - "Open science"
+  - "swissuniversities"
+  - "Research policy"
+proofread: false
+image: "images/registration-form.png"
+image-alt: "Registration form for the swissuniversities Open Science Event in Bern"
+image-caption: "Screenshot of the registration form for the swissuniversities Open Science Event in Bern. Source: https://survey.swissuniversities.ch/c/y4gxacqa. Rights: swissuniversities."
+toc: true
+---
+
+<!-- Source: email invitation from swissuniversities, 30 April 2026; registration form: <https://survey.swissuniversities.ch/c/y4gxacqa> -->
+
+## Details
+
+- Date: Tuesday, 2 June 2026
+- Time: 09:00-15:45 CEST, followed by an aperitif
+- Location: University of Bern / UniS, Schanzeneckstrasse 1, 3012 Bern
+- Language: Multilingual invitation in German, French, and English
+- Registration: <https://survey.swissuniversities.ch/c/y4gxacqa>
+- Registration deadline: Friday, 22 May 2026
+
+## About
+
+swissuniversities invites project leaders and team members of projects funded by the Programme Open Science II to a full-day Open Science Event in Bern.
+
+The event offers participants the opportunity to present their work in a workshop setting, gain insight into ongoing projects and their prospects, and exchange ideas with other Open Science II projects.
+
+The programme will also address the upcoming conclusion of the Programme Open Science II. Discussions will focus on the future of the projects initiated through the programme, future plans of higher education institutions, and possible coordination in this area.
