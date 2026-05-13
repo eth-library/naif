@@ -26,6 +26,10 @@ exclude = [
   # Quarto's site intermittently refuses lychee connections on GitHub runners.
   "https://quarto.org/",
   "https://quarto.org/docs/reference/projects/websites.html",
+  # Other frequently timing out URLs
+  "https://info.orcid.org/event/",
+  "https://ukb.nl/",
+  "https://www.uu.nl/staff/",
 ]
 
 exclude_path = [

@@ -22,6 +22,7 @@
     "release:prepare": "npm run site:build && npm run site:archive -- --stage",
     "render": "uv run quarto render",
     "render:fork": "uv run quarto render --profile fork",
+    "pdf": "uv run quarto render --profile pdf",
     "screenshot:clean": "node scripts/screenshot-clean.mjs",
     "screenshot:install-browsers": "npx playwright install chromium",
     "site:archive": "uv run python scripts/release_site_archive.py",
