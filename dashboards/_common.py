@@ -24,7 +24,7 @@ TYPE_LABELS: dict[str, str] = {
     "Univ. Inst.": "University institutes",
     "UAS": "Universities of applied sciences (UAS)",
     "UAS Inst.": "UAS institutes",
-    "UTE": "Teacher education institutions",
+    "UTE": "Universities of Teacher Education (UTE)",
 }
 
 INSTITUTION_TYPE_ROWS: list[tuple[str, str]] = [
@@ -32,7 +32,7 @@ INSTITUTION_TYPE_ROWS: list[tuple[str, str]] = [
     ("Univ.&nbsp;Inst.", "University institutes"),
     ("UAS", "Universities of applied sciences"),
     ("UAS&nbsp;Inst.", "UAS institutes"),
-    ("UTE", "Teacher education institutions"),
+    ("UTE", "Universities of Teacher Education"),
 ]
 
 # -- Formatting helpers --------------------------------------------------------
@@ -129,10 +129,7 @@ def make_link(url: str, label: str) -> str:
 def institution_type_table_html() -> str:
     """Return the shared institution type reference table as HTML."""
     rows = "".join(
-        (
-            f"<tr><td><strong>{abbreviation}</strong></td>"
-            f"<td>{description}</td></tr>"
-        )
+        (f"<tr><td><strong>{abbreviation}</strong></td><td>{description}</td></tr>")
         for abbreviation, description in INSTITUTION_TYPE_ROWS
     )
     return (
@@ -229,7 +226,10 @@ def ensure_csv_xlsx_export(
     source_path = Path(csv_path)
     output_path = Path(xlsx_path)
 
-    if output_path.exists() and output_path.stat().st_mtime >= source_path.stat().st_mtime:
+    if (
+        output_path.exists()
+        and output_path.stat().st_mtime >= source_path.stat().st_mtime
+    ):
         return output_path
 
     dataframe = pd.read_csv(source_path, dtype=str).fillna("")

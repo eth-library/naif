@@ -134,7 +134,7 @@ legend_html = make_legend_html(
     [
         ("Universities", "#F97B22"),
         ("Universities of Applied Sciences", "#FEE8B0"),
-        ("Teacher Education", "#9CA777"),
+        ("Universities of Teacher Education", "#9CA777"),
         ("University Institutes", "#7C9070"),
     ]
 )
@@ -192,7 +192,7 @@ legend_html = make_legend_html(
     [
         ("Universities", "#F97B22"),
         ("Universities of Applied Sciences", "#FEE8B0"),
-        ("Teacher Education", "#9CA777"),
+        ("Universities of Teacher Education", "#9CA777"),
     ],
     note="* CoARA Member",
 )

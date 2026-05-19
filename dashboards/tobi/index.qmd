@@ -91,7 +91,7 @@ TOBI_SOURCES = [
 
 RETRIEVAL_COLUMNS = [retrieval_column for _, _, _, retrieval_column, _ in TOBI_SOURCES]
 
-TYPE_LABELS = {**_BASE_TYPE_LABELS, "UTE": "Teacher education institutions (UTE)"}
+TYPE_LABELS = {**_BASE_TYPE_LABELS, "UTE": "Universities of Teacher Education (UTE)"}
 
 
 def pct_float(value: int, denominator: int) -> float:
