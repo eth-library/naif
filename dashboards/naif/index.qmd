@@ -7,12 +7,13 @@ format:
       - dashboard-naif.css
     expandable: false
 author: "Dr Moritz Mähr"
-description: "An interactive dashboard showcasing the adoption of DORA and CoARA among Swiss Higher Education Institutions."
+description: "DORA and CoARA commitments among Swiss Higher Education Institutions, including signatory status, CoARA membership and institutional context."
 image: images/dashboard-screenshot.png
 image-alt: "Screenshot of the DORA and CoARA dashboard with key figures and an interactive map"
 image-caption: "Dashboard screenshot from the NAIF website, captured on 2026-04-14."
 date: 2026-02-25
 date-modified: 2026-04-22
+listing-order: 2
 draft: false
 ---
 

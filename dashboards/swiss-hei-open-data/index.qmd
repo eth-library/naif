@@ -5,12 +5,13 @@ format:
     css: ../dashboard-common.css
     expandable: false
 author: "Dr Moritz Mähr"
-description: "Open data identifiers for Swiss Higher Education Institutions: ROR, OpenAlex, Wikidata, ISNI and more."
+description: "Coverage of open identifiers and source records for Swiss Higher Education Institutions across ROR, OpenAlex, Wikidata, ISNI and related sources."
 image: images/dashboard-screenshot.png
 image-alt: "Screenshot of the Swiss HEI Open Data Dashboard with identifier coverage table"
 image-caption: "Dashboard screenshot from the NAIF website, captured on 2026-04-14."
 date: 2026-04-14
 date-modified: 2026-04-22
+listing-order: 1
 draft: false
 ---
 

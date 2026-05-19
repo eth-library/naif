@@ -1,14 +1,17 @@
 ---
 title: "Dashboards"
 subtitle: "Interactive data views on Swiss higher education"
-description: "Explore dashboards on DORA and CoARA adoption, bibliometric findability, and institutional open data identifiers."
+description: "Explore NAIF dashboards on Swiss higher education institutions, responsible research assessment, bibliometric visibility, and website usage."
 toc: false
 show-page-image: false
 listing:
   id: dashboards
   contents:
-    - "*/index.qmd"
-  sort: "date-modified desc"
+    - "swiss-hei-open-data/index.qmd"
+    - "naif/index.qmd"
+    - "tobi/index.qmd"
+    - "site-usage/index.qmd"
+  sort: "listing-order asc"
   filter-ui:
     - search
   max-items: 1000
