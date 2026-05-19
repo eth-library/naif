@@ -7,12 +7,13 @@ format:
       - dashboard-site-usage.css
     expandable: false
 author: "Dr Moritz Mähr"
-description: "Historic Matomo usage summary for the NAIF website."
+description: "Historic Matomo usage summary for the NAIF website, including visits, engagement, entry pages and traffic sources."
 image: images/dashboard-screenshot.png
 image-alt: "Screenshot of the site usage dashboard with overview metrics and traffic source table"
 image-caption: "Dashboard screenshot from the NAIF website, captured on 2026-04-23."
 date: 2026-04-22
 date-modified: 2026-04-23
+listing-order: 4
 draft: false
 ---
 

@@ -1,9 +1,7 @@
 exclude = [
   "https://www.gnu.org/licenses/",
-  "https://www.gnu.org/licenses/agpl-3.0.html",
   # AGPL verbatim license header URL intermittently fails TLS handshakes on CI
   "https://fsf.org/",
-  "https://www.makeareadme.com/",
   # DOI landing pages intermittently return transient resolver errors in automated checks
   "https://doi.org/10.3929/ethz-b-000726102",
   "https://doi.org/10.3929/ethz-b-000735240",
@@ -12,14 +10,8 @@ exclude = [
   # Zenodo badge placeholders (not yet configured)
   "https://zenodo.org/badge/GITHUB_REPO_ID",
   "https://zenodo.org/badge/latestdoi/ZENODO_RECORD",
-  # Disabled registration links for past events (rendered as strikethrough)
-  "https://ema.uzh.ch/",
-  "https://ethz.zoom.us/meeting/register/",
-  "https://epfl.zoom.us/meeting/register/",
   # Python f-string URL templates in dashboard code (contain {identifier} placeholders)
   "https://www.wikidata.org/wiki/",
-  # Wikidata SPARQL intermittently returns 502/504 during automated checks
-  "https://query.wikidata.org/sparql",
   "https://api.crossref.org/funders/",
   "https://www.geonames.org/",
   "https://isni.org/isni/",

@@ -7,12 +7,13 @@ format:
       - dashboard-tobi.css
     expandable: false
 author: "Dr Moritz Mähr"
-description: "Findability and output coverage of Swiss Higher Education Institutions in five bibliometric databases, based on TOBI project data."
+description: "Findability and publication-count coverage for Swiss Higher Education Institutions in five bibliometric databases, based on the TOBI project snapshot."
 image: images/dashboard-screenshot.png
 image-alt: "Screenshot of the TOBI dashboard with key figures and summary tables"
 image-caption: "Dashboard screenshot from the NAIF website, captured on 2026-04-14."
 date: 2026-02-25
 date-modified: 2026-02-25
+listing-order: 3
 draft: false
 ---
 

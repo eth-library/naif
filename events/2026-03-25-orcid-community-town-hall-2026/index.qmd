@@ -29,8 +29,8 @@ This event has already taken place. Any registration information has been disabl
 - Location: Online (webinar)
 - Session 1 (APAC): 01:00 UTC (02:00 CET)
 - Session 2 (EMEA/Americas): 15:00 UTC (16:00 CET)
-- Registration (APAC): ~~`https://orcid-org.zoom.us/webinar/register/7417655591587/WN_OxReoANURY-S4WI3Ln5Nyw`~~
-- Registration (EMEA/Americas): ~~`https://orcid-org.zoom.us/webinar/register/WN_Hc5KHx2tTniRrMmgR_7BkA`~~
+- Registration (APAC): ~~Registration closed~~
+- Registration (EMEA/Americas): ~~Registration closed~~
 - Event page: <https://info.orcid.org/event/orcid-community-town-hall-2026/>
 
 ## About
