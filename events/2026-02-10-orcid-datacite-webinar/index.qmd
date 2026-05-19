@@ -28,7 +28,7 @@ This event has already taken place. Any registration information has been disabl
 - Date: Tuesday, 10 February 2026
 - Time: 11:00-12:00 EST (17:00-18:00 CET)
 - Location: Online (webinar)
-- Registration: ~~`https://datacite.zoom.us/webinar/register/3017679637295/WN_H5S9VYLZSKqE1g2-XEaR8Q#/registration`~~
+- Registration: ~~Registration closed~~
 - Event page: <https://info.orcid.org/event/elevating-your-researchs-impact-and-visibility-with-orcid-and-datacite/>
 
 ## About

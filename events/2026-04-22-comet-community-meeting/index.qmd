@@ -13,11 +13,11 @@ tags:
 proofread: false
 image: "images/comet-community-meeting.png"
 image-alt: "Registration page banner for the COMET Community Meeting on 22 April 2026"
-image-caption: "Registration page banner for the COMET Community Meeting 22 April. Source: https://datacite.zoom.us/meeting/register/B5KGjV5QQQO2-p8WtSNzQw#/registration. Rights: DataCite/COMET."
+image-caption: "Registration page banner for the COMET Community Meeting 22 April. Source: DataCite Zoom registration page, no longer available. Rights: DataCite/COMET."
 toc: true
 ---
 
-<!-- Sources: <https://datacite.zoom.us/meeting/register/B5KGjV5QQQO2-p8WtSNzQw#/registration>, <https://www.cometadata.org/> -->
+<!-- Sources: DataCite Zoom registration page, no longer available; <https://www.cometadata.org/> -->
 
 ::: {.callout-note}
 This event has already taken place. Any registration information has been disabled and is shown for reference only.
@@ -28,7 +28,7 @@ This event has already taken place. Any registration information has been disabl
 - Date: Wednesday, 22 April 2026
 - Time: 17:00 (Zurich, CEST)
 - Location: Online
-- Registration: ~~`https://datacite.zoom.us/meeting/register/B5KGjV5QQQO2-p8WtSNzQw#/registration`~~
+- Registration: ~~Registration closed~~
 - Event page: <https://www.cometadata.org/>
 
 ## About

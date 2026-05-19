@@ -19,13 +19,17 @@ toc: true
 
 <!-- Source: <https://research-and-innovation.ec.europa.eu/events/upcoming-events/economic-impact-options-improving-access-and-reuse-research-results-publications-and-data-scientific-2026-05-13_en> -->
 
+::: {.callout-note}
+This event has already taken place. Any registration information has been disabled and is shown for reference only.
+:::
+
 ## Details
 
 - Date: Wednesday, 13 May 2026
 - Time: 13:00-15:30 CEST
 - Location: Online only
 - Language: English
-- Registration: <https://ec.europa.eu/eusurvey/runner/RegistrationWorkshopEconomicStudy2026>
+- Registration: ~~Registration closed~~
 - Event page: <https://research-and-innovation.ec.europa.eu/events/upcoming-events/economic-impact-options-improving-access-and-reuse-research-results-publications-and-data-scientific-2026-05-13_en>
 - Livestream: <https://ecconf.webex.com/ecconf/j.php?MTID=md169002913156aa41072f286e25f746b>
 
