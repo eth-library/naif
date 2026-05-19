@@ -205,5 +205,26 @@
         "message": "fix: fix #17 and #15"
       }
     ]
+  },
+  {
+    "date": "2026-05-20",
+    "scope": "HEI + NAIF",
+    "title": "Teacher education type label aligned with official terminology",
+    "summary": "The dashboard display labels for the `UTE` institution type were updated to use the official Swiss higher education category name.",
+    "row_count_before": 55,
+    "row_count_after": 55,
+    "changes": [
+      "Changed the displayed `UTE` institution type label from teacher education institutions to `Universities of Teacher Education`.",
+      "Kept the underlying `UTE` code and the published HEI rows unchanged."
+    ],
+    "corrections": [
+      "This is a terminology correction only; it does not change institution coverage, identifiers, or status flags."
+    ],
+    "commits": [
+      {
+        "sha": "54757b73cd52daea8be27164a6d752c9c0e81d3c",
+        "message": "fix: align teacher education terminology"
+      }
+    ]
   }
 ]
