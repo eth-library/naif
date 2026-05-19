@@ -207,6 +207,50 @@
     ]
   },
   {
+    "date": "2026-05-04",
+    "scope": "Dashboards",
+    "title": "Shared dashboard helpers, site usage dashboard, and FHNW name correction",
+    "summary": "Dashboard maintenance centralised repeated markup, added the Matomo-backed site usage dashboard, and corrected the English and German FHNW display names in the shared HEI data.",
+    "row_count_before": 55,
+    "row_count_after": 55,
+    "changes": [
+      "Updated `FHNW` from `University of Applied Sciences Northwestern Switzerland` to `University of Applied Sciences and Arts Northwestern Switzerland` and changed `name_de` to `Fachhochschule Nordwestschweiz FHNW`.",
+      "Added the site usage dashboard and checked-in Matomo usage snapshot used for historic usage reporting.",
+      "Extracted shared dashboard table, download, and institution-type markup helpers used by the NAIF, Swiss HEI Open Data, and TOBI dashboards."
+    ],
+    "corrections": [
+      "The HEI row count stayed unchanged; only one institution display name and shared dashboard presentation code changed."
+    ],
+    "commits": [
+      {
+        "sha": "4fbcf38af71ecb28118c4fe852fe6632278058c1",
+        "message": "Declutter, ORD & Matomo Stats (#21)"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-19",
+    "scope": "Dashboards",
+    "title": "Dashboard index order and descriptions curated",
+    "summary": "The dashboards landing page was changed from date-based discovery to an explicit curated order, and dashboard listing descriptions were refreshed.",
+    "row_count_before": 55,
+    "row_count_after": 55,
+    "changes": [
+      "Set explicit dashboard listing order: Swiss HEI Open Data, DORA and CoARA, TOBI, and Site usage.",
+      "Refined dashboard descriptions for the index, NAIF, Swiss HEI Open Data, TOBI, and Site usage pages.",
+      "Added `listing-order` metadata to the individual dashboard pages."
+    ],
+    "corrections": [
+      "This was a dashboard navigation and metadata change only; the shared HEI data rows stayed unchanged."
+    ],
+    "commits": [
+      {
+        "sha": "3c47a00cf348e5261664ed874e27b01ae3d90c2c",
+        "message": "Dashboard index order (#27)"
+      }
+    ]
+  },
+  {
     "date": "2026-05-20",
     "scope": "HEI + NAIF",
     "title": "Teacher education type label aligned with official terminology",
