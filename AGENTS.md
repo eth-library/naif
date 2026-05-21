@@ -74,6 +74,16 @@ uv run quarto render
 - **Testing:** add or update tests for non-trivial logic.
 - **Paradigm:** prefer functional programming patterns over object-oriented programming.
 
+### Dashboard changes
+
+- When editing files under `dashboards/`, check whether the change affects published dashboard data,
+  interpretation, navigation, metadata, or presentation.
+- Record relevant dashboard changes in `dashboards/_data/hei-changelog.json`, including the commit
+  SHA once available; keep `tests/test_common.py::test_latest_hei_changelog_date` aligned when the
+  latest changelog date changes.
+- Purely internal refactors that do not affect rendered dashboards or published data may be omitted,
+  but note that decision in the PR or final summary.
+
 Common commands:
 
 ```bash

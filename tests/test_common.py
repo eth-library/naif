@@ -190,7 +190,7 @@ def test_load_hei_changelog_not_empty() -> None:
 
 
 def test_latest_hei_changelog_date() -> None:
-    assert latest_hei_changelog_date() == "22 April 2026"
+    assert latest_hei_changelog_date() == "20 May 2026"
 
 
 # ---------------------------------------------------------------------------
@@ -227,7 +227,9 @@ def test_ensure_csv_xlsx_export_refreshes_stale_workbook(tmp_path: Path) -> None
     csv_path = tmp_path / "source.csv"
     xlsx_path = tmp_path / "source.xlsx"
     pd.DataFrame({"name": ["Original"]}).to_csv(csv_path, index=False)
-    write_dataframe_xlsx(pd.DataFrame({"name": ["Stale"]}), xlsx_path, sheet_name="Sheet")
+    write_dataframe_xlsx(
+        pd.DataFrame({"name": ["Stale"]}), xlsx_path, sheet_name="Sheet"
+    )
 
     pd.DataFrame({"name": ["Fresh"]}).to_csv(csv_path, index=False)
     stale_time = csv_path.stat().st_mtime - 10
