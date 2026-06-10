@@ -43,12 +43,12 @@ website:
         href: posts/index.qmd
       - text: Events
         href: events/index.qmd
-      - text: About
-        href: about.qmd
       - text: Docs
         href: https://zenodo.org/communities/naif
       - text: Dashboards
         href: dashboards/index.qmd
+      - text: About
+        href: about.qmd
     pinned: true
   page-footer:
     center:

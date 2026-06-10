@@ -1,0 +1,46 @@
+---
+title: "Computational Reproducibility Hackathon 2026"
+date: 2026-12-09
+author: "SwissRN"
+author-title: "Organizer"
+description: "SwissRN's Computational Reproducibility Hackathon 2026 invites researchers to reproduce each other's methods, papers, and tools in a one-day collaborative event at USI in Lugano."
+categories:
+  - "Related Topic"
+tags:
+  - "Reproducibility"
+  - "Open science"
+  - "Hackathon"
+proofread: false
+image: "images/computational-reproducibility-hackathon.png"
+image-alt: "SwissRN Computational Reproducibility Hackathon 2026 event graphic"
+image-caption: "Event graphic for the Computational Reproducibility Hackathon 2026. Source: https://www.swissrn.org/contents/news/posts/2026-05-06/compReproHackathon.html. Rights: SwissRN."
+toc: true
+---
+
+<!-- Source: <https://www.swissrn.org/contents/news/posts/2026-05-06/compReproHackathon.html> -->
+
+## Details
+
+- Date: Wednesday, 9 December 2026
+- Time: 09:30-17:00 CET
+- Location: Università della Svizzera italiana, Via la Santa 1, 6962 Viganello, Lugano, Switzerland
+- Registration: <https://docs.google.com/forms/d/e/1FAIpQLSfION42APtoRYn8ZZo4jMOzVIFd-8ortthoz4GNFJemwRLGtQ/viewform>
+- Submission form: <https://docs.google.com/forms/d/e/1FAIpQLSdo9OkkySGsASXPQXNi5Kq4ka5tdLgsyzDXze61CzwtWCRJog/viewform>
+- Event page: <https://www.swissrn.org/contents/news/posts/2026-05-06/compReproHackathon.html>
+
+## About
+
+The Swiss Reproducibility Network working group on Computational Reproducibility is organising the next Computational Reproducibility Hackathon at Università della Svizzera italiana in Lugano. The one-day event focuses on mutual reproduction of methods, papers, and tools in a collaborative setting.
+
+Participants are invited to submit proposals for work that can be reproduced during the hackathon, ideally their own methods, tools, or papers. The call for submissions closes on 30 September 2026. SwissRN will select entries with attention to diversity and feasibility.
+
+The programme combines short introductions, two hands-on hackathon sessions, and group discussions on replication experiences, challenges, and opportunities. Registration is free but required and closes on 31 October 2026. Participation is possible without submitting work.
+
+The event is relevant to NAIF because it addresses reproducible research practice, reusable outputs, and the documentation standards that make research easier to verify, cite, and build upon.
+
+## Organisers
+
+- Daniel Stekhoven, ETH Zurich
+- Deborah Sulem, USI
+- Ernst Wit, USI
+- Matthias Voigt, FernUni
