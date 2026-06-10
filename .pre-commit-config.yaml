@@ -29,6 +29,7 @@ repos:
         name: Lychee link check
         entry: npm run lychee-check
         language: system
+        pass_filenames: false
         stages: [pre-commit]
       - id: commitlint
         name: Commitlint
