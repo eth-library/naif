@@ -5,7 +5,6 @@
   "scripts": {
     "changelog": "npm exec git-cliff -- --config cliff.toml",
     "check": "prettier --check .",
-    "commit": "cz",
     "deploy": "npm run site:build && npm run publish",
     "docx": "uv run quarto render --profile docx",
     "format": "prettier --write .",
@@ -14,7 +13,7 @@
     "lint:fix": "uv run ruff check --fix .",
     "lychee-check": "lychee --config .lycheerc.toml './*.md' './*.qmd' './posts/**/*.qmd' './events/**/*.qmd' './dashboards/**/*.qmd'",
     "lychee-check:rendered": "lychee --offline --config .lycheerc.toml './_site/**/*.html'",
-    "prepare": "prek install",
+    "prepare": "prek install --hook-type pre-commit --hook-type commit-msg",
     "preview": "uv run quarto preview",
     "preview:fork": "uv run quarto preview --profile fork",
     "publish": "PREK_ALLOW_NO_CONFIG=1 uv run quarto publish gh-pages --no-render",
@@ -34,18 +33,12 @@
     "validate": "npm run check && npm run lint && npm run typecheck && npm run test && npm run render && npm run lychee-check:rendered"
   },
   "devDependencies": {
+    "@commitlint/cli": "^21.0.2",
+    "@commitlint/config-conventional": "^21.0.2",
     "@j178/prek": "^0.3.1",
-    "commitizen": "^4.3.1",
-    "cz": "^1.8.2",
-    "cz-conventional-changelog": "^3.3.0",
     "git-cliff": "^2.10.1",
     "playwright": "^1.58.2",
     "prettier": "^3.6.2"
   },
-  "type": "module",
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    }
-  }
+  "type": "module"
 }

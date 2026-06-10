@@ -30,3 +30,8 @@ repos:
         entry: npm run lychee-check
         language: system
         stages: [pre-commit]
+      - id: commitlint
+        name: Commitlint
+        entry: npx commitlint --edit
+        language: system
+        stages: [commit-msg]
