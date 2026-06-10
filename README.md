@@ -19,7 +19,7 @@ This repository contains the source for the NAIF project website, built with
 ### Requirements
 
 - Quarto
-- Node.js (for formatting Markdown with Prettier)
+- Node.js 24 (for formatting Markdown with Prettier and running Commitlint hooks)
 - Python 3.14
 - uv
 - Lychee (for local link checks in `npm run validate`)
@@ -31,7 +31,9 @@ npm install
 uv sync
 ```
 
-The Git hooks managed by `prek` are installed automatically via npm's `prepare` script.
+The Git hooks managed by `prek` are installed automatically via npm's `prepare` script. Commit
+messages are checked with Commitlint and must follow the Conventional Commits format, for example
+`feat: add dashboard filter`.
 
 ### Format and build
 
@@ -155,7 +157,6 @@ configuration for that command.
 | `npm run site:archive`          | `uv run python scripts/release_site_archive.py`                  | Create a versioned ZIP of the rendered site             |
 | `npm run release:prepare`       | site:build + site:archive --stage                                | Build and stage the Zenodo-ready release archive        |
 | `npm run changelog`             | `git-cliff`                                                      | Generate CHANGELOG from commits                         |
-| `npm run commit`                | `cz`                                                             | Commitizen guided commit                                |
 | `npm run lychee-check`          | `lychee`                                                         | Check for broken links in source `.md` and `.qmd` files |
 | `npm run lychee-check:rendered` | `lychee --offline`                                               | Check internal links in rendered `_site/**/*.html`      |
 

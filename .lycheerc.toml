@@ -19,12 +19,24 @@ exclude = [
   "https://quarto.org/",
   "https://quarto.org/docs/reference/projects/websites.html",
   # Other frequently timing out URLs
+  "https://annualevent.dariah.eu/",
+  "https://annualevent.dariah.eu/call-for-papers/",
+  "https://annualevent.dariah.eu/registration/",
+  "https://bibliosuisse.ch/angebote/detail\\?eventid=984",
+  "https://docs.google.com/forms/d/e/1FAIpQLSdo9OkkySGsASXPQXNi5Kq4ka5tdLgsyzDXze61CzwtWCRJog/viewform",
+  "https://eth-library.github.io/naif/",
   "https://info.orcid.org/event/",
+  "https://open-access-days.de/open-access-days-2026-linz",
+  "https://open-access-days.de/open-access-days-2026-linz/call-for-proposals-eng",
+  "https://sfdora.org/",
   "https://ukb.nl/",
+  "https://www.openaire.eu/",
   "https://www.uu.nl/staff/",
+  "https://yearofscientometrics.ethz.ch/",
 ]
 
 exclude_path = [
+  ".lycheerc.toml",
   "dashboards/_data/"
 ]
 
