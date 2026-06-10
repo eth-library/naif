@@ -1,0 +1,40 @@
+---
+title: "SYoS and NAIF panel discussion and workshop"
+date: 2026-09-16
+author: "University of Bern and NAIF"
+author-title: "Organizer"
+description: "Save the date for a SYoS and NAIF panel discussion on 16 September 2026 and a hands-on workshop on 17 September 2026 in Bern."
+categories:
+  - "Organised by NAIF"
+tags:
+  - "SYoS"
+  - "Workshop"
+  - "Metadata quality"
+proofread: false
+image: "../../images/logos/all-logos.jpg"
+image-alt: "Logos of the NAIF project partners"
+image-caption: "NAIF project partner logos. Rights: NAIF project partners."
+toc: true
+---
+
+<!-- Source: email invitation from Cindy Hertach on behalf of the organising team. -->
+
+## Details
+
+- Date: Wednesday, 16 September 2026 to Thursday, 17 September 2026
+- Location: Bern, Switzerland
+- Registration: To be announced
+- Event page: <https://yearofscientometrics.ethz.ch>
+
+## Programme
+
+- Panel discussion with short input presentations: Wednesday, 16 September 2026, 17:00-18:30, Felix Frey Auditorium, sitem-insel AG, Freiburgstrasse 3, 3010 Bern
+- Hands-on workshop: Thursday, 17 September 2026, 09:00-15:00, Main Building, University of Bern
+
+## About
+
+The next round of SYoS events will take place in Bern in collaboration with the University of Bern and the NAIF project. Instead of the usual lecture format, the organisers will host a panel discussion with short input presentations, followed by a hands-on workshop the next day.
+
+NAIF builds on key elements of the former Swiss Year of Scientometrics initiative. The project aims to strengthen interoperability and improve metadata quality across Swiss institutional repositories, with the broader goal of enhancing the visibility and reusability of Swiss research outputs.
+
+Further details on the programme, panellists, and registration will be announced by email and on the [SYoS blog](https://yearofscientometrics.ethz.ch).

@@ -19,11 +19,15 @@ toc: true
 
 <!-- Source: <https://annualevent.dariah.eu/> -->
 
+::: {.callout-note}
+This event has already taken place. Any registration information has been disabled and is shown for reference only.
+:::
+
 ## Details
 
 - Date: 26-29 May 2026
 - Location: Universita degli Studi Roma Tre - Dipartimento di Studi Umanistici, Via Ostiense 234, Rome, Italy
-- Registration: <https://annualevent.dariah.eu/registration/>
+- Registration: ~~Registration closed~~
 - Call for papers: <https://annualevent.dariah.eu/call-for-papers/>
 - Event page: <https://annualevent.dariah.eu/>
 - NAIF participation: Dr Moritz Mähr presents a poster on Track 1 and Track 4.

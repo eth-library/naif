@@ -19,11 +19,15 @@ toc: true
 
 <!-- Source: <https://2026.bibliocon.de/> -->
 
+::: {.callout-note}
+This event has already taken place. Any registration information has been disabled and is shown for reference only.
+:::
+
 ## Details
 
 - Date: 19-22 May 2026
 - Location: Estrel Congress Center Berlin, Germany
-- Registration: <https://2026.bibliocon.de/registrierung/>
+- Registration: ~~Registration closed~~
 - Event page: <https://2026.bibliocon.de/>
 
 ## About

@@ -19,13 +19,17 @@ toc: true
 
 <!-- Source: email invitation from swissuniversities, 30 April 2026; registration form: <https://survey.swissuniversities.ch/c/y4gxacqa> -->
 
+::: {.callout-note}
+This event has already taken place. Any registration information has been disabled and is shown for reference only.
+:::
+
 ## Details
 
 - Date: Tuesday, 2 June 2026
 - Time: 09:00-15:45 CEST, followed by an aperitif
 - Location: University of Bern / UniS, Schanzeneckstrasse 1, 3012 Bern
 - Language: Multilingual invitation in German, French, and English
-- Registration: <https://survey.swissuniversities.ch/c/y4gxacqa>
+- Registration: ~~Registration closed~~
 - Registration deadline: Friday, 22 May 2026
 
 ## About
