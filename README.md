@@ -19,7 +19,7 @@ This repository contains the source for the NAIF project website, built with
 ### Requirements
 
 - Quarto
-- Node.js (for formatting Markdown with Prettier)
+- Node.js 24 (for formatting Markdown with Prettier and running Commitlint hooks)
 - Python 3.14
 - uv
 - Lychee (for local link checks in `npm run validate`)
