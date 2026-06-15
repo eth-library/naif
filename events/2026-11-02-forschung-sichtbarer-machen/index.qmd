@@ -1,0 +1,36 @@
+---
+title: "Forschung sichtbarer machen"
+date: 2026-11-02
+author: "Bibliosuisse"
+author-title: "Organizer"
+description: "One-day Bibliosuisse course in Aarau on improving research visibility through dissemination, metadata curation, and researcher engagement."
+categories:
+  - "Participation by NAIF"
+tags:
+  - "Training"
+  - "Research visibility"
+  - "Metadata"
+proofread: false
+image: "images/bibliosuisse-event-1051.png"
+image-alt: "Bibliosuisse event page for the course Forschung sichtbarer machen"
+image-caption: "Screenshot of the Bibliosuisse event page for the course Forschung sichtbarer machen. Source: https://www.bibliosuisse.ch/angebote/detail?eventid=1051. Rights: Bibliosuisse."
+toc: true
+---
+
+<!-- Source: <https://www.bibliosuisse.ch/angebote/detail?eventid=1051> -->
+
+## Details
+
+- Date: Monday, 2 November 2026
+- Time: 09:00-17:00
+- Location: Bibliosuisse office, Bleichemattstrasse 42, 5000 Aarau
+- Language: German
+- Registration deadline: One week before the course date
+- Registration: <https://www.bibliosuisse.ch/angebote/detail?eventid=1051>
+- Event page: <https://www.bibliosuisse.ch/angebote/detail?eventid=1051>
+
+## About
+
+This one-day course focuses on how academic libraries can improve the visibility of institutional research output. Participants learn how to improve local metadata, contribute actively to global research information databases, and support researchers in developing sustainable dissemination practices.
+
+The course is led by Simon Willemin and is aimed at staff in academic libraries who want to better understand how scientific research is disseminated and highlighted.
