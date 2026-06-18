@@ -1,0 +1,107 @@
+---
+title: "NAIF project report example"
+subtitle: "A Quarto report rendered with the NAIF Typst template"
+authors:
+  - name: "NAIF team"
+    email: "naif@library.ethz.ch"
+    affiliations:
+      - name: "ETH Library"
+date: "24 April 2026"
+report-version: "Draft"
+abstract: |
+  This example shows how to author a NAIF report in Quarto while rendering through
+  the NAIF Typst report template. It reuses public content from the NAIF website
+  to demonstrate project summaries, tables, lists, and structured report sections.
+keywords:
+  - interoperability
+  - metadata quality
+  - repositories
+format:
+  naif-report-typst:
+    toc: true
+    number-sections: true
+---
+
+# Executive summary
+
+NAIF (National Approach for Interoperable repositories and Findable research results) is a Swiss project improving interoperability and metadata quality across institutional repositories. It is initiated and funded by eight Swiss Higher Education Institutions and co-funded by swissuniversities.
+
+The project aims to enable more interoperability and standardisation across Swiss institutional repositories. It started in July 2025 and will end in December 2026.
+
+This example report demonstrates how the `naif-report-typst` Quarto format can turn regular Markdown into a branded PDF using the shared NAIF Typst layout.
+
+## Example indicators
+
+| Indicator | Value | Note |
+|---|---:|---|
+| Partner institutions | 8 | Swiss Higher Education Institutions initiating and funding NAIF |
+| Project period | 18 months | July 2025 to December 2026 |
+| Work tracks | 4 | Indicators, scenarios, repositories, and academic data |
+| Cross-track outcome | 1 | A national working group model |
+
+![Logos of the NAIF consortium partners](../../../images/logos/all-logos.jpg){fig-alt="Logos of the NAIF consortium partners" fig-cap="NAIF consortium partners. Rights: logos are trademarks of the respective institutions."}
+
+# Project context
+
+Swiss Higher Education Institutions operate institutional repositories with varying practices and metadata quality. This fragmentation makes national-level discovery, monitoring, and analysis difficult.
+
+NAIF addresses this by combining conceptual design with technical implementation work. The conceptual strand develops national scenarios and governance choices. The technical strand works on metadata harmonisation and interoperability requirements.
+
+## Objectives
+
+NAIF focuses on three connected objectives:
+
+- Make research outputs by researchers at Swiss Higher Education Institutions more visible.
+- Improve the data basis for monitoring and steering Swiss research, with a focus on Open Access.
+- Promote the responsible use of indicators in research assessment, aligned with DORA and CoARA.
+
+## Approach
+
+The project works towards shared standards and interoperability across repositories. It develops scenarios for a national approach to disseminate and reuse Swiss research results. It also identifies the factors that ensure dissemination into global ecosystems and findability through high-quality metadata.
+
+## Timeline
+
+| Period | Milestone |
+|---|---|
+| July 2025 | Project start |
+| 2025-2026 | Track activities: workshops, inventories, consultations, recommendations |
+| December 2026 | Project end |
+
+# Work tracks
+
+NAIF is organised into four coordinated tracks plus one cross-track outcome.
+
+## Track 1: Responsible use of quantitative indicators
+
+This track promotes responsible use of indicators for research assessment and links indicator practice with repository interoperability. It aligns guidance with DORA and CoARA, connects indicator use to metadata standardisation priorities, and engages the Swiss Year of Scientometrics community and CHESS.
+
+## Track 2: National scenarios for Switzerland
+
+This track reviews international national approaches and develops options for Switzerland. It compares governance models, funding, sustainability, and technical setups, and gathers Swiss stakeholder requirements through consultations.
+
+## Track 3: Survey of Swiss repositories
+
+This track analyses Swiss institutional repositories. It assesses standards, certifications, repository software, metadata availability, metadata quality, and technical barriers to seamless data exchange and integration.
+
+## Track 4: Enhancement of national and global academic data
+
+This track focuses on enrichment data used in repositories, including organisation identifiers, researcher identifiers, funding data, and Open Access metadata. It converts priorities into practical deliverables such as mappings, authoritative lists, and implementation guidance.
+
+## Unified outcome: National working group
+
+Findings across all tracks feed into a shared national working group model. The intended outcome is a structure that defines status, organisational form, representativeness criteria, shared strategy, goals, and actions for dissemination and findability of Swiss research outputs.
+
+# Authoring workflow
+
+Use the `naif-report-typst` format in a report's front matter. Standard Quarto features such as headings, tables, citations, figures, and executable code cells can then be used as usual.
+
+```yaml
+format:
+  naif-report-typst:
+    toc: true
+    number-sections: true
+```
+
+# Next steps
+
+Replace this example with report-specific content, keep report metadata in the YAML header, and render with `uv run quarto render path/to/report.qmd`.

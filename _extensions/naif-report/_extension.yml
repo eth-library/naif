@@ -1,0 +1,14 @@
+title: NAIF Report
+author: NAIF team
+version: "0.1.0"
+quarto-required: ">=1.9.18"
+contributes:
+  formats:
+    typst:
+      doc-category: "NAIF report"
+      website: "https://eth-library.github.io/naif/"
+      toc: true
+      number-sections: true
+      template-partials:
+        - typst-template.typ
+        - typst-show.typ

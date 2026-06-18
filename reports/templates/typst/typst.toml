@@ -1,0 +1,15 @@
+[package]
+name = "naif-report"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["NAIF team"]
+license = "AGPL-3.0-or-later"
+description = "A NAIF-branded Typst template for project reports."
+repository = "https://github.com/eth-library/naif"
+keywords = ["naif", "report", "typst"]
+categories = ["report"]
+exclude = ["example.pdf"]
+
+[template]
+path = "."
+entrypoint = "example.typ"
