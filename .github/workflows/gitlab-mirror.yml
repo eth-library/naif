@@ -1,0 +1,46 @@
+name: Mirror to GitLab
+
+on:
+  push:
+    branches:
+      - main
+    tags:
+      - "**"
+  delete:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  mirror:
+    if: >
+      github.repository == 'eth-library/naif' && (github.event_name != 'delete' ||
+      github.event.ref_type == 'tag' || github.event.ref == 'main')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Start SSH agent
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.GITLAB_MIRROR_SSH_KEY }}
+
+      - name: Configure GitLab host key
+        run: |
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "${{ secrets.GITLAB_MIRROR_KNOWN_HOSTS }}" > ~/.ssh/known_hosts
+          chmod 600 ~/.ssh/known_hosts
+
+      - name: Mirror main and tags
+        env:
+          SOURCE_URL: https://github.com/eth-library/naif.git
+          TARGET_URL: git@gitlab.ethz.ch:kom/naif.git
+        run: |
+          git init --bare mirror.git
+          git -C mirror.git remote add source "$SOURCE_URL"
+          git -C mirror.git fetch --prune source \
+            '+refs/heads/main:refs/heads/main' \
+            '+refs/tags/*:refs/tags/*'
+          git -C mirror.git remote add target "$TARGET_URL"
+          git -C mirror.git push --prune target \
+            '+refs/heads/main:refs/heads/main' \
+            '+refs/tags/*:refs/tags/*'
