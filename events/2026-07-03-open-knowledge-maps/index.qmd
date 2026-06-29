@@ -1,0 +1,38 @@
+---
+title: "Offene KI für Discovery und Assessment"
+date: 2026-07-03
+author: "Open Science Working Group der Freien Universität Berlin"
+author-title: "Organizer"
+description: "Online talk by Dr Peter Kraker on Open Knowledge Maps, open AI for scholarly discovery, and DORA- and CoARA-compatible approaches to research assessment."
+categories:
+  - "Related Topic"
+tags:
+  - "Open Knowledge Maps"
+  - "AI"
+  - "Research assessment"
+proofread: false
+image: "images/fu-open-knowledge-maps.png"
+image-alt: "Freie Universität Berlin event page for the Open Knowledge Maps online talk"
+image-caption: "Screenshot of the Freie Universität Berlin event page for the Open Knowledge Maps online talk. Source: https://fu-berlin.de/xdlxg24. Rights: Freie Universität Berlin."
+toc: true
+---
+
+<!-- Source: <https://fu-berlin.de/xdlxg24>; invitation email from Dennis Mischke, Freie Universität Berlin; WebEx: <https://fu-berlin.webex.com/fu-berlin-en/j.php?MTID=mff520fcfd82a6c63f6e2d7686b2ca334> -->
+
+## Details
+
+- Date: Friday, 3 July 2026
+- Time: 13:00-14:30
+- Location: Online via WebEx
+- Language: German
+- Registration: Optional registration by email to <open-science@fu-berlin.de>
+- WebEx: <https://fu-berlin.webex.com/fu-berlin-en/j.php?MTID=mff520fcfd82a6c63f6e2d7686b2ca334>
+- Event page: <https://fu-berlin.de/xdlxg24>
+
+## About
+
+The Open Science Working Group of Freie Universität Berlin hosts an online talk by Dr Peter Kraker from the non-profit association Open Knowledge Maps (OKM). The talk is titled "Offene KI für Discovery und Assessment: Open Knowledge Maps in der wissenschaftlichen und bibliothekarischen Praxis".
+
+The session introduces Open Knowledge Maps as an open, visual, AI-supported, and community-driven infrastructure for scholarly discovery. It discusses OKM Custom Services and how libraries, research organisations, and researchers can integrate Open Knowledge Maps into local systems, services, and strategic processes.
+
+A particular focus is VisConnect, an approach to research assessment compatible with DORA and CoARA. The talk also addresses open AI in science and libraries, including digital sovereignty, transparency, sustainability, and the role of community-governed infrastructures.

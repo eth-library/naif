@@ -1,0 +1,41 @@
+---
+title: "Open Repositories 2026"
+date: 2026-06-08
+author: "Open Repositories"
+author-title: "Organizer"
+description: "Online Open Repositories conference from 8 to 11 June 2026, with slides and recordings published via the Open Repositories Zenodo community."
+categories:
+  - "Related Topic"
+tags:
+  - "Repositories"
+  - "Open science"
+  - "Conference"
+proofread: false
+image: "images/open-repositories-2026.png"
+image-alt: "Homepage of the Open Repositories 2026 online conference"
+image-caption: "Screenshot of the Open Repositories 2026 homepage. Source: https://or2026.openrepositories.org/. Rights: Open Repositories."
+toc: true
+---
+
+<!-- Source: <https://or2026.openrepositories.org/>; materials: <https://zenodo.org/communities/openrepos/records?q=&l=list&p=1&s=10&sort=newest> -->
+
+::: {.callout-note}
+This event has already taken place. Any registration information has been disabled and is shown for reference only.
+:::
+
+## Details
+
+- Date: 8-11 June 2026
+- Location: Online
+- Registration: ~~Registration closed~~
+- Event page: <https://or2026.openrepositories.org/>
+- Programme: <https://www.conftool.net/or2026/index.php?page=browseSessions&print=export&form_date=all&presentations=show>
+- Slides and recordings: <https://zenodo.org/communities/openrepos/records?q=&l=list&p=1&s=10&sort=newest>
+
+## About
+
+Open Repositories 2026 was an online conference for the international repository community. The theme was "Open to All? Repositories at the Intersection of People, Practice, and Emerging Technologies".
+
+The programme included pre-conference workshops and roundtable discussions on 8 June, followed by keynotes and presentations from 9 to 11 June. The conference covered open, sustainable, and interoperable repositories, digital research infrastructure, open access, research information systems, scholarly communication, and related repository practice.
+
+Slides, recordings, and other conference materials are expected to be published in the Open Repositories Zenodo community after the conference.

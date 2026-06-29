@@ -17,13 +17,13 @@ image-caption: "Screenshot of the SOAD Day 2026 event page. Source: https://soad
 toc: true
 ---
 
-<!-- Sources: <https://soad.ch/soad-day/>; contribution form: <https://docs.google.com/forms/d/e/1FAIpQLSey_Ifryj9aFNGExjjVPSDy4w4IB0lMCwljzeMnWsoUZm1jRg/viewform> -->
+<!-- Sources: <https://soad.ch/soad-day/>; registration form: <https://docs.google.com/forms/d/e/1FAIpQLScTM8PUf7UWylUy8Km7RGyj9m_1Q-y6DlVBq6feWr07Kksm1g/viewform?pli=1>; contribution form: <https://docs.google.com/forms/d/e/1FAIpQLSey_Ifryj9aFNGExjjVPSDy4w4IB0lMCwljzeMnWsoUZm1jRg/viewform> -->
 
 ## Details
 
 - Date: Wednesday, 2 September 2026
 - Location: EPFL, Lausanne
-- Registration: To be announced
+- Registration: <https://docs.google.com/forms/d/e/1FAIpQLScTM8PUf7UWylUy8Km7RGyj9m_1Q-y6DlVBq6feWr07Kksm1g/viewform?pli=1>
 - Call for contributions: <https://docs.google.com/forms/d/e/1FAIpQLSey_Ifryj9aFNGExjjVPSDy4w4IB0lMCwljzeMnWsoUZm1jRg/viewform>
 - Submission deadline: Sunday, 18 May 2026
 - Event page: <https://soad.ch/soad-day/>
