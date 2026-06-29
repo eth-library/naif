@@ -1,0 +1,73 @@
+---
+title: "NAIF at DARIAH Annual Event 2026"
+subtitle: "A poster in Rome connected responsible research assessment with metadata quality for interoperable research infrastructures."
+date: 2026-06-10
+author:
+  - name: "Dr Moritz Mähr"
+    orcid: "0000-0002-1367-1618"
+    affiliation: "ETH Zurich"
+description: "At the DARIAH Annual Event 2026 in Rome, NAIF presented a poster on responsible research assessment and metadata quality as shared foundations for interoperable research infrastructures."
+doi: "10.5281/zenodo.20391046"
+other-links:
+  - text: "Related event: DARIAH Annual Event 2026"
+    href: "../../events/2026-05-26-dariah-annual-event-2026/"
+  - text: "Poster on Zenodo"
+    href: "https://doi.org/10.5281/zenodo.20391046"
+categories:
+  - "General"
+tags:
+  - "DARIAH"
+  - "metadata"
+  - "research assessment"
+proofread: false
+image: "images/moritz-maehr-dariah-poster.jpg"
+image-alt: "Dr Moritz Mähr standing next to the NAIF poster at the DARIAH Annual Event 2026 in Rome"
+image-caption: "Dr Moritz Mähr with the NAIF poster at the DARIAH Annual Event 2026 in Rome. Photo: NAIF contributors, CC BY 4.0."
+toc: true
+draft: true
+---
+
+## Why DARIAH mattered
+
+From 26 to 29 May 2026, the [DARIAH Annual Event](https://annualevent.dariah.eu/) brought researchers and practitioners to Rome under the theme "Digital Arts and Humanities With and For Society: Building Infrastructures of Engagement". The event offered a useful setting for NAIF because repository interoperability, metadata quality, and responsible assessment are not only technical concerns. They shape how research becomes visible, how it can be reused, and how institutions explain the value and limits of research information.
+
+NAIF contributed the poster [*NAIF: Responsible Research Assessment and Metadata Quality for Interoperable Research Infrastructures in Switzerland*](https://doi.org/10.5281/zenodo.20391046), presented by [Dr Moritz Mähr](https://orcid.org/0000-0002-1367-1618) as Contribution 166 / Poster-01:21 in the poster session. The poster is available on Zenodo under a [CC BY 4.0 licence](https://creativecommons.org/licenses/by/4.0/).
+
+![Homepage visual for the DARIAH Annual Event 2026 in Rome.](images/dariah-annual-event-2026.png){fig-alt="Homepage visual for the DARIAH Annual Event 2026 in Rome" fig-cap="Screenshot of the DARIAH Annual Event 2026 homepage. Source: https://annualevent.dariah.eu/. Rights: DARIAH ERIC; site content licensed under CC BY where noted."}
+
+## What we presented
+
+The poster connected two NAIF work areas that are often discussed separately. Track 1 focuses on the responsible use of quantitative indicators in research assessment. Track 4 focuses on the enhancement and standardisation of academic metadata, especially organisational identifiers, researcher identifiers, funding metadata, and Open Access information.
+
+The central message was straightforward: **responsible indicators and interoperable repositories require the same curated metadata foundation**. Institutional repositories increasingly support discovery, open science monitoring, policy reporting, and assessment practices. If their metadata are incomplete, inconsistent, or poorly documented, both discovery and assessment become less reliable.
+
+## What the poster highlighted
+
+The poster treated repositories as central nodes in national and international research infrastructures. They provide access to publications, datasets, and other scholarly outputs, but they also feed metadata into discovery services, open science infrastructures, and research information systems. As these metadata become part of monitoring and evaluation workflows, transparency about data sources, methods, and limitations becomes essential.
+
+For responsible research assessment, the poster drew on NAIF workshops with stakeholders from Swiss higher education institutions and the broader scientometrics community. Preliminary findings emphasised that indicators must be interpreted in context, that quantitative metrics should complement expert judgement rather than replace it, and that aggregated organisational monitoring is generally more appropriate than individual-level benchmarking.
+
+For metadata quality, the poster highlighted four interrelated data families:
+
+- **Organisations:** disambiguating institutions and organisational units, including alignment with ROR.
+- **Researchers:** linking outputs reliably to people through persistent identifiers such as ORCID.
+- **Funding:** connecting outputs to grants, programmes, and public investment.
+- **Open Access:** describing access status, dissemination routes, licences, and monitoring categories in machine-readable form.
+
+Together, these metadata families provide the contextual backbone for repository interoperability and for the responsible interpretation of indicators derived from repository and research information systems.
+
+## Why this matters beyond Switzerland
+
+Although NAIF works on Swiss institutional repositories, the problem is broader. Fragmented repository practices, uneven metadata quality, and unclear governance make it difficult to build research infrastructures that are trustworthy across institutional and national boundaries. These challenges are familiar to digital humanities, cultural heritage, open science, and research information communities alike.
+
+The DARIAH context therefore helped frame NAIF as a Swiss case study with European relevance. It showed how academic libraries and infrastructure teams contribute to engaged research by making research outputs findable, reusable, and interpretable. This work often remains invisible precisely when it succeeds, but it is a precondition for transparent monitoring, fair assessment, and long-term visibility.
+
+## What's next
+
+NAIF will continue this work through a qualitative survey with actors involved in research assessment and repository management. The survey will map institutional practices, expectations, and tensions around the use of indicators, and it will examine how repository infrastructures and metadata workflows can better support responsible evaluation.
+
+By the end of 2026, NAIF will deliver practical guidance and governance proposals for Swiss repository interoperability. The poster presented in Rome captures one core premise for that next phase: metadata stewardship and responsible indicators should be developed together as parts of a shared sociotechnical infrastructure.
+
+## Source
+
+- Mähr, M. (2026). *NAIF: Responsible Research Assessment and Metadata Quality for Interoperable Research Infrastructures in Switzerland*. DARIAH Annual Event 2026: Digital Arts and Humanities With and For Society: Building Infrastructures of Engagement (DARIAH AE 2026), Rome, Italy. Zenodo. DOI: [10.5281/zenodo.20391046](https://doi.org/10.5281/zenodo.20391046)
