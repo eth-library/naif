@@ -37,8 +37,6 @@ This was the focus of the third workshop of Track 4 of the NAIF project, held on
 
 Track 4 has previously worked on mapping key challenges across different data families, including authorship data, organisational data, funding data, and Open Access metadata. The Bern workshop marked a transition from exploration to action: the aim was not to brainstorm new ideas, but to assess existing proposals and develop them into more structured recommendations.
 
-![Participants of the NAIF workshop at the University of Bern.](images/bern-workshop-participants.jpeg){fig-cap="Participants of the NAIF workshop at the University of Bern. Photo: ETH Zurich / Cindy Hertach. Rights: NAIF project."}
-
 ## What we did
 
 Ahead of the workshop, participants received eight draft proposals prepared by members of the Track 4 community. These proposals addressed issues such as persistent identifiers, institutional affiliations, Open Access reporting, funding metadata, ORCID validation, and the use of external knowledge infrastructures to improve researcher and organisational metadata.
