@@ -24,7 +24,7 @@ toc: true
 - Date: 28 June-2 July 2027
 - Location: National Taiwan University, Taipei, Taiwan
 - Submission deadline for full papers: 15 January 2027
-- Registration: <https://issi2027.ntu.edu.tw/under-construction>
+- Registration: Not yet open
 - Event page: <https://issi2027.ntu.edu.tw/>
 
 ## About
