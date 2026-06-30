@@ -19,6 +19,7 @@ exclude = [
   "https://quarto.org/",
   "https://quarto.org/docs/reference/projects/websites.html",
   # Other frequently timing out URLs
+  "https://issi2027.ntu.edu.tw/",
   "https://annualevent.dariah.eu/",
   "https://annualevent.dariah.eu/call-for-papers/",
   "https://annualevent.dariah.eu/registration/",
