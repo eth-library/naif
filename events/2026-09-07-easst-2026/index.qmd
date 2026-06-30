@@ -1,0 +1,36 @@
+---
+title: "EASST2026: More than now"
+date: 2026-09-07
+author: "EASST and AGH University of Krakow"
+author-title: "Organizer"
+description: "EASST2026 in Krakow explores resilient socio-technical futures, with sessions on research infrastructures, scholarly communication, data infrastructures, AI, and metascience."
+categories:
+  - "Related Topic"
+tags:
+  - "Research infrastructures"
+  - "Scholarly communication"
+  - "STS"
+proofread: false
+image: "images/easst-2026-homepage.png"
+image-alt: "Homepage of the EASST2026 conference"
+image-caption: "Screenshot of the EASST2026 conference homepage. Source: https://easst.net/conferences/easst2026/. Rights: EASST and conference organisers."
+toc: true
+---
+
+<!-- Source: <https://easst.net/conferences/easst2026/>; panel list: <https://nomadit.co.uk/conference/easst2026/panels> -->
+
+## Details
+
+- Date: 7-11 September 2026
+- Location: AGH University of Krakow, Krakow, Poland
+- Registration: <https://easst.net/conference/easst2026/easst2026-registration/>
+- Event page: <https://easst.net/conferences/easst2026/>
+- Programme and panels: <https://nomadit.co.uk/conference/easst2026/panels>
+
+## About
+
+EASST2026 is the European Association for the Study of Science and Technology conference under the theme "More than now: exploring resilient futures". The conference asks how science and technology studies can help imagine, critique, and realise more resilient socio-technical futures.
+
+The conference is relevant to NAIF because several sessions address the infrastructures through which research is produced, made visible, evaluated, and governed. Particularly relevant sessions include meet-ups and panels on the futures of scholarly communication, resilient research infrastructures, research information infrastructures, critical metascience, data infrastructures, and the politics of AI and evaluation.
+
+The call for abstracts is closed, but the event remains a useful opportunity to follow debates around open and community-owned infrastructures, research information, responsible metrics, and the changing conditions of scholarly communication.
