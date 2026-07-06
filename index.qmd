@@ -1,6 +1,8 @@
 ---
 toc: false
 description: "NAIF (National Approach for Interoperable repositories and Findable research results) is a Swiss project improving interoperability and metadata quality across institutional repositories."
+image: images/general/naif-homepage.png
+image-alt: "Screenshot of the NAIF homepage"
 listing:
   - id: home-events
     contents: events/*/index.qmd

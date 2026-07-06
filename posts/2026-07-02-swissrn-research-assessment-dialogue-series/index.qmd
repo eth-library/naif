@@ -1,0 +1,62 @@
+---
+title: "SwissRN Dialogue Series on Research Assessment and Incentives"
+subtitle: "A community-led dialogue on how Swiss research assessment can better reward rigorous, transparent, and reproducible research."
+date: 2026-07-02
+author:
+  - name: "SwissRN Working Group on Research Assessment and Incentives"
+    affiliation: "Swiss Reproducibility Network"
+description: "SwissRN is collecting questions and wishes from the Swiss research community to inform stakeholder dialogue on responsible research assessment and incentives."
+categories:
+  - "Track 1"
+tags:
+  - "Research assessment"
+  - "SwissRN"
+  - "Incentives"
+proofread: false
+image: "images/swissrn-research-assessment-incentives.png"
+image-alt: "SwissRN Research Assessment and Incentives banner"
+image-caption: "Banner for the SwissRN Working Group on Research Assessment and Incentives. Source: https://www.swissrn.org/contents/activities/research%20assessments%20and%20incentives/index.html. Rights: SwissRN."
+source:
+  url: "https://www.swissrn.org/contents/activities/research%20assessments%20and%20incentives/index.html"
+  note: "Repost from SwissRN."
+toc: true
+draft: true
+---
+
+::: {.callout-note}
+Originally published by the [SwissRN Working Group on Research Assessment and Incentives](https://www.swissrn.org/contents/activities/research%20assessments%20and%20incentives/index.html).
+:::
+
+## Why a working group on Research Assessment and Incentives?
+
+Trustworthy research is built on rigor, transparency and reproducibility. Yet, current research assessment systems for hiring, promotion and funding often seem to fail to recognise the research practices that foster these essential qualities. The SwissRN Working Group on Research Assessment and Incentives aims to explore how researchers can be better acknowledged and rewarded for strengthening the integrity and credibility of their research. Through dialogue with institutions and key stakeholders, the group seeks to drive a culture shift toward a responsible research assessment system - one that values and incentivises good research practices.
+
+## SwissRN Dialogue Series on Research Assessment and Incentives
+
+### The challenge
+
+Current reforms in research assessment are often implemented through top-down processes. While these initiatives aim to reward high-quality, reproducible research, a significant communication gap remains between science policymakers and the researchers, students, lecturers, research support staff and managers who are impacted by these changes every day.
+
+### Our approach: A community-led dialogue
+
+The SwissRN Dialogue Series is designed to bridge this gap. We believe that for a culture shift to be successful, the voices of those "on the ground" must be central to the transition.
+
+### How it works
+
+1. Community collection: SwissRN collects anonymised questions and "wishes" from researchers, lecturers, students, and support staff across all disciplines.
+2. Direct stakeholder engagement: The SwissRN Working Group forwards these community inputs directly to relevant stakeholders - including funding organisations and research institution leadership - requesting their response or clarification.
+3. Public transparency: Responses are published on the SwissRN website as interactive "flashcards". This format provides a clear, transparent record of how policymakers intend to address the needs and priorities of the community.
+
+Example question: *"How does the SNSF intend to reward the time spent on data sharing?"*
+
+Example wish: *"I wish my institution acknowledged the hours I dedicate to rigorous peer review."*
+
+### Get involved
+
+Share your questions and wishes through the [SwissRN survey](https://sphinx2.unil.ch/index.php/256846?lang=en).
+
+Whether you want to ask how the SNSF promotes data sharing or you wish your institution would acknowledge the time you spend on open science, all questions and wishes are collected anonymously to ensure you can speak freely. SwissRN collects minimal demographic data solely to ensure that it reaches a diverse set of research participants across Switzerland. The survey is also available in [German](https://sphinx2.unil.ch/index.php/256846?lang=de), [French](https://sphinx2.unil.ch/index.php/256846?lang=fr), and [Italian](https://sphinx2.unil.ch/index.php/256846?lang=it).
+
+## Relevance for NAIF
+
+The Dialogue Series is closely connected to NAIF's work on responsible research assessment. It focuses on how assessment systems can recognise practices such as data sharing, peer review, reproducibility, and open science. These questions are directly relevant to NAIF Track 1, which addresses responsible use of indicators and the institutional conditions needed for transparent, context-sensitive research assessment.
