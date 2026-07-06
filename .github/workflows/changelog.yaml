@@ -8,12 +8,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
       - name: Generate changelog preview
-        uses: orhun/git-cliff-action@v4.8.0
+        uses: orhun/git-cliff-action@v6.3.0
         id: git-cliff
         with:
           config: cliff.toml
