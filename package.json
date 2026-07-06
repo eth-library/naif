@@ -33,15 +33,15 @@
     "validate": "npm run check && npm run lint && npm run typecheck && npm run test && npm run render && npm run lychee-check:rendered"
   },
   "devDependencies": {
-    "@commitlint/cli": "^21.0.2",
-    "@commitlint/config-conventional": "^21.0.2",
-    "@j178/prek": "^0.4.4",
-    "git-cliff": "^2.10.1",
-    "playwright": "^1.58.2",
-    "prettier": "^3.8.4"
+    "@commitlint/cli": "^21.2.0",
+    "@commitlint/config-conventional": "^21.2.0",
+    "@j178/prek": "^0.4.8",
+    "git-cliff": "^2.13.1",
+    "playwright": "^1.61.1",
+    "prettier": "^3.9.4"
   },
   "engines": {
-    "node": "24.x"
+    "node": "26.x"
   },
   "type": "module"
 }
