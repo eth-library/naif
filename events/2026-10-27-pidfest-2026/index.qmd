@@ -13,7 +13,7 @@ tags:
 proofread: false
 image: "images/pidfest-2026-homepage.png"
 image-alt: "PIDfest 2026 conference homepage"
-image-caption: "Screenshot of the PIDfest 2026 homepage. Source: https://www.pidfest.org/home. Rights: PIDfest 2026 organisers; homepage image credit: Canals in Leiden, Province of North Holland, Netherlands by Zairon, CC BY-SA."
+image-caption: "Screenshot of the PIDfest 2026 homepage. Source: https://www.pidfest.org/home. Rights: PIDfest 2026 organisers; homepage image credit: Canals in Leiden, Province of South Holland, Netherlands by Zairon, CC BY-SA."
 toc: true
 ---
 
