@@ -1,0 +1,37 @@
+---
+title: "PIDfest 2026"
+date: 2026-10-27
+author: "SURF and DANS"
+author-title: "Organizer"
+description: "International conference on persistent identifiers in Leiden, bringing together PID advocates, users, and leaders to discuss research infrastructure."
+categories:
+  - "Related Topic"
+tags:
+  - "Persistent identifiers"
+  - "Research infrastructure"
+  - "Conference"
+proofread: false
+image: "images/pidfest-2026-homepage.png"
+image-alt: "PIDfest 2026 conference homepage"
+image-caption: "Screenshot of the PIDfest 2026 homepage. Source: https://www.pidfest.org/home. Rights: PIDfest 2026 organisers; homepage image credit: Canals in Leiden, Province of North Holland, Netherlands by Zairon, CC BY-SA."
+toc: true
+---
+
+<!-- Source: <https://www.pidfest.org/home>; programme: <https://www.pidfest.org/programme>; keynotes: <https://www.pidfest.org/programme/keynotes>; registration: <https://www.pidfest.org/register> -->
+
+## Details
+
+- Date: 27-29 October 2026
+- Location: Leiden, the Netherlands
+- Registration: <https://www.pidfest.org/register>
+- Event page: <https://www.pidfest.org/home>
+- Programme: <https://www.pidfest.org/programme>
+- Keynotes: <https://www.pidfest.org/programme/keynotes>
+
+## About
+
+PIDfest 2026 is an international conference on persistent identifiers, hosted by SURF from 27 to 29 October 2026 in Leiden, the Netherlands. The event is organised with DANS and brings together PID advocates, users, and leaders from around the world.
+
+The conference focuses on how persistent identifiers can support world-class research infrastructure. Its stated goal is to convene the global PID community to discuss practical infrastructure challenges and accelerate research and innovation through problem-solving workshops, presentations, panel discussions, and participant-driven exchange.
+
+The full programme is still being developed. The current outline includes three conference days, with keynote speakers Felienne Hermans, Cameron Neylon, and Suze Kundu already announced.
