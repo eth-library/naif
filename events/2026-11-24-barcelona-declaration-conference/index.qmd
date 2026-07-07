@@ -1,0 +1,40 @@
+---
+title: "Barcelona Declaration 2026 Conference"
+date: 2026-11-24
+author: "Barcelona Declaration, Leibniz Association, and Helmholtz Open Science Office"
+author-title: "Organizer"
+description: "Hybrid Berlin conference on aligning policy and practical implementation for open research information."
+categories:
+  - "Related Topic"
+tags:
+  - "Open research information"
+  - "Research policy"
+  - "Open science"
+proofread: false
+image: "images/bd-2026-conference-announcement.png"
+image-alt: "Announcement graphic for the 2026 Conference of the Barcelona Declaration on Open Research Information in Berlin"
+image-caption: "Announcement graphic for the 2026 Conference of the Barcelona Declaration on Open Research Information. Source: https://barcelona-declaration.org/conference_2026_berlin/. Rights: Barcelona Declaration on Open Research Information, Leibniz Association, and Helmholtz Open Science Office; website content licensed under CC BY 4.0."
+toc: true
+---
+
+<!-- Source: <https://barcelona-declaration.org/conference_2026_berlin/>; call for proposals: <https://barcelona-declaration.org/conference_2026_berlin_cfp/> -->
+
+## Details
+
+- Date: Tuesday, 24 November 2026 to Wednesday, 25 November 2026
+- Location: Leibniz Association Headquarters, Chausseestraße 111, Berlin, Germany
+- Format: In person and online
+- Registration: Opens on 22 September 2026
+- Event page: <https://barcelona-declaration.org/conference_2026_berlin/>
+- Call for proposals: <https://barcelona-declaration.org/conference_2026_berlin_cfp/>
+- Submission form: <https://opnform.com/forms/berlin-conference-call-for-proposals-gad8p1>
+
+## About
+
+The 2026 Conference of the Barcelona Declaration on Open Research Information takes place under the theme "Aligning policy and practical implementation". It brings together signatories, supporters, and other stakeholders working to advance open research information across institutional contexts.
+
+The conference invites presentations and posters that share experiences, lessons learned, and reflections on successes and setbacks in adopting and using open research information. Submissions are especially encouraged to address the relationship between policy and practice, and how both can reinforce the transition to open research information.
+
+The call for proposals is open until 1 September 2026. Acceptance notifications are planned for 15 September 2026, with registration opening on 22 September 2026. The organisers note a maximum capacity of 100 participants in person and 100-300 participants online.
+
+A dedicated satellite meeting for German-speaking and DACH-region participants is tentatively planned for 26 November 2026 at a separate venue in Berlin.
