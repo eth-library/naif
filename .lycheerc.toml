@@ -5,7 +5,8 @@ exclude = [
   # DOI landing pages intermittently return transient resolver errors in automated checks
   "https://doi.org/10.3929/ethz-b-000726102",
   "https://doi.org/10.3929/ethz-b-000735240",
-  # Conference subscribe endpoint is unstable for automated HEAD/GET checks
+  # Conference pages are unstable for automated HEAD/GET checks
+  "https://www.uantwerpen.be/en/conferences/30th-annual-international-conference-on-science-and-technology-indicators/",
   "https://www.uantwerpen.be/en/conferences/30th-annual-international-conference-on-science-and-technology-indicators/subscribe-for-updates/",
   # Zenodo badge placeholders (not yet configured)
   "https://zenodo.org/badge/GITHUB_REPO_ID",
