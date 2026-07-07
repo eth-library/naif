@@ -34,7 +34,7 @@ website:
   description:
     "National Approach for Interoperable repositories and Findable research results (NAIF):
     improving interoperability and metadata quality across Swiss institutional repositories."
-  image: "/images/logos/all-logos.jpg"
+  image: "/images/general/naif-homepage.png"
   open-graph: true
   twitter-card: true
   navbar:

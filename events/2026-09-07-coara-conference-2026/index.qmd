@@ -1,0 +1,40 @@
+---
+title: "CoARA Conference 2026"
+date: 2026-09-07
+author: "CoARA"
+author-title: "Organizer"
+description: "Hybrid CoARA conference in Paris on strengthening communities and driving systemic change in research assessment."
+categories:
+  - "Related Topic"
+tags:
+  - "CoARA"
+  - "Research assessment"
+  - "Conference"
+proofread: false
+image: "images/coara-conference-2026.png"
+image-alt: "CoARA Conference 2026 expression of interest announcement"
+image-caption: "Announcement graphic for the CoARA Conference 2026. Source: https://www.coara.org/news/project-news/coara-conference-september-2026-eoi/. Rights: CoARA."
+toc: true
+---
+
+<!-- Source: <https://www.coara.org/news/project-news/coara-conference-september-2026-eoi/> -->
+
+## Details
+
+- Date: Monday, 7 September 2026 to Tuesday, 8 September 2026
+- Time: Day 1 starts with registration at 12:30 CEST; Day 2 runs from 09:00-17:00 CEST
+- Location: CNRS Auditorium, 3 rue Michel-Ange, 75016 Paris, France, and online
+- Format: Hybrid conference
+- Expression of interest: <https://europeansciencefoundation.wufoo.com/forms/rjzrx341l2co7f/>
+- Expression of interest deadline: Friday, 3 July 2026
+- Event page: <https://www.coara.org/news/project-news/coara-conference-september-2026-eoi/>
+
+## About
+
+The Coalition for Advancing Research Assessment (CoARA) will hold its 2026 conference under the theme "Shaping CoARA's Future: Strengthened Communities Driving Systemic Change in Research Assessment". The 1.5-day hybrid conference will take place at the CNRS Auditorium in Paris and online.
+
+The conference is co-hosted by CNRS, ESF, Science Europe, and ALLEA as part of the Horizon Europe CoARA Boost project. It will bring together core CoARA members and community leaders from the wider research ecosystem to share emerging practices for a fairer and more inclusive research culture.
+
+The programme will highlight outputs, project outcomes, and lessons learned from CoARA Working Groups, Cascade Funding beneficiaries, National Chapters, and other contributors to research assessment reform. It will also address practical support for implementation, monitoring and evaluation mechanisms, and alignment with related global initiatives.
+
+The event is relevant to NAIF because it connects directly with Track 1 work on responsible research assessment, DORA and CoARA alignment, and the institutional practices needed to use indicators transparently and in context.

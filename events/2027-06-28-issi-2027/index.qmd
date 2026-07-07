@@ -1,0 +1,36 @@
+---
+title: "ISSI 2027"
+date: 2027-06-28
+author: "National Taiwan University and ISSI"
+author-title: "Organizer"
+description: "The 21st International Conference on Scientometrics and Informetrics will convene research on bibliometrics, research evaluation, open science, AI, and science policy in Taipei."
+categories:
+  - "Related Topic"
+tags:
+  - "Scientometrics"
+  - "Research assessment"
+  - "Open science"
+proofread: false
+image: "images/issi-2027-homepage.png"
+image-alt: "Homepage of the ISSI 2027 conference"
+image-caption: "Screenshot of the ISSI 2027 conference homepage. Source: https://issi2027.ntu.edu.tw/. Rights: National Taiwan University and ISSI 2027 organisers."
+toc: true
+---
+
+<!-- Source: <https://issi2027.ntu.edu.tw/>; society page: <https://www.issi-society.org/conferences/> -->
+
+## Details
+
+- Date: 28 June-2 July 2027
+- Location: National Taiwan University, Taipei, Taiwan
+- Submission deadline for full papers: 15 January 2027
+- Registration: Not yet open
+- Event page: <https://issi2027.ntu.edu.tw/>
+
+## About
+
+ISSI 2027 is the 21st International Conference on Scientometrics and Informetrics. It welcomes researchers, research managers, authorities, and information professionals working on informetric and scientometric theories, methods, and applications.
+
+The conference is highly relevant to NAIF's work on interoperable repositories, findable research results, research visibility, metadata, open infrastructure, and responsible research evaluation. The call for papers explicitly includes bibliometrics, research evaluation, scholarly communication, AI and computational approaches to the science of science, science mapping, open science, responsible evaluation, policy, governance, and research infrastructures.
+
+ISSI 2027 is therefore a strong candidate for a future NAIF contribution once the programme and submission system are fully available.
