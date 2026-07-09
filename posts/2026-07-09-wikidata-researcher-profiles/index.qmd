@@ -1,0 +1,50 @@
+---
+title: "Connecting Wikidata researcher profiles to Swiss repositories"
+subtitle: "Wikimedia CH brings open knowledge infrastructure into NAIF Track 4."
+date: 2026-07-09
+lang: en-UK
+author:
+  - name: "Alessandro Marchetti"
+    affiliation: "Wikimedia CH"
+description: "Wikimedia CH is contributing metadata curation work to NAIF Track 4, linking Swiss researcher profiles on Wikidata to institutional repositories and piloting data round-tripping workflows."
+categories:
+  - "Track 4"
+tags:
+  - "Wikidata"
+  - "Repositories"
+  - "Researcher profiles"
+proofread: false
+image: "images/wikicite-geneva.jpg"
+image-alt: "Presentation about bibliometry and Wikidata at the Geneva Graduate Institute"
+image-caption: "Seminar on bibliometry and Wikidata at the Graduate Institute of International and Development Studies in Geneva, 13 February 2025. Photo: Alexmar983, Wikimedia Commons, CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:2025-02-13_Thomas_Kerboul_WMCH_Graduate_Institute_of_International_and_Development_Studies_01.jpg."
+toc: true
+draft: false
+---
+
+## Why it matters
+
+Swiss institutional repositories manage author metadata largely in isolation. Researcher names are stored as plain strings, affiliation data is inconsistently structured, and ORCID adoption, while growing, is not yet systematically linked across systems. As a personal choice, ORCID may also never reach full coverage. At the same time, a parallel effort has been quietly building an alternative layer of structured, open researcher data.
+
+The [Wikidata:WikiCite/Researchers in Switzerland](https://www.wikidata.org/wiki/Wikidata:WikiCite/Researchers_in_Switzerland) project has been progressively curating author items for Swiss researchers, connecting them to ORCID iDs, publication records, and institutional affiliations. This community-driven initiative sits at the intersection of open bibliographic infrastructure and the Wikidata knowledge graph, but its outputs have so far remained disconnected from the operational workflows of Swiss repositories.
+
+Connecting these two worlds is the core ambition of the proposal that Wikimedia CH (WMCH) submitted to NAIF Track 4.
+
+## What we have done so far
+
+WMCH has been active primarily in the WikiCite/Researchers in Switzerland effort, curating Wikidata items for Swiss researchers and developing practical experience with the tools and community workflows involved. This includes work presented at **WikiCite 2025** in Bern, where data round-tripping challenges, meaning the flow of corrections and enrichments between repositories and Wikidata, were documented through case studies.
+
+One example is the import into Wikidata of Libra-UNINE metadata from the University of Neuchatel.
+
+## What's next
+
+The curation work already under way points naturally towards a closer integration between Wikidata researcher profiles and Swiss institutional repositories. The direction being explored involves lightweight workflows that let repositories reference stable Wikidata identifiers for their author records and, where possible, feed corrections back into the open knowledge graph. Tools such as OpenRefine reconciliation and the Wikidata author disambiguator are part of this picture, as is alignment with ORCID and the national library authority control tradition.
+
+The short-term focus, by the end of 2026, is to consolidate the data model and run further reconciliation exercises with online repositories. The medium-term aim, in 2027, is to document the workflow, publish reusable guidance, and extend the approach to further institutions. A peer-reviewed publication is already in preparation.
+
+WMCH welcomes interest from institutions that would like to explore this together. Coordination with the WikiCite/Researchers in Switzerland community is available through WMCH.
+
+## Further reading
+
+- [Wikidata:WikiCite/Researchers in Switzerland](https://www.wikidata.org/wiki/Wikidata:WikiCite/Researchers_in_Switzerland)
+- [Data round-tripping for "Swiss WikiCite"](https://meta.wikimedia.org/wiki/WikiCite_2025/Abstracts#Data_round-tripping_for_%22Swiss_WikiCite%22), presentation at WikiCite 2025 in Bern
+- [The UNINE-Libra import project](https://meta.wikimedia.org/wiki/WikiCite_2025/Abstracts#The_UNINE-Libra_import_project), presentation at WikiCite 2025 in Bern
