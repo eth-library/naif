@@ -38,7 +38,7 @@ The aim is to demonstrate, through a small-scale proof of concept, that data agg
 The PrePilot focuses on three objectives:
 
 1. Technical feasibility: demonstrate that cross-institutional metadata collection from three heterogeneous Swiss repositories is feasible using their APIs and OAI-PMH endpoints within available resources.
-2. Shared harmonised dataset: produce a shared dataset representing actual metadata exposed by the three repositories, mapped against a common field schema grounded in DataCite 4.6, OpenAIRE Guidelines 4, and Swiss OAM requirements.
+2. Shared harmonised dataset: produce a shared dataset representing actual metadata exposed by the three repositories, mapped against a common field schema grounded in DataCite 4.6, OpenAIRE Guidelines 4, and Swiss Open Access Monitor (OAM) requirements.
 3. Gap and quality assessment: identify gaps between metadata available via REST APIs, metadata exposed via OAI-PMH, and metadata effectively indexed in OpenAIRE and OpenAlex, including an assessment of the FAIRness potential of exposed metadata.
 
 ## How the working group proceeds
