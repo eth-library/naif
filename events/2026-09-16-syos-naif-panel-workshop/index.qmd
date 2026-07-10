@@ -1,40 +1,44 @@
 ---
-title: "SYoS panel discussion and workshop with NAIF participation"
+title: "SYoS panel discussion and workshop no 7 with NAIF participation"
 date: 2026-09-16
 author: "Swiss Year of Scientometrics"
 author-title: "Organizer"
-description: "Save the date for a SYoS panel discussion with NAIF participation on 16 September 2026 and a hands-on workshop on 17 September 2026 in Bern."
+description: "Join the SYoS panel discussion on responsible research assessment on 16 September 2026 and SYoS Workshop no 7 on quantitative scientometric indicators in Bern on 17 September 2026."
 categories:
-  - "Organised by NAIF"
+  - "Participation by NAIF"
 tags:
   - "SYoS"
   - "Workshop"
-  - "Metadata quality"
+  - "Research assessment"
 proofread: false
-image: "../../images/logos/all-logos.jpg"
-image-alt: "Logos of the NAIF project partners"
-image-caption: "NAIF project partner logos. Rights: NAIF project partners."
+image: "images/keyvisual-syos-eth-banner.png"
+image-alt: "Swiss Year of Scientometrics key visual with SYoS lettering"
+image-caption: "Swiss Year of Scientometrics key visual. Source: Swiss Year of Scientometrics (SYoS), ETH Library."
 toc: true
 ---
 
-<!-- Source: email invitation from Cindy Hertach on behalf of the organising team. -->
+<!-- Sources: https://yearofscientometrics.ethz.ch/mc-events/syos-panel-discussion/ and https://yearofscientometrics.ethz.ch/mc-events/syos-workshop-no-7/ -->
 
 ## Details
 
 - Date: Wednesday, 16 September 2026 to Thursday, 17 September 2026
 - Location: Bern, Switzerland
-- Registration: To be announced
-- Event page: <https://yearofscientometrics.ethz.ch>
+- Registration: [Panel discussion registration](https://forms.microsoft.com/e/k131W3kRWY) by 2 September 2026; [workshop registration by email](mailto:syos@library.ethz.ch?subject=Registration%20for%20SYoS%20Workshop%20on%2017%20September%202026%2C%209%3A00-15%3A00%2C%20at%20University%20of%20Bern&body=Hello%2C%0A%0AI%20would%20like%20to%20register%20for%20the%20SYoS%20Workshop.%0A%0AFirst%20name%20%28required%29%3A%20%0ALast%20name%20%28required%29%3A%20%0AAffiliation%20%2F%20Institution%20%28required%29%3A%20%0APosition%20%2F%20Role%20%28optional%29%3A%20%0AEmail%20address%20%28required%29%3A) by 30 August 2026
+- Event pages: [SYoS panel discussion](https://yearofscientometrics.ethz.ch/mc-events/syos-panel-discussion/) and [SYoS Workshop no 7](https://yearofscientometrics.ethz.ch/mc-events/syos-workshop-no-7/)
 
 ## Programme
 
-- Panel discussion with short input presentations: Wednesday, 16 September 2026, 17:00-18:30, Felix Frey Auditorium, sitem-insel AG, Freiburgstrasse 3, 3010 Bern
-- Hands-on workshop: Thursday, 17 September 2026, 09:00-15:00, Main Building, University of Bern
+- Panel discussion: Wednesday, 16 September 2026, 17:00-18:30, Felix Frey Auditorium, Freiburgstrasse 3, 3010 Bern
+- Workshop: Thursday, 17 September 2026, 09:00-15:00, Main Building, University of Bern, Hochschulstrasse 4, 3012 Bern
 
-## About
+## Panel discussion
 
-The next round of SYoS events will take place in Bern with participation from NAIF. Instead of the usual lecture format, the organisers will host a panel discussion with short input presentations, followed by a hands-on workshop the next day.
+The SYoS panel discussion, **Responsible research assessment: Challenges and perspectives**, focuses on the current transformation of research assessment. Universities, research institutions, and funding organisations are working to reconcile strategic management, evaluation of research performance, and recognition of the diverse contributions scholars make to society.
 
-NAIF will contribute preliminary results from the Track 1 survey for discussion. The project aims to strengthen interoperability and improve metadata quality across Swiss institutional repositories, with the broader goal of enhancing the visibility and reusability of Swiss research outputs.
+The discussion brings together perspectives from bibliometrics, scientometrics, research administration, funding organisations, and university faculty. Topics include the interplay between quantitative indicators and qualitative peer review, the balance between comparability and sensitivity to disciplinary and institutional contexts, and ways to recognise contributions such as Open Science, knowledge transfer, teaching, team science, and interdisciplinary collaboration.
 
-Further details on the programme, panellists, and registration will be announced by email and on the [SYoS blog](https://yearofscientometrics.ethz.ch).
+## Workshop no 7
+
+SYoS Workshop no 7 is jointly organised by the ETH Library and the University of Bern. During the workshop, results from a survey conducted within the NAIF project will be presented and discussed. As part of Track 1, the study examined whether and to what extent Swiss higher education institutions use quantitative scientometric indicators (QSIs) in recruitment processes, evaluations, and institutional management.
+
+The aim is to develop a shared understanding of the findings and to explore their implications for the Swiss higher education landscape. Participants will draw potential conclusions and formulate recommendations on the responsible use of QSIs in research assessment and university governance.
