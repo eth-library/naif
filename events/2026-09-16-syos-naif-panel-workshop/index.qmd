@@ -13,7 +13,7 @@ tags:
 proofread: false
 image: "images/keyvisual-syos-eth-banner.png"
 image-alt: "Swiss Year of Scientometrics key visual with SYoS lettering"
-image-caption: "Swiss Year of Scientometrics key visual. Source: Swiss Year of Scientometrics (SYoS), ETH Library."
+image-caption: "Swiss Year of Scientometrics key visual. Source: [Swiss Year of Scientometrics (SYoS)](https://yearofscientometrics.ethz.ch/). Rights: ETH Library."
 toc: true
 ---
 
