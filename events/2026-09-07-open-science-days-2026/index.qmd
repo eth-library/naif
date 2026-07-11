@@ -1,0 +1,36 @@
+---
+title: "Open Science Days 2026"
+date: 2026-09-07
+author: "EPFL, HEP Vaud, HES-SO, and UNIL"
+author-title: "Organizer"
+description: "Two participatory days in Lausanne for the research communities of EPFL, HEP Vaud, HES-SO, and UNIL to advance open science."
+categories:
+  - "Related Topic"
+tags:
+  - "Open science"
+  - "Research community"
+  - "Collaboration"
+proofread: false
+image: "images/open-science-days-2026-homepage.png"
+image-alt: "Open Science Days 2026 homepage with a colourful illustration and the event dates"
+image-caption: "Screenshot of the Open Science Days 2026 homepage. Source: https://opensciencedays.ch/en/. Rights: Open Science Days organisers."
+toc: true
+---
+
+<!-- Source: <https://opensciencedays.ch/en/> -->
+
+## Details
+
+- Date: Monday, 7 September 2026 to Tuesday, 8 September 2026
+- Location: Lausanne, Switzerland
+- Registration: <https://conferences.unil.ch/OSD26>
+- Programme: <https://opensciencedays.ch/wp-content/uploads/2026/06/programme_OSD26.pdf>
+- Event page: <https://opensciencedays.ch/en/>
+
+## About
+
+Open Science Days 2026 brings together the research communities of the École Polytechnique Fédérale de Lausanne (EPFL), Haute école pédagogique du canton de Vaud (HEP Vaud), HES-SO, and the University of Lausanne (UNIL). The four institutions are jointly hosting two participatory days in Lausanne to promote open science.
+
+The programme is organised around four thematic strands: the compass, the catalyst, the crew, and the spark. Case studies, peer learning, workshops, and panel discussions will create opportunities for practical exchange and collaboration.
+
+The event is relevant to NAIF because it supports the shared goal of making research a public good by connecting people, tools, and networks across the Swiss research community.
