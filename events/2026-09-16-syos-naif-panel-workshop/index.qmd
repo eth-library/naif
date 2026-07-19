@@ -1,7 +1,7 @@
 ---
 title: "SYoS panel discussion and workshop no 7 with NAIF participation"
 date: 2026-09-16
-author: "Swiss Year of Scientometrics"
+author: "ETH Library and University of Bern"
 author-title: "Organizer"
 description: "Join the SYoS panel discussion on responsible research assessment on 16 September 2026 and SYoS Workshop no 7 on quantitative scientometric indicators in Bern on 17 September 2026."
 categories:
@@ -17,7 +17,7 @@ image-caption: "Swiss Year of Scientometrics key visual. Source: [Swiss Year of 
 toc: true
 ---
 
-<!-- Sources: https://yearofscientometrics.ethz.ch/mc-events/syos-panel-discussion/ and https://yearofscientometrics.ethz.ch/mc-events/syos-workshop-no-7/ -->
+<!-- Sources: email invitation from Annette Guignard on behalf of the organising team; https://yearofscientometrics.ethz.ch/mc-events/syos-panel-discussion/; and https://yearofscientometrics.ethz.ch/mc-events/syos-workshop-no-7/ -->
 
 ## Details
 
@@ -33,9 +33,13 @@ toc: true
 
 ## Panel discussion
 
-The SYoS panel discussion, **Responsible research assessment: Challenges and perspectives**, focuses on the current transformation of research assessment. Universities, research institutions, and funding organisations are working to reconcile strategic management, evaluation of research performance, and recognition of the diverse contributions scholars make to society.
+The panel asks: **How can research performance be assessed in a fair, transparent, and responsible way?**
 
-The discussion brings together perspectives from bibliometrics, scientometrics, research administration, funding organisations, and university faculty. Topics include the interplay between quantitative indicators and qualitative peer review, the balance between comparability and sensitivity to disciplinary and institutional contexts, and ways to recognise contributions such as Open Science, knowledge transfer, teaching, team science, and interdisciplinary collaboration.
+As research evaluation practices evolve, universities, research institutions, and funding organisations face increasing demands to balance accountability, quality, and the recognition of diverse research contributions.
+
+The panel brings together experts from bibliometrics, research management, funding organisations, and academia to discuss key challenges in responsible research assessment. Topics include the role of quantitative indicators and peer review, disciplinary and institutional differences, and the recognition of contributions such as Open Science, knowledge transfer, teaching, team science, and interdisciplinary collaboration.
+
+The event aims to foster dialogue, highlight key trade-offs, and explore balanced approaches to research assessment that reflect the diversity and values of contemporary research.
 
 ## Workshop no 7
 
