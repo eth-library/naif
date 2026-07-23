@@ -1,0 +1,39 @@
+---
+title: "Research Data Conference (RDC) 2026"
+date: 2026-11-19
+author: "Swiss Research Data Support Network (SRDSN)"
+author-title: "Organizer"
+description: "The Research Data Conference 2026 brings research data professionals to Bern on 19-20 November, with NAIF moderating a session on repositories."
+categories:
+  - "Participation by NAIF"
+tags:
+  - "Research data"
+  - "Repositories"
+  - "Conference"
+proofread: false
+image: "images/rdc-2026.jpg"
+image-alt: "Research Data Conference banner showing the dates 19-20 November 2026 and the location Gurten in Bern"
+image-caption: "Research Data Conference 2026 banner. Source: [Swiss Research Data Support Network (SRDSN)](https://www.researchdatasupport.ch/srdsn-conference). Rights: SRDSN."
+toc: true
+---
+
+<!-- Sources: https://www.researchdatasupport.ch/srdsn-conference and information provided by the NAIF team about its participation. -->
+
+## Details
+
+- Date: Thursday, 19 November to Friday, 20 November 2026
+- Location: Gurten, Bern, Switzerland
+- Language: English
+- Registration: To be announced on the event page
+- Cost: CHF 150
+- Event page: [Research Data Conference (RDC) 2026](https://www.researchdatasupport.ch/srdsn-conference)
+
+## About the conference
+
+The Swiss Research Data Support Network (SRDSN) is organising the two-day international conference **Research Data in practice – what is the state of the art?** It aims to connect local operational challenges with global strategic initiatives and to support exchange among open research data specialists, data stewards, research software engineers, and researchers.
+
+The conference addresses research data support, research software, data stewardship, Open Science and Open Research Data, FAIR data and quality, research data infrastructures, policies and funder requirements, and artificial intelligence in data-intensive research. Through practical and interactive contributions, it will explore how sustainable institutional commitment can foster reproducible and responsible science.
+
+## NAIF participation
+
+NAIF will moderate a conference session on repositories. The session is directly connected to the project's work on interoperable repositories, metadata quality, and the findability and reuse of Swiss research outputs.

@@ -4,6 +4,9 @@ date: 2026-05-26
 author: "DARIAH ERIC"
 author-title: "Organizer"
 description: "NAIF participates in the DARIAH Annual Event in Rome (26-29 May 2026), where Dr Moritz Mähr presents a poster on Track 1 and Track 4."
+other-links:
+  - text: "Related post: NAIF at DARIAH Annual Event 2026"
+    href: "../../posts/2026-07-20-naif-at-dariah-annual-event-2026/"
 categories:
   - "Participation by NAIF"
 tags:
