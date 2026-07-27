@@ -1,7 +1,7 @@
 ---
 title: "SwissRN Dialogue Series on Research Assessment and Incentives"
 subtitle: "A community-led dialogue on how Swiss research assessment can better reward rigorous, transparent, and reproducible research."
-date: 2026-07-02
+date: 2026-07-27
 author:
   - name: "SwissRN Working Group on Research Assessment and Incentives"
     affiliation: "Swiss Reproducibility Network"
@@ -20,11 +20,10 @@ source:
   url: "https://www.swissrn.org/contents/activities/research%20assessments%20and%20incentives/index.html"
   note: "Repost from SwissRN."
 toc: true
-draft: true
 ---
 
-::: {.callout-note}
-Originally published by the [SwissRN Working Group on Research Assessment and Incentives](https://www.swissrn.org/contents/activities/research%20assessments%20and%20incentives/index.html).
+::: {.callout-note title="Repost"}
+This announcement was originally published by the [SwissRN Working Group on Research Assessment and Incentives](https://www.swissrn.org/contents/activities/research%20assessments%20and%20incentives/index.html) and is reposted with permission. The "Relevance for NAIF" section was added by the NAIF team.
 :::
 
 ## Why a working group on Research Assessment and Incentives?
