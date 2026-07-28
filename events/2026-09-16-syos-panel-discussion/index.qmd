@@ -1,0 +1,43 @@
+---
+title: "SYoS panel discussion on responsible research assessment"
+date: 2026-09-16
+author: "ETH Library and University of Bern"
+author-title: "Organizer"
+description: "Panel discussion on responsible research assessment bringing together perspectives from bibliometrics, institutional governance, and research on 16 September 2026 in Bern."
+other-links:
+  - text: "Related event: SYoS workshop no 7"
+    href: "../2026-09-17-syos-workshop-no-7/"
+categories:
+  - "Participation by NAIF"
+tags:
+  - "SYoS"
+  - "Panel discussion"
+  - "Research assessment"
+proofread: false
+image: "images/keyvisual-syos-eth-banner.png"
+image-alt: "Swiss Year of Scientometrics key visual with SYoS lettering"
+image-caption: "Swiss Year of Scientometrics key visual. Source: [Swiss Year of Scientometrics (SYoS)](https://yearofscientometrics.ethz.ch/). Rights: ETH Library."
+aliases:
+  - /events/2026-09-16-syos-naif-panel-workshop/
+toc: true
+---
+
+<!-- Source: https://yearofscientometrics.ethz.ch/mc-events/syos-panel-discussion/ -->
+
+## Details
+
+- Date: Wednesday, 16 September 2026
+- Time: 17:00–18:30
+- Location: Felix Frey Auditorium, Freiburgstrasse 3, 3010 Bern, Switzerland
+- Registration: [Panel discussion registration](https://forms.microsoft.com/e/k131W3kRWY) by 2 September 2026
+- Event page: [SYoS panel discussion](https://yearofscientometrics.ethz.ch/mc-events/syos-panel-discussion/)
+
+## About
+
+The assessment of research performance is undergoing a transformation. There is an increasing demand for the fair, transparent, and responsible evaluation of research quality. This challenges universities, research institutions, and funding organisations to reconcile diverse expectations and sometimes competing requirements — for example, between Open Access and prestige-driven publication practices, or between academic excellence and societal relevance. These expectations and requirements shape the strategic direction of institutions, the criteria used to evaluate discipline-specific contributions, and the recognition of the diverse contributions that scholars make, both within academia and to society more broadly.
+
+This panel discussion brings together representatives from bibliometrics, research administration, funding organisations, and faculty members from universities and universities of applied sciences. It thus provides a platform for diverse perspectives: from those who develop and apply research assessment indicators, to those responsible for institutional governance and evaluation, as well as researchers whose work is being assessed.
+
+The discussion will focus on the challenges of responsible research assessment. Topics will include the interplay between quantitative indicators and qualitative peer-review processes, the balance between comparability and sensitivity to disciplinary and institutional contexts, and the tensions between efficiency, transparency, and fairness. The panel will also address how contributions in areas such as Open Science, knowledge transfer, teaching, team science, and interdisciplinary collaboration can be appropriately recognised without creating unintended incentives.
+
+The aim of the event is to bring together different perspectives, make existing trade-offs and tensions more visible, and strengthen the dialogue between researchers, evaluators, research funders, and higher education institution management. The panel discussion seeks to provide impulses for the responsible evolution of research assessment and to explore how quantitative and qualitative approaches can be combined into a balanced framework that reflects the diverse nature of contemporary research and the values of the scientific community.

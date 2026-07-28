@@ -1,0 +1,39 @@
+---
+title: "SYoS workshop no 7 on quantitative scientometric indicators"
+date: 2026-09-17
+author: "ETH Library and University of Bern"
+author-title: "Organizer"
+description: "SYoS workshop no 7 presenting and discussing survey results from NAIF Track 1 on the use of quantitative scientometric indicators in Swiss higher education."
+other-links:
+  - text: "Related event: SYoS panel discussion"
+    href: "../2026-09-16-syos-panel-discussion/"
+categories:
+  - "Participation by NAIF"
+tags:
+  - "SYoS"
+  - "Workshop"
+  - "Quantitative scientometric indicators"
+proofread: false
+image: "images/keyvisual-syos-eth-banner.png"
+image-alt: "Swiss Year of Scientometrics key visual with SYoS lettering"
+image-caption: "Swiss Year of Scientometrics key visual. Source: [Swiss Year of Scientometrics (SYoS)](https://yearofscientometrics.ethz.ch/). Rights: ETH Library."
+toc: true
+---
+
+<!-- Source: https://yearofscientometrics.ethz.ch/mc-events/syos-workshop-no-7/ -->
+
+## Details
+
+- Date: Thursday, 17 September 2026
+- Time: 09:00–15:00
+- Location: Main Building (Hauptgebäude HG), University of Bern, Hochschulstrasse 4, 3012 Bern, Switzerland
+- Registration: [Registration by email](mailto:syos@library.ethz.ch?subject=Registration%20for%20SYoS%20Workshop%20on%2017%20September%202026%2C%209%3A00-15%3A00%2C%20at%20University%20of%20Bern&body=Hello%2C%0A%0AI%20would%20like%20to%20register%20for%20the%20SYoS%20Workshop.%0A%0AFirst%20name%20%28required%29%3A%20%0ALast%20name%20%28required%29%3A%20%0AAffiliation%20%2F%20Institution%20%28required%29%3A%20%0APosition%20%2F%20Role%20%28optional%29%3A%20%0AEmail%20address%20%28required%29%3A) by 30 August 2026
+- Event page: [SYoS Workshop no 7](https://yearofscientometrics.ethz.ch/mc-events/syos-workshop-no-7/)
+
+## About
+
+The seventh SYoS workshop, jointly organised by the ETH Library and the University of Bern, will take place on 17 September 2026 at the Main Building (Hauptgebäude HG) of the University of Bern.
+
+During the workshop, results of a survey conducted within the [NAIF project](../../about.qmd) will be presented and discussed. As part of Track 1 of the project, the study examined whether and to what extent Swiss higher education institutions use quantitative scientometric indicators (QSIs) in recruitment processes, evaluations, and institutional management.
+
+The aim of the workshop is to develop a shared understanding of the findings and to jointly explore their implications for the Swiss higher education landscape. Participants will draw potential conclusions and formulate recommendations on the responsible use of QSIs in research assessment and university governance.
