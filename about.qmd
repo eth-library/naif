@@ -52,7 +52,7 @@ The project partners are:
 - [University of Neuchatel](https://www.unine.ch/)
 - [University of St.Gallen](https://www.unisg.ch/en/)
 
-![Logos of the NAIF partner institutions](images/logos/all-logos.jpg){fig-cap="Partner institutions. Rights: logos are trademarks of the respective institutions."}
+![Partner institutions. Rights: logos are trademarks of the respective institutions.](images/logos/all-logos.jpg){fig-alt="Logos of the NAIF partner institutions"}
 
 ## Objectives
 

@@ -94,6 +94,9 @@ Use an event page for announcements and for documenting past events.
 
 - Use 1-3 good-quality images where possible.
 - Every image needs alt text, a caption, and a note on rights or source.
+- For inline images, write `![Caption incl. credit](path){fig-alt="..."}`: the bracket text is the
+  visible caption, `fig-alt` holds the alt text. `fig-cap=` is not a valid attribute on markdown
+  images and is silently dropped, so never use it.
 
 ## Reposts of external content
 

@@ -43,13 +43,13 @@ Ahead of the workshop, participants received eight draft proposals prepared by m
 
 The workshop was organised in two main parts. In the morning, participants worked in groups to critically assess the proposals. The goal was to stress-test each idea: what was clear, what was missing, what could make implementation difficult, and what should be refined, merged, narrowed, or postponed.
 
-![Audience watching Christian Muheim as he presents his proposal.](images/christian-muheim-presentation.jpeg){fig-cap="Audience watching Christian Muheim as he presents his proposal. Photo: ETH Zurich / Cindy Hertach. Rights: NAIF project."}
+![Audience watching Christian Muheim as he presents his proposal. Photo: ETH Zurich / Cindy Hertach. Rights: NAIF project.](images/christian-muheim-presentation.jpeg){fig-alt="Christian Muheim standing and presenting his proposal to an attentive seated audience"}
 
 In the afternoon, the discussion shifted towards implementation. Groups were asked to identify minimal viable actions, possible owners, relevant actors, concrete next steps, and realistic outputs for the coming months.
 
 To keep the discussion focused, each group worked with a common worksheet. This helped participants move from general comments to concrete outputs, including risks, feasibility conditions, timelines, and expected deliverables.
 
-![Participants working in groups during the Track 4 workshop.](images/group-work.jpeg){fig-cap="Time for group work at the NAIF Track 4 workshop. Photo: ETH Zurich / Cindy Hertach. Rights: NAIF project."}
+![Time for group work at the NAIF Track 4 workshop. Photo: ETH Zurich / Cindy Hertach. Rights: NAIF project.](images/group-work.jpeg){fig-alt="Participants seated around tables working together in small groups during the Track 4 workshop"}
 
 ## What we found
 

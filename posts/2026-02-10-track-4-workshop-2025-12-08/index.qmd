@@ -35,7 +35,7 @@ draft: false
 
 On 15 October 2025, the first NAIF Track 4 workshop brought together repository managers, data stewards, and open science specialists from across Switzerland to explore four families of academic metadata: organisational data, authorship and researcher data, funding information, and open access and licensing data.
 
-![Group photo of participants from the first NAIF Track 4 workshop at Lake Neuchâtel.](images/group-photo.jpg){fig-cap="Participants of the first NAIF Track 4 workshop at Lake Neuchâtel. Photo: ETH Zurich, Annette Guignard. Rights: NAIF contributors."}
+![Participants of the first NAIF Track 4 workshop at Lake Neuchâtel. Photo: ETH Zurich, Annette Guignard. Rights: NAIF contributors.](images/group-photo.jpg){fig-alt="Group photo of participants from the first NAIF Track 4 workshop standing together at Lake Neuchâtel"}
 
 During the workshop, participants produced an extensive set of exploratory maps and proposed actions, which have been compiled on the [NAIF Track 4 Trello board](https://trello.com/b/QiVYYDdi/naif-track-4) by Jorge Rodrigues de Matos (EPFL).
 
@@ -49,7 +49,7 @@ The Agreement & Certainty Matrix (ACM) was used to move beyond simple voting. Th
 
 Participants first reviewed the 16 action cards on the Trello board individually, then rated up to five actions using emoji on a shared [Miro board](https://miro.com/app/board/uXjVJtPnUzU=/): 🤝 or 👎 for agreement, 💯 or 🤷‍♀️ for certainty. The resulting placement provided a visual landscape of the participants' assessment.
 
-![Action cards placed in the Agreement and Certainty Matrix after participant ratings.](images/acm-matrix.png){fig-cap="Agreement and Certainty Matrix from Workshop #2 showing the placement of proposed actions. Source: NAIF workshop materials (Miro board and slides). Rights: NAIF contributors."}
+![Agreement and Certainty Matrix from Workshop #2 showing the placement of proposed actions. Source: NAIF workshop materials (Miro board and slides). Rights: NAIF contributors.](images/acm-matrix.png){fig-alt="Action cards placed across the four quadrants of the Agreement and Certainty Matrix after participant ratings"}
 
 ## What we found
 

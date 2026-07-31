@@ -44,4 +44,4 @@ Checklist (manual):
 
 <Write the post>
 
-![Alt text](images/<image>.jpg){fig-cap="Caption. Rights: ..."}
+![Caption. Rights: ...](images/<image>.jpg){fig-alt="Alt text describing the image content"}

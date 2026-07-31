@@ -35,7 +35,7 @@ The workshop was jointly organised by Dr Martin Jaekel (ZHAW), Dr Rüdiger Mutz 
 
 ##### **Setting the stage: responsible metrics in research assessment**
 
-![Audience watching Ginny Barbour giving her online lightning talk](images/IMG_8717modified2.jpeg){fig-cap="Ginny Barbour giving her online lightning talk (ETH Zurich / Annette Guignard)"}
+![Ginny Barbour giving her online lightning talk (ETH Zurich / Annette Guignard)](images/IMG_8717modified2.jpeg){fig-alt="Audience watching Ginny Barbour giving her online lightning talk on a screen at the front of the room"}
 
 Professor Ginny Barbour, Co-Chair of the Declaration on Research Assessment (DORA) opened the workshop with a lightning talk on [Using Quantitative Indicators Responsibly in Research Assessment](https://zenodo.org/records/17481395). She outlined why quantitative metrics were often flawed or misapplied, despite being widely used. Barbour emphasized that indicators should be transparent, contextual, and fair, and complement expert qualitative assessment, as opposed to replacing them. She also introduced DORA’s new Practical Guide to Responsible Research Assessment. The guide provides feasible steps for institutions to develop fair evaluation strategies accounting for the specific context.
 
@@ -49,7 +49,7 @@ The workshop participants had the opportunity to delve deeper into the topic in 
 2. status quo and vision for the future
 3. implementation of the vision
 
-![Two discussion groups in a large room.](images/IMG_8754.jpeg){fig-cap="Stimulating discussions in small groups (ETH Zurich / Annette Guignard)"}
+![Stimulating discussions in small groups (ETH Zurich / Annette Guignard)](images/IMG_8754.jpeg){fig-alt="Two discussion groups seated together in a large room"}
 
 Key insights from each group session were shared with the plenary and underlined several important aspects of the responsible use of QSI:
 
@@ -76,6 +76,6 @@ NAIF will incorporate the insights gained from this workshop and consider them w
 [Martin Jaekel](https://yearofscientometrics.ethz.ch/author/martinjaekel/) holds a PhD from the University of Cambridge in Life Sciences and subsequently became a PI at the University of Cambridge. He then worked as Management Consultant in Paris with a focus on biotech / pharma before joining the Agence Nationale de la Recherche as International Affairs Manager. Subsequently he worked in for an EU Programme as Programme Officer and is now Head of Research & Development and Technology Transfer at the Zurich University of Applied Sciences.
 :::
 ::: {.column width="20%"}
-![Portrait of Dr Martin Jaekel](images/portrait-martin-jaekel.jpg){fig-alt="Portrait of Dr Martin Jaekel" fig-cap="Dr Martin Jaekel, Head of Research & Development and Technology Transfer at ZHAW." fig-attr="Image: Courtesy of Dr Martin Jaekel." width="100%"}
+![Dr Martin Jaekel, Head of Research & Development and Technology Transfer at ZHAW. Image: Courtesy of Dr Martin Jaekel.](images/portrait-martin-jaekel.jpg){fig-alt="Portrait of Dr Martin Jaekel" width="100%"}
 :::
 :::

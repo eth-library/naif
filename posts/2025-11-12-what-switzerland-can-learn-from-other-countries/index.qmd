@@ -58,7 +58,7 @@ The event offered exciting insights from three countries: Denmark, the Netherlan
 5. Pilot projects (phase 1) helped generate support from researchers, identify adjustments for internal workflows, and gauge the reactions of publishers.
 6. The administrative burden on researchers was extremely low. The repository managers took on most of the work.
 
-![Wenneke Meerstadt speaking](images/wenneke-meerstadt.jpg){fig-cap="Wenneke Meerstadt reports on the implementation of the secondary publication right at Utrecht University."}
+![Wenneke Meerstadt reports on the implementation of the secondary publication right at Utrecht University.](images/wenneke-meerstadt.jpg){fig-alt="Wenneke Meerstadt speaking at a lectern during the event presentation"}
 
 ### Finland: Making research visible, interoperable, and reusable with *research.fi*
 
