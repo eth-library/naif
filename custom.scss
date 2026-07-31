@@ -221,3 +221,43 @@ figcaption,
   --bs-btn-hover-border-color: #181818;
   --bs-btn-focus-shadow-rgb: 24, 24, 24;
 }
+
+// --- NAIF image scaling ------------------------------------------------------
+// Source images range from portrait (0.71) to ultra-wide banners (5.00), and
+// stock Quarto only ships `max-width: 100%` (.img-fluid), so nothing caps height.
+
+// Listing thumbnails (posts/, events/, both homepage listings): uniform 16:9.
+// Cropping is intentional here. Scoped via the `.quarto-post .thumbnail`
+// ancestor, not the `.thumbnail-image` class, which posters/ (type: grid) reuses.
+.quarto-post .thumbnail img {
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  width: 100%;
+  height: auto;
+}
+
+// Page images: capped height, never cropped, so tall images shrink and centre
+// while wide banners stay full width. `main.content` scopes this to the standard
+// page template, keeping dashboards and posters (own templates) untouched.
+// `width: auto` yields to an explicit `{width="60%"}`, which Quarto emits as an
+// inline style; those images just gain the height cap.
+main.content .page-image-figure img.figure-img {
+  max-height: 30rem;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  margin-inline: auto;
+}
+
+// In-body figures get a slightly taller cap than the hero above.
+main.content figure.figure:not(.page-image-figure) img.figure-img {
+  max-height: 32rem;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  margin-inline: auto;
+}
