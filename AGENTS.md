@@ -156,7 +156,10 @@ uv run quarto render
   - `image-caption` (caption including rights attribution, and source URL where relevant)
 - If you add manual inline images in the body, also provide alt text and a caption with rights
   attribution.
-- For screenshot-based inline figures, include the source URL in the figure caption (`fig-cap`)
+- For manual inline images, use `![Caption incl. credit](path){fig-alt="..."}` — the bracket text is
+  the visible caption, `fig-alt` is the screen-reader description. `fig-cap=` is **not** a valid
+  attribute on markdown images and is silently dropped by Pandoc/Quarto; do not use it.
+- For screenshot-based inline figures, include the source URL in the visible caption (bracket text)
   where possible. If that is not possible, keep the source line commented out in the page source.
 - If no suitable image is available on first try, add a screenshot of the relevant source page.
 - Use Playwright via `npx` for screenshots (do not rely on Python Playwright in this repo).

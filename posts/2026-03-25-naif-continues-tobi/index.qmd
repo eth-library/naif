@@ -44,7 +44,7 @@ TOBI's analyses showed that coverage and metadata quality differ substantially a
 
 The evidence clearly demonstrates that findability depends on disambiguation and consistent identifiers. Consequently, NAIF's conceptual work is based on the realisation that we must move away from diagnosing identifier problems in external databases towards supporting local and national processes that prevent these problems at source.
 
-![TOBI project poster presented at WOOC2025: *A 2-year retrospective into the open information landscape: Learnings from the TOBI project*.](images/tobi-poster-wooc2025.png){fig-alt="TOBI project poster titled A 2-year retrospective into the open information landscape: Learnings from the TOBI project" fig-cap="TOBI project poster presented at WOOC2025: *A 2-year retrospective into the open information landscape: Learnings from the TOBI project*. DOI: 10.5281/zenodo.15807578. Rights: Kubacka, Willemin, and Dederke (2025), CC BY 4.0."}
+![TOBI project poster presented at WOOC2025: *A 2-year retrospective into the open information landscape: Learnings from the TOBI project*. DOI: 10.5281/zenodo.15807578. Rights: Kubacka, Willemin, and Dederke (2025), CC BY 4.0.](images/tobi-poster-wooc2025.png){fig-alt="TOBI project poster titled A 2-year retrospective into the open information landscape: Learnings from the TOBI project"}
 
 ## What's next
 

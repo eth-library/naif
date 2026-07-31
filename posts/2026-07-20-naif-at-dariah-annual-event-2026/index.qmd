@@ -36,7 +36,7 @@ draft: false
 
 From 26 to 29 May 2026, the [DARIAH Annual Event](https://annualevent.dariah.eu/) brought researchers and practitioners to Rome. The event was held under the theme "Digital Arts and Humanities With and For Society: Building Infrastructures of Engagement". It offered a useful setting for NAIF because repository interoperability, metadata quality, and responsible assessment are not only technical concerns. They shape how research becomes visible, how it can be reused, and how institutions explain the value and limits of research information.
 
-![Homepage visual for the DARIAH Annual Event 2026 in Rome.](images/dariah-annual-event-2026.png){fig-alt="Homepage visual for the DARIAH Annual Event 2026 in Rome" fig-cap="Screenshot of the DARIAH Annual Event 2026 homepage. Source: https://annualevent.dariah.eu/. Rights: DARIAH ERIC; site content licensed under CC BY where noted."}
+![Screenshot of the DARIAH Annual Event 2026 homepage. Source: https://annualevent.dariah.eu/. Rights: DARIAH ERIC; site content licensed under CC BY where noted.](images/dariah-annual-event-2026.png){fig-alt="Homepage visual for the DARIAH Annual Event 2026 in Rome"}
 
 ## What we presented
 

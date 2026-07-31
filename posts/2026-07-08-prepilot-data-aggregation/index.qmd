@@ -33,7 +33,7 @@ The aim is to demonstrate, through a small-scale proof of concept, that data agg
 
 ## The three objectives
 
-![Slide showing the three PrePilot objectives: technical feasibility, shared harmonised dataset, and gap and quality assessment](images/prepilot-objectives.png){fig-cap="PrePilot objectives for data aggregation work in NAIF Track 2 and Track 3. Source: NAIF Track 2 and Track 3 working group. Rights: NAIF."}
+![PrePilot objectives for data aggregation work in NAIF Track 2 and Track 3. Source: NAIF Track 2 and Track 3 working group. Rights: NAIF.](images/prepilot-objectives.png){fig-alt="Slide showing the three PrePilot objectives: technical feasibility, shared harmonised dataset, and gap and quality assessment"}
 
 The PrePilot focuses on three objectives:
 
@@ -45,7 +45,7 @@ The PrePilot focuses on three objectives:
 
 The working group has initiated and planned the PrePilot as a focused, reproducible process that does not require cloud infrastructure or proprietary tools.
 
-![Slide showing the three PrePilot working steps: collect, compare, and report](images/prepilot-workflow.png){fig-cap="PrePilot workflow for collecting, comparing, and reporting metadata findings. Source: NAIF Track 2 and Track 3 working group. Rights: NAIF."}
+![PrePilot workflow for collecting, comparing, and reporting metadata findings. Source: NAIF Track 2 and Track 3 working group. Rights: NAIF.](images/prepilot-workflow.png){fig-alt="Slide showing the three PrePilot working steps: collect, compare, and report"}
 
 The workflow consists of three steps:
 
