@@ -136,7 +136,8 @@ def annotate_figure(figure: dict[str, Any], base_dir: Path) -> Path:
     if not source_path.exists():
         raise FileNotFoundError(f"Source screenshot not found: {source_path}")
 
-    image = Image.open(source_path).convert("RGBA")
+    with Image.open(source_path) as source:
+        image = source.convert("RGBA")
 
     # Crop first: marks are authored against the cropped frame, and the site caps
     # figure height, so trimming dead space is what keeps a figure readable.
@@ -181,7 +182,13 @@ def main() -> None:
     base_dir = spec_path.resolve().parent
     for figure in figures:
         written = annotate_figure(figure, base_dir)
-        print(f"Wrote {written.relative_to(Path.cwd())}", file=sys.stderr)
+        try:
+            display_path = written.relative_to(Path.cwd())
+        except ValueError:
+            # Not under the current directory (e.g. run from elsewhere); fall
+            # back to the absolute path rather than crashing after success.
+            display_path = written
+        print(f"Wrote {display_path}", file=sys.stderr)
 
 
 if __name__ == "__main__":

@@ -159,9 +159,10 @@ function parseArgs(rawArgs) {
       // Not comma-split: selectors such as a:has-text("Publication counts (2012, 2022)")
       // may legitimately contain commas.  Repeat --click to click several elements.
       const selector = (nextValue ?? "").trim();
-      if (selector) {
-        args.click.push(selector);
+      if (!selector || (!inlineValue && selector.startsWith("--"))) {
+        throw new Error("--click requires a selector.");
       }
+      args.click.push(selector);
       if (!inlineValue) {
         i += 1;
       }
@@ -381,7 +382,8 @@ async function clickTargets(page, selectors) {
       // Quarto dashboards re-layout tab panes (and re-fit Leaflet maps) on shown.bs.tab.
       await page.waitForTimeout(750);
     } catch (error) {
-      process.stderr.write(`WARNING: could not click '${selector}': ${error.message}\n`);
+      const message = error instanceof Error ? error.message : String(error);
+      process.stderr.write(`WARNING: could not click '${selector}': ${message}\n`);
     }
   }
 }
