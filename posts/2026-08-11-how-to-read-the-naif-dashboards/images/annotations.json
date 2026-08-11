@@ -1,0 +1,67 @@
+{
+  "figures": [
+    {
+      "source": "hei-about-raw.png",
+      "capture": "npm run screenshot:clean -- \"http://localhost:4321/dashboards/swiss-hei-open-data/\" \"posts/2026-08-11-how-to-read-the-naif-dashboards/images/hei-about-raw.png\" --viewport 900x1290 --wait-ms 2000",
+      "output": "hei-about-annotated.png",
+      "crop": [16, 100, 890, 600],
+      "marks": [
+        { "n": 1, "box": [14, 10, 352, 47], "x": 409, "y": 33 },
+        { "n": 2, "box": [34, 132, 700, 275], "x": 779, "y": 150 }
+      ]
+    },
+    {
+      "source": "hei-about-raw.png",
+      "capture": "same capture as hei-about-annotated.png, cropped to the foot of the tab",
+      "output": "hei-caveats-annotated.png",
+      "crop": [16, 838, 890, 1030],
+      "marks": [
+        { "n": 1, "box": [34, 20, 700, 92], "x": 779, "y": 42 },
+        { "n": 2, "box": [34, 145, 478, 34], "x": 559, "y": 162 }
+      ]
+    },
+    {
+      "source": "hei-identifiers-raw.png",
+      "capture": "npm run screenshot:clean -- \"http://localhost:4321/dashboards/swiss-hei-open-data/\" \"posts/2026-08-11-how-to-read-the-naif-dashboards/images/hei-identifiers-raw.png\" --viewport 1600x820 --click 'a[data-bs-toggle=\"tab\"][data-value=\"Identifiers\"]' --wait-ms 2500",
+      "output": "hei-identifiers-annotated.png",
+      "marks": [
+        { "n": 1, "box": [118, 20, 112, 44], "x": 174, "y": 8 },
+        { "n": 2, "box": [52, 104, 1494, 40], "x": 1568, "y": 124 },
+        { "n": 3, "box": [592, 146, 134, 133], "x": 762, "y": 262 }
+      ]
+    },
+    {
+      "source": "naif-coara-raw.png",
+      "capture": "npm run screenshot:clean -- \"http://localhost:4321/dashboards/naif/\" \"posts/2026-08-11-how-to-read-the-naif-dashboards/images/naif-coara-raw.png\" --viewport 1200x860 --click 'a[data-bs-toggle=\"tab\"][data-value=\"CoARA\"]' --wait-ms 4000",
+      "output": "naif-coara-annotated.png",
+      "marks": [
+        { "n": 1, "box": [30, 20, 655, 44], "x": 730, "y": 42 },
+        { "n": 2, "box": [64, 100, 285, 148], "x": 375, "y": 100 },
+        { "n": 3, "box": [574, 267, 36, 36] },
+        { "n": 4, "box": [199, 608, 36, 36] }
+      ]
+    },
+    {
+      "source": "tobi-findability-raw.png",
+      "capture": "npm run screenshot:clean -- \"http://localhost:4321/dashboards/tobi/\" \"posts/2026-08-11-how-to-read-the-naif-dashboards/images/tobi-findability-raw.png\" --viewport 1500x820 --click 'a[data-bs-toggle=\"tab\"][data-value=\"Findability\"]' --wait-ms 2500",
+      "output": "tobi-findability-annotated.png",
+      "marks": [
+        { "n": 1, "box": [30, 20, 930, 44], "x": 1000, "y": 42 },
+        { "n": 2, "box": [290, 145, 68, 265], "x": 324, "y": 118 },
+        { "n": 3, "box": [362, 145, 275, 265], "x": 500, "y": 118 },
+        { "n": 4, "box": [648, 145, 100, 265], "x": 698, "y": 118 }
+      ]
+    },
+    {
+      "source": "site-usage-raw.png",
+      "capture": "npm run screenshot:clean -- \"http://localhost:4321/dashboards/site-usage/\" \"posts/2026-08-11-how-to-read-the-naif-dashboards/images/site-usage-raw.png\" --viewport 1200x1060 --wait-ms 2500",
+      "output": "site-usage-annotated.png",
+      "crop": [0, 0, 1200, 915],
+      "marks": [
+        { "n": 1, "box": [50, 198, 700, 30], "x": 790, "y": 213 },
+        { "n": 2, "box": [50, 340, 700, 190], "x": 790, "y": 355 },
+        { "n": 3, "box": [50, 840, 1100, 62], "x": 1172, "y": 855 }
+      ]
+    }
+  ]
+}

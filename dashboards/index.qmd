@@ -27,6 +27,13 @@ listing:
 ::: {#dashboards}
 :::
 
+::: {.callout-tip}
+## New here?
+[How to read and use the NAIF dashboards](../posts/2026-08-11-how-to-read-the-naif-dashboards/)
+walks through each view, explains what the numbers do and do not mean, and shows
+where the underlying data comes from.
+:::
+
 ::: {.callout-note}
 Dashboard data are updated as source data and project outputs evolve.
 Changes to the institutional data behind the NAIF and Swiss HEI dashboards are
