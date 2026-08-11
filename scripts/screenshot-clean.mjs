@@ -102,6 +102,7 @@ function parseViewport(viewportValue) {
 function parseArgs(rawArgs) {
   const args = {
     hide: [],
+    click: [],
     timeoutMs: DEFAULT_TIMEOUT_MS,
     waitMs: DEFAULT_WAIT_MS,
     viewport: { width: DEFAULT_WIDTH, height: DEFAULT_HEIGHT },
@@ -154,6 +155,20 @@ function parseArgs(rawArgs) {
       continue;
     }
 
+    if (key === "--click") {
+      // Not comma-split: selectors such as a:has-text("Publication counts (2012, 2022)")
+      // may legitimately contain commas.  Repeat --click to click several elements.
+      const selector = (nextValue ?? "").trim();
+      if (!selector || (!inlineValue && selector.startsWith("--"))) {
+        throw new Error("--click requires a selector.");
+      }
+      args.click.push(selector);
+      if (!inlineValue) {
+        i += 1;
+      }
+      continue;
+    }
+
     if (key === "--full-page") {
       args.fullPage = true;
       continue;
@@ -182,6 +197,7 @@ function printHelp() {
     `  --timeout-ms <n>    Navigation timeout (default: ${DEFAULT_TIMEOUT_MS})`,
     `  --viewport <WxH>    Viewport size (default: ${DEFAULT_WIDTH}x${DEFAULT_HEIGHT})`,
     "  --hide <sel1,sel2>  Additional selectors to remove before screenshot",
+    "  --click <selector>  Click before capturing (repeatable, e.g. a dashboard tab)",
     "  --full-page         Capture full page (default is 16:9 viewport)",
   ];
   process.stdout.write(`${usage.join("\n")}\n`);
@@ -359,6 +375,19 @@ async function hideOverlays(page, customSelectors) {
   }, selectors);
 }
 
+async function clickTargets(page, selectors) {
+  for (const selector of selectors) {
+    try {
+      await page.click(selector, { timeout: 10000 });
+      // Quarto dashboards re-layout tab panes (and re-fit Leaflet maps) on shown.bs.tab.
+      await page.waitForTimeout(750);
+    } catch (error) {
+      const message = error instanceof Error ? error.message : String(error);
+      process.stderr.write(`WARNING: could not click '${selector}': ${message}\n`);
+    }
+  }
+}
+
 async function main() {
   const args = parseArgs(process.argv.slice(2));
 
@@ -403,6 +432,7 @@ async function main() {
     await waitForImagesToLoad(page, args.timeoutMs);
 
     await hideOverlays(page, args.hide);
+    await clickTargets(page, args.click);
     await page.waitForTimeout(args.waitMs);
 
     await page.screenshot({

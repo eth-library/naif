@@ -175,7 +175,7 @@ def load_hei_changelog() -> list[dict[str, object]]:
         data = json.load(handle)
 
     if not isinstance(data, list):
-        raise ValueError("HEI changelog must be a list of entries")
+        raise TypeError("HEI changelog must be a list of entries")
 
     return data
 

@@ -153,7 +153,7 @@ def format_duration(seconds: int) -> str:
 
 def format_month_label(month: str) -> str:
     """Format ``YYYY-MM`` month keys as ``Mon YYYY``."""
-    parsed = datetime.strptime(month, "%Y-%m")
+    parsed = datetime.strptime(month, "%Y-%m").replace(tzinfo=UTC).date()
     return parsed.strftime("%b %Y")
 
 
@@ -363,7 +363,7 @@ def fetch_usage_snapshot(
     today: date | None = None,
 ) -> UsageSnapshot:
     """Fetch lifetime and month-by-month usage metrics from Matomo."""
-    report_end = today or date.today()
+    report_end = today or datetime.now(UTC).date()
     report_window = f"{config.report_start_date},{report_end.isoformat()}"
 
     totals_payload = _matomo_request(
@@ -390,11 +390,11 @@ def fetch_usage_snapshot(
     )
 
     if not isinstance(totals_payload, dict):
-        raise RuntimeError("Matomo totals payload was not a JSON object")
+        raise TypeError("Matomo totals payload was not a JSON object")
     if not isinstance(history_payload, dict):
-        raise RuntimeError("Matomo history payload was not a JSON object")
+        raise TypeError("Matomo history payload was not a JSON object")
     if not isinstance(top_pages_payload, list):
-        raise RuntimeError("Matomo top-pages payload was not a JSON array")
+        raise TypeError("Matomo top-pages payload was not a JSON array")
 
     return build_snapshot(
         config,

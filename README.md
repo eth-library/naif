@@ -194,14 +194,15 @@ Positional arguments: `<url>` (page to capture) and `<output-file>` (path to sav
 
 Options:
 
-| Flag                 | Default    | Description                                           |
-| -------------------- | ---------- | ----------------------------------------------------- |
-| `--wait-ms <n>`      | `6000`     | Wait time after page load (ms)                        |
-| `--timeout-ms <n>`   | `45000`    | Navigation timeout (ms)                               |
-| `--viewport <WxH>`   | `1600x900` | Viewport size                                         |
-| `--hide <sel1,sel2>` | —          | Extra CSS selectors to hide before capture            |
-| `--full-page`        | off        | Capture full scrollable page instead of 16:9 viewport |
-| `--help`             | —          | Print usage info                                      |
+| Flag                 | Default    | Description                                               |
+| -------------------- | ---------- | --------------------------------------------------------- |
+| `--wait-ms <n>`      | `6000`     | Wait time after page load (ms)                            |
+| `--timeout-ms <n>`   | `45000`    | Navigation timeout (ms)                                   |
+| `--viewport <WxH>`   | `1600x900` | Viewport size                                             |
+| `--hide <sel1,sel2>` | —          | Extra CSS selectors to hide before capture                |
+| `--click <selector>` | —          | Click before capturing (repeatable, e.g. a dashboard tab) |
+| `--full-page`        | off        | Capture full scrollable page instead of 16:9 viewport     |
+| `--help`             | —          | Print usage info                                          |
 
 Examples:
 
@@ -216,6 +217,10 @@ npm run screenshot:clean -- "https://example.org" "posts/<entry>/images/shot.png
 # Full-page capture with longer wait
 npm run screenshot:clean -- "https://example.org" "posts/<entry>/images/shot.png" \
   --full-page --wait-ms 10000
+
+# Capture a non-default dashboard tab
+npm run screenshot:clean -- "https://example.org" "posts/<entry>/images/shot.png" \
+  --click "a:has-text('Trends')"
 ```
 
 ## Content workflow

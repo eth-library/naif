@@ -203,7 +203,9 @@ class HEIChangelogEntry(BaseModel):
 
     @field_validator("commits")
     @classmethod
-    def commits_must_not_be_empty(cls, v: list[HEIChangelogCommit]) -> list[HEIChangelogCommit]:
+    def commits_must_not_be_empty(
+        cls, v: list[HEIChangelogCommit]
+    ) -> list[HEIChangelogCommit]:
         if not v:
             raise ValueError("entry must include at least one commit")
         return v
@@ -250,7 +252,8 @@ class TestHEIData:
                     lat=row["lat"] if pd.notna(row["lat"]) else None,
                     lon=row["lon"] if pd.notna(row["lon"]) else None,
                 )
-            except Exception as exc:
+            # Broad on purpose: collect every row's failure, not just the first.
+            except Exception as exc:  # noqa: BLE001
                 errors.append(f"Row {idx} ({row.get('name', '?')}): {exc}")
         assert not errors, "\n".join(errors)
 
@@ -304,7 +307,8 @@ class TestHEIChangelog:
         for idx, entry in enumerate(hei_changelog):
             try:
                 HEIChangelogEntry.model_validate(entry)
-            except Exception as exc:
+            # Broad on purpose: collect every entry's failure, not just the first.
+            except Exception as exc:  # noqa: BLE001
                 errors.append(f"Entry {idx}: {exc}")
         assert not errors, "\n".join(errors)
 
@@ -355,7 +359,8 @@ class TestTOBIData:
                     type=required_text_cell(row["type"]),
                     town=required_text_cell(row["town"]),
                 )
-            except Exception as exc:
+            # Broad on purpose: collect every row's failure, not just the first.
+            except Exception as exc:  # noqa: BLE001
                 errors.append(f"Row {idx} ({row.get('name', '?')}): {exc}")
         assert not errors, "\n".join(errors)
 
