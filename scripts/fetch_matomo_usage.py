@@ -41,6 +41,7 @@ def main() -> None:
 if __name__ == "__main__":
     try:
         main()
-    except Exception as exc:  # pragma: no cover - integration behaviour
+    # Deliberately broad: top-level CLI handler must not let any error crash silently.
+    except Exception as exc:  # noqa: BLE001 pragma: no cover - integration behaviour
         print(f"Error: {exc}", file=sys.stderr)
         sys.exit(1)
