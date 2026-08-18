@@ -36,7 +36,7 @@ toc: true
 
 - **Prof Leonhard Held** — Full Professor of Biostatistics at the University of Zurich and Founding Director of the Center for Reproducible Science and Research Synthesis
 - **Prof Fabio Wasserfallen** — Full Professor of European Politics and Director of the Institute of Political Science at the University of Bern
-- **Eda Elif Tibet** — member of the Swiss Young Academy, postdoctoral researcher at the Wyss Academy for Nature, and associate researcher at mLab, Institute of Geography, University of Bern
+- **Eda Elif Tibet** — Member of the Swiss Young Academy, postdoctoral researcher at the Wyss Academy for Nature, and associate researcher at mLab, Institute of Geography, University of Bern
 - **Catherine Brun** — Deputy Head of the Sciences Team at the ETH Board
 - **Katja Wirth** — Head of the Research Promotion Service at the University of Fribourg
 - **Stuart Lane** — Vice President of the Swiss National Science Foundation (SNSF) and member of the DORA Executive Board
