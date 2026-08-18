@@ -1,9 +1,9 @@
 ---
-title: "SYoS panel discussion on responsible research assessment"
+title: "SYoS panel discussion: responsible research assessment – challenges and perspectives"
 date: 2026-09-16
 author: "ETH Library and University of Bern"
 author-title: "Organizer"
-description: "Panel discussion on responsible research assessment bringing together perspectives from bibliometrics, institutional governance, and research on 16 September 2026 in Bern."
+description: "Six panellists from research, university management, research support, and funding discuss the challenges and perspectives of responsible research assessment."
 other-links:
   - text: "Related event: SYoS workshop no 7"
     href: "../2026-09-17-syos-workshop-no-7/"
@@ -22,7 +22,7 @@ aliases:
 toc: true
 ---
 
-<!-- Source: https://yearofscientometrics.ethz.ch/mc-events/syos-panel-discussion/ -->
+<!-- Source: https://yearofscientometrics.ethz.ch/panel-discussion-responsible-research-assessment-challenges-and-perspectives/ -->
 
 ## Details
 
@@ -30,7 +30,18 @@ toc: true
 - Time: 17:00–18:30
 - Location: Felix Frey Auditorium, Freiburgstrasse 3, 3010 Bern, Switzerland
 - Registration: [Panel discussion registration](https://forms.microsoft.com/e/k131W3kRWY) by 2 September 2026
-- Event page: [SYoS panel discussion](https://yearofscientometrics.ethz.ch/mc-events/syos-panel-discussion/)
+- Event page: [SYoS panel discussion: responsible research assessment – challenges and perspectives](https://yearofscientometrics.ethz.ch/panel-discussion-responsible-research-assessment-challenges-and-perspectives/)
+
+## Panellists and moderator
+
+- **Prof Leonhard Held** — Full Professor of Biostatistics at the University of Zurich and Founding Director of the Center for Reproducible Science and Research Synthesis
+- **Prof Fabio Wasserfallen** — Full Professor of European Politics and Director of the Institute of Political Science at the University of Bern
+- **Eda Elif Tibet** — member of the Swiss Young Academy, postdoctoral researcher at the Wyss Academy for Nature, and associate researcher at mLab, Institute of Geography, University of Bern
+- **Catherine Brun** — Deputy Head of the Sciences Team at the ETH Board
+- **Katja Wirth** — Head of the Research Promotion Service at the University of Fribourg
+- **Stuart Lane** — Vice President of the Swiss National Science Foundation (SNSF) and member of the DORA Executive Board
+
+The discussion will be moderated by **Katrin Brugger**, who coordinates advanced research assessment strategies and leads the implementation of the Activity Framework at the University of Graz.
 
 ## About
 
