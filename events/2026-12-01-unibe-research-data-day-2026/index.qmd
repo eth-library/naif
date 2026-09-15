@@ -1,0 +1,37 @@
+---
+title: "UniBE Research Data Day 2026: Make your data useful"
+date: 2026-12-01
+author: "Open Science Team, University of Bern"
+author-title: "Organizer"
+description: "A lecture and practical workshops at the University of Bern explore strategies and tools for making published research data useful."
+categories:
+  - "Related Topic"
+tags:
+  - "Research data"
+  - "Open science"
+  - "Data reuse"
+proofread: false
+lang: en-UK
+image: "images/source-screenshot.png"
+image-alt: "University of Bern event page for UniBE Research Data Day 2026: Make your data useful"
+image-caption: "Screenshot of the UniBE Research Data Day 2026 event page. Source: https://www.ub.unibe.ch/services/open_science/os_events/event_forms/unibe_research_data_day_2026/index_eng.html. Rights: University of Bern."
+toc: true
+---
+
+<!-- Source: <https://www.ub.unibe.ch/services/open_science/os_events/event_forms/unibe_research_data_day_2026/index_eng.html> -->
+
+## Details
+
+- Date: Tuesday, 1 December 2026
+- Time: 09:00–15:45 CET
+- Location: Room 331, Main Building, University of Bern, Hochschulstrasse 4, 3012 Bern, Switzerland
+- Cost: Free of charge
+- Access: Not open to the public
+- Registration: [Registration form](https://www.ub.unibe.ch/services/open_science/os_events/event_forms/unibe_research_data_day_registration_formular_2026/index_eng.html)
+- Event page: [UniBE Research Data Day 2026](https://www.ub.unibe.ch/services/open_science/os_events/event_forms/unibe_research_data_day_2026/index_eng.html)
+
+## About
+
+The Open Science Team at the University of Bern is organising UniBE Research Data Day 2026 around the question of how to make research data useful beyond publication.
+
+The event combines a short lecture on the prerequisites for useful data with practical workshops presenting specific strategies and tools. It focuses on helping researchers consider how others can use the data they share.
