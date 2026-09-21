@@ -1,0 +1,38 @@
+---
+title: "Beyond Books: scholarly events as research infrastructure"
+date: 2026-11-26
+author: "Volker Michel, Arne Mrotzek, Heike Renner-Westermann, Antonios Tsiknakis, Stephanie Hagemann-Wilholt, Benjamin Auberer"
+author-title: "Organizer"
+description: "Online workshop on event data as research infrastructure, exploring how libraries can support metadata for conferences, workshops, and symposia."
+categories:
+  - "Related Topic"
+tags:
+  - "Research infrastructure"
+  - "Metadata"
+  - "Libraries"
+proofread: false
+image: "images/beyond-books-2026-registration.png"
+image-alt: "Beyond Books 2026 registration page on eveeno, showing the title, date, and organising partner logos"
+image-caption: "Screenshot of the Beyond Books 2026 registration page. Source: https://eveeno.com/beyondbooks2026. Rights: workshop organisers."
+toc: true
+---
+
+<!-- Source: mailing list announcement (Bibnez), 15 September 2026; registration: https://eveeno.com/beyondbooks2026 -->
+
+## Details
+
+- Date: Thursday, 26 November 2026
+- Time: 09:00-13:00
+- Format: Online, via Zoom
+- Registration: [Beyond Books 2026](https://eveeno.com/beyondbooks2026)
+- Registration deadline: 25 November 2026
+- Cost: Free
+- Organisers: Volker Michel, Arne Mrotzek, Heike Renner-Westermann, Antonios Tsiknakis, Stephanie Hagemann-Wilholt, Dr Benjamin Auberer
+
+## About the workshop
+
+Scholarly events such as conferences, workshops, and symposia are more than platforms for exchange. They shape research communities, foster networking, and act as seedbeds for publications and collaborations. Despite this, data about these events often remains unreachable or fragmented. Libraries have so far built little dedicated infrastructure for event-based data, even though they could support it through current research information systems and other tools.
+
+The workshop **Beyond Books** is a collaboration between the FID Allgemeine und Vergleichende Literaturwissenschaft, the FID Linguistik, ConfIDent (TIB Hannover), and the VDB Fachreferatskommission. It examines the role of scholarly events in research communication, research assessment, and infrastructure. The workshop targets library subject specialists and offers space for exchange, input, and discussion on the future of event data.
+
+The workshop is a free online course. Participants can request a certificate of attendance from the VDB Fachreferatskommission.
