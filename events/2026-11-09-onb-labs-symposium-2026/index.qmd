@@ -1,0 +1,38 @@
+---
+title: "ÖNB Labs Symposium 2026: Collections as Data—Biases as Data"
+date: 2026-11-09
+author: "ÖNB Labs"
+author-title: "Organizer"
+description: "The fourth ÖNB Labs Symposium in Vienna examines how biases shape cultural heritage data and what this means for GLAM institutions and their labs."
+categories:
+  - "Related Topic"
+tags:
+  - "Cultural heritage data"
+  - "Bias"
+  - "GLAM"
+proofread: false
+image: "images/onb-labs-symposium-2026-page.png"
+image-alt: "ÖNB Labs Symposium 2026 title graphic reading Collections as Data—Biases as Data"
+image-caption: "ÖNB Labs Symposium 2026 title graphic. Source: https://labs.onb.ac.at/en/topic/symposium-2026/. Rights: Austrian National Library."
+toc: true
+---
+
+<!-- Source: mailing list announcement (johannes.knuechel@onb.ac.at), September 2026; event page: https://labs.onb.ac.at/en/topic/symposium-2026/; registration: https://www.eventbrite.at/e/onb-labs-symposium-2026-tickets-1999259622349 -->
+
+## Details
+
+- Date: Monday, 9 November to Tuesday, 10 November 2026
+- Time: 9 November, 14:15-20:30; 10 November, 09:00-12:30
+- Location: Oratorium of the Austrian National Library, Josefsplatz 1, 1010 Vienna, Austria
+- Language: English
+- Registration: [Eventbrite](https://www.eventbrite.at/e/onb-labs-symposium-2026-tickets-1999259622349)
+- Cost: Free, limited capacity
+- Event page: [ÖNB Labs Symposium 2026](https://labs.onb.ac.at/en/topic/symposium-2026/)
+
+## About the symposium
+
+The fourth ÖNB Labs Symposium, held on site at the Austrian National Library, addresses the many forms bias takes in cultural heritage data and its consequences for GLAM institutions and their labs worldwide. Against a growing professional debate, the symposium brings together researchers who share perspectives on gender bias in cultural heritage data, cultural influences on collecting and curation practices, and the effects of algorithmic bias in sector-specific tools and technologies. A closing panel discussion examines current challenges and approaches for mitigating potential bias.
+
+The programme runs across two half-days. Session 1 covers gender bias, with contributions from Ariadne (Austrian National Library), the University of Regensburg, and the University of Vienna. Session 2 addresses cultural and algorithmic bias, with speakers from Sciences Po Paris, the University of St. Gallen, the Haus der Geschichte Österreich, and TU Wien. Session 3 continues this theme on the second day, with contributions from the Deutsches Filminstitut & Filmmuseum and the University of Amsterdam. The symposium closes with a panel discussion on mitigation practices, featuring participants from the University for Continuing Education Krems, Centrum Wiskunde & Informatica Amsterdam, and the University of Vienna.
+
+Attendance is free, but places are limited.
