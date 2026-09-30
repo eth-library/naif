@@ -1,0 +1,54 @@
+---
+title: "University Rankings Under Scrutiny"
+date: 2026-11-03
+author: "Sophia Dörner, Tung Tung Chan, Dr Sarah Spiegel and Thed van Leeuwen"
+author-title: "Organizer"
+description: "An interactive online workshop on Open Access as a performance indicator and institutional perspectives on university rankings from Germany and the Netherlands."
+categories:
+  - "Related Topic"
+tags:
+  - "Research assessment"
+  - "Open Access"
+  - "University rankings"
+proofread: false
+lang: en-UK
+image: "images/oa-datenpraxis-project.png"
+image-alt: "OA Datenpraxis project homepage describing its work on data practices for the Open Access transformation"
+image-caption: "Screenshot of the OA Datenpraxis project homepage. Source: https://oa-datenpraxis.de/. Rights: OA Datenpraxis; website content licensed under CC BY 4.0 unless otherwise indicated."
+toc: true
+---
+
+<!-- Source: Sophia Dörner's Bibnez mailing list announcement of 29 September 2026, supplied to NAIF. The announcement provides the rescheduled date and replacement registration link. The original event page still lists 26 June 2026: https://oa-datenpraxis.de/en/events/webinar_20260626.html -->
+
+## Details
+
+- Date: Tuesday, 3 November 2026
+- Time: 10:00–12:30 CET (UTC+1)
+- Location: Online via Zoom
+- Language: English
+- Registration: [Register via Zoom](https://uni-goettingen.zoom-x.de/meeting/register/ErDUh2FaSZ6m4BYjYOQXaQ)
+- Event page: [OA Datenpraxis workshop announcement](https://oa-datenpraxis.de/en/events/webinar_20260626.html) (original announcement; still lists the cancelled June date)
+
+This is the rescheduled session following the cancellation of the original workshop due to illness. The date and registration link above follow the organisers' announcement of 29 September 2026.
+
+## About the workshop
+
+University rankings influence institutional strategy and research policy, but their methods, indicators and effects on research culture warrant critical examination. This interactive workshop explores how rankings incorporate Open Access, where their limitations lie and how institutions can respond more critically and transparently.
+
+The workshop is aimed at colleagues working in research evaluation, institutional strategy, library management and Open Access. It addresses questions relevant to NAIF's work on the responsible use of quantitative indicators in research assessment.
+
+## Programme
+
+Three short presentations introduce complementary perspectives, each followed by a structured discussion:
+
+- **Open Access as a performance indicator:** Sophia Dörner (Göttingen State and University Library / OA Datenpraxis) examines the data sources and methodological choices behind the use of Open Access in rankings, and the implications for institutional strategy.
+- **Dutch institutional perspectives:** Tung Tung Chan (Erasmus University Rotterdam) shares experiences of engaging with university rankings in the Netherlands, including approaches to challenging ranking systems.
+- **German institutional perspectives:** Dr Sarah Spiegel (German Rectors' Conference, HRK) discusses challenges identified through the HRK service project on international university rankings and their implications for German institutions.
+
+Participants can share institutional experiences, compare approaches across countries and contribute to practical strategies for interpreting and responding to rankings.
+
+## Organisers and project
+
+The workshop is jointly organised by Sophia Dörner (Göttingen State and University Library), Tung Tung Chan (Erasmus University Rotterdam), Dr Sarah Spiegel (German Rectors' Conference, HRK) and Thed van Leeuwen (CWTS Leiden).
+
+The findings will inform practical guidance for interpreting rankings and responding to them within institutional information management, developed through the DFG-funded [OA Datenpraxis project](https://oa-datenpraxis.de/).
