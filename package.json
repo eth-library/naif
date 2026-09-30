@@ -11,6 +11,7 @@
     "jampack": "npx @divriots/jampack _site",
     "lint": "uv run ruff check .",
     "lint:fix": "uv run ruff check --fix .",
+    "logos:build": "node scripts/build-partner-logos.mjs",
     "lychee-check": "lychee --config .lycheerc.toml './*.md' './*.qmd' './posts/**/*.qmd' './events/**/*.qmd' './dashboards/**/*.qmd'",
     "lychee-check:rendered": "lychee --offline --config .lycheerc.toml './_site/**/*.html'",
     "prepare": "prek install --hook-type pre-commit --hook-type commit-msg",
