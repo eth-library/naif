@@ -1,6 +1,11 @@
 name: Greetings
 
-on: [pull_request, issues]
+# Use the base repository token for fork PRs; this workflow never checks out PR code.
+on: [pull_request_target, issues]
+
+permissions:
+  issues: write
+  pull-requests: write
 
 jobs:
   greeting:

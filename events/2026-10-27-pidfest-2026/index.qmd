@@ -17,15 +17,16 @@ image-caption: "Screenshot of the PIDfest 2026 homepage. Source: https://www.pid
 toc: true
 ---
 
-<!-- Source: <https://www.pidfest.org/home>; programme: <https://www.pidfest.org/programme>; keynotes: <https://www.pidfest.org/programme/keynotes>; registration: <https://www.pidfest.org/register> -->
+<!-- Source: <https://www.pidfest.org/home>; programme: <https://www.pidfest.org/programme>; keynotes: <https://www.pidfest.org/programme/keynotes>; registration (virtual): <https://event.surf.nl/pidfest26/registration/> -->
 
 ## Details
 
 - Date: 27-29 October 2026
-- Location: Leiden, the Netherlands
-- Registration: <https://www.pidfest.org/register>
+- Location: Naturalis, Leiden, the Netherlands
+- Registration: <https://event.surf.nl/pidfest26/registration/> (free virtual attendance; in-person registration is closed)
 - Event page: <https://www.pidfest.org/home>
 - Programme: <https://www.pidfest.org/programme>
+- Schedule: <https://pretalx.surf.nl/pidfest-26-2026/schedule/>
 - Keynotes: <https://www.pidfest.org/programme/keynotes>
 
 ## About
@@ -34,4 +35,4 @@ PIDfest 2026 is an international conference on persistent identifiers, hosted by
 
 The conference focuses on how persistent identifiers can support world-class research infrastructure. Its stated goal is to convene the global PID community to discuss practical infrastructure challenges and accelerate research and innovation through problem-solving workshops, presentations, panel discussions, and participant-driven exchange.
 
-The full programme is still being developed. The current outline includes three conference days, with keynote speakers Felienne Hermans, Cameron Neylon, and Suze Kundu already announced.
+The full programme is now available. It spans three conference days and may still change before the event. The keynote speakers are Felienne Hermans, Cameron Neylon, and Suze Kundu.
