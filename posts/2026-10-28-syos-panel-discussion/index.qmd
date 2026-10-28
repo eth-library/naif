@@ -10,9 +10,9 @@ tags:
   - "SYoS"
   - "Panel discussion"
 proofread: false
-image: "images/keyvisual-syos-eth-banner.png"
-image-alt: "Swiss Year of Scientometrics key visual with SYoS lettering"
-image-caption: "Swiss Year of Scientometrics key visual. Source: [Swiss Year of Scientometrics (SYoS)](https://yearofscientometrics.ethz.ch/). Rights: ETH Library."
+image: "images/syos-panel-discussion.jpg"
+image-alt: "Six panellists seated at a table in front of a projected slide, with the moderator standing at the right and an audience in the foreground"
+image-caption: "Panel at the SYoS panel discussion in Bern, 16 September 2026. Photo: Universität Bern, Dres Hubacher. Source: [original article](https://yearofscientometrics.ethz.ch/reflecting-on-the-challenges-of-responsible-research-assessment-insights-from-the-syos-panel-discussion/)."
 other-links:
   - text: "Related event: SYoS panel discussion"
     href: "../../events/2026-09-16-syos-panel-discussion/"
