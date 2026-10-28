@@ -19,7 +19,7 @@ other-links:
 source:
   url: "https://yearofscientometrics.ethz.ch/reflecting-on-the-challenges-of-responsible-research-assessment-insights-from-the-syos-panel-discussion/"
   note: "Repost with permission. Originally published by Swiss Year of Scientometrics (SYoS)."
-draft: true
+draft: false
 ---
 
 ::: {.callout-note title="Source"}
