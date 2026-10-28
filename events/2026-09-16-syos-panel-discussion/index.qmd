@@ -7,6 +7,8 @@ description: "Six panellists from research, university management, research supp
 other-links:
   - text: "Related event: SYoS workshop no 7"
     href: "../2026-09-17-syos-workshop-no-7/"
+  - text: "Related post: Reflecting on the challenges of responsible research assessment"
+    href: "../../posts/2026-10-28-syos-panel-discussion/"
 categories:
   - "Participation by NAIF"
 tags:

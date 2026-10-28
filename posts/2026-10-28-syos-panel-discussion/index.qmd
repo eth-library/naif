@@ -1,0 +1,37 @@
+---
+title: "Reflecting on the challenges of responsible research assessment: Insights from the SYoS panel discussion"
+date: 2026-10-28
+author: "Dr Laura Velte"
+description: "A SYoS panel discussed research assessment, disciplinary differences, and the effects of AI."
+categories:
+  - "Track 1"
+tags:
+  - "Research assessment"
+  - "SYoS"
+  - "Panel discussion"
+proofread: false
+image: "images/keyvisual-syos-eth-banner.png"
+image-alt: "Swiss Year of Scientometrics key visual with SYoS lettering"
+image-caption: "Swiss Year of Scientometrics key visual. Source: [Swiss Year of Scientometrics (SYoS)](https://yearofscientometrics.ethz.ch/). Rights: ETH Library."
+other-links:
+  - text: "Related event: SYoS panel discussion"
+    href: "../../events/2026-09-16-syos-panel-discussion/"
+source:
+  url: "https://yearofscientometrics.ethz.ch/reflecting-on-the-challenges-of-responsible-research-assessment-insights-from-the-syos-panel-discussion/"
+  note: "Repost with permission. Originally published by Swiss Year of Scientometrics (SYoS)."
+draft: true
+---
+
+::: {.callout-note title="Source"}
+Repost with permission. The [original article](https://yearofscientometrics.ethz.ch/reflecting-on-the-challenges-of-responsible-research-assessment-insights-from-the-syos-panel-discussion/) was published by the Swiss Year of Scientometrics (SYoS) on 28 October 2026. This post summarises it.
+:::
+
+At the SYoS panel discussion in Bern on 16 September 2026, six panellists discussed how research assessment can account for differences between disciplines and career stages. Katrin Brugger moderated the discussion, which about 40 people attended.
+
+The panellists agreed that diversity is central to assessment. They saw the Declaration on Research Assessment (DORA) as a useful prompt to debate what metrics can and cannot capture. They argued that quantitative and qualitative evidence should be read together. The SNSF Narrative CV was welcomed as a way for researchers to explain their impact, especially for social scientists. Software and other non-publication outputs also deserve recognition. Screening by indicators can help manage large numbers of applications before qualitative review.
+
+Implementing reforms such as CoARA across faculties proved difficult. Research cultures, generational views and concerns about institutional autonomy all play a part.
+
+The discussion also addressed AI. Speakers noted a rise in submitted output and possible misconduct, such as plagiarism and paper mills. They also saw potential benefits, because AI-assisted writing may reduce language-related noise. The panel raised longer-term questions about the human role in research.
+
+Finally, the panellists stressed that universities must account to society for what they consider excellence. Future debates, they suggested, should involve policymakers more closely.
