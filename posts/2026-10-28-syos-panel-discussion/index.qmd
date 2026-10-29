@@ -2,7 +2,7 @@
 title: "Reflecting on the challenges of responsible research assessment: Insights from the SYoS panel discussion"
 date: 2026-10-28
 author: "Dr Laura Velte"
-description: "A SYoS panel discussed research assessment, disciplinary differences, and the effects of AI."
+description: "Experts from different backgrounds came together at a SYoS panel discussion, co-organised by the ETH Library and the University of Bern, to discuss current challenges and perspectives in responsible research assessment, including disciplinary differences and the implications of AI."
 categories:
   - "Track 1"
 tags:
