@@ -7,6 +7,8 @@ description: "SYoS workshop no 7 presenting and discussing survey results from N
 other-links:
   - text: "Related event: SYoS panel discussion"
     href: "../2026-09-16-syos-panel-discussion/"
+  - text: "Related post: Open and responsible scientometric evidence"
+    href: "../../posts/2026-11-03-open-responsible-scientometric-evidence-syos-workshop/"
 categories:
   - "Participation by NAIF"
 tags:
